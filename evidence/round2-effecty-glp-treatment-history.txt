@@ -1,0 +1,17 @@
+Browser tab: 285221924, Title: "Start your weight loss visit · Effecty", URL: "https://start.effecty.com/weight-loss/glp1_history?promo=SAVEMORE".
+1 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/glp1_history?promo=SAVEMORE
+	2 container
+		3 button Back
+			4 image
+			5 text Back
+		6 image Effecty
+	7 container
+		8 heading Are you currently taking a GLP-1 medication?, Value: 1
+			9 text Are you currently taking a GLP-1 medication?
+		10 text This helps your provider pick the right starting dose.
+		11 radio button Yes, semaglutide Ozempic®, Wegovy®, Rybelsus® or compounded, Value: 0
+		12 radio button Yes, tirzepatide Zepbound®, Mounjaro® or compounded, Value: 0
+		13 radio button I've tried a GLP-1, but not in the past 2 months, Value: 0
+		14 radio button I've never taken a GLP-1, Value: 1
+
+The focused UI element is 1 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/glp1_history?promo=SAVEMORE

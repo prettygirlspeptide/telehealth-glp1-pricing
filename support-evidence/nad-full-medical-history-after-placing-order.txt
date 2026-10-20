@@ -1,0 +1,29 @@
+  - region "What information do I need to provide after placing my order?":
+    - paragraph: "Patients need to provide the following so our providers can verify that treatments will be safe and effective:"
+    - list:
+      - listitem: A current/ valid form of ID
+      - listitem: Height and weight
+      - listitem: A list of current medications
+      - listitem: A list of any drug allergies
+      - listitem: A list of current diagnoses or conditions for taking prescriptive medications
+    - paragraph: "For hormonal treatments, patients may need to provide:"
+    - list:
+      - listitem: Blood pressure readings taken within the last year (required for combination birth control pills)
+      - listitem: The date of your last menstrual period
+    - paragraph:
+      - emphasis: "Disclaimer: Additional lab and/or diagnostics (like photos) may be required based on treatment request"
+  - heading "Will I still be charged if I am not approved for treatment?" [level=3]:
+    - button "Will I still be charged if I am not approved for treatment?":
+      - text: Will I still be charged if I am not approved for treatment?
+  - heading "Wisp Care Team" [level=2]
+  - img "Shannon Chatham wearing blue scrubs"
+  - paragraph: NAD+ Nasal Spray is a convenient, non-injectable option for patients looking to support focus, mental clarity, and overall cognitive performance. It’s often used as an easy entry point into NAD+ therapy and fits seamlessly into a daily wellness routine.
+  - generic: Dr. Shannon Chatham, DO
+  - heading "As seen in" [level=4]
+  - img "Inc. Best in Business 2025"
+  - img "CNN logo"
+  - img "New York Times logo"
+  - img "Forbes logo"
+  - img "Healthline logo"
+  - img "Fast Company logo"
+  - heading "Wisp Company Reviews" [level=3]

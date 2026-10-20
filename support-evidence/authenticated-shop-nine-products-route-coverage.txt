@@ -1,0 +1,61 @@
+AUTHENTICATED CATALOGUE COVERAGE ONLY, NOT INTAKE QUOTES.
+No headlines below were promoted to observed pricing. No account history, treatment management, cancellation or final clinical submission controls were used.
+
+Browser tab: 285221945, Title: "Shop | Good Life Meds", URL: "https://portal.goodlifemeds.com/shop".
+1 AXWebArea Shop | Good Life Meds, URL: portal.goodlifemeds.com/shop
+	2 container
+		3 container Notifications (F8)
+			4 content list
+		5 container nextstepjs-scrollable-viewport
+			6 container
+				7 container sidebar-top
+					8 link Description: Bask Logo, Value: portal.goodlifemeds.com/patient-v3
+					9 link Description: Home, Value: portal.goodlifemeds.com/patient-v3
+					10 link Description: Chat, Value: portal.goodlifemeds.com/patient-v3/messages
+					11 link Description: Treatments, Value: portal.goodlifemeds.com/patient-v3/treatments
+					12 link Description: Shots, Value: portal.goodlifemeds.com/patient-v3/shots
+					13 link Description: Shop, Value: portal.goodlifemeds.com/patient-v3/shop
+				14 container sidebar-bottom
+					15 link Description: Manage account, Value: portal.goodlifemeds.com/patient-v3/account/profile
+					16 link Description: Homepage, Value: goodlifemeds.com/
+					17 link Description: Email Support, Value: mailto:Care@GoodLifemeds.com
+			18 container
+				19 heading Shop, Value: 4
+					20 text Shop
+				21 button
+					22 image
+				23 pop up button (collapsed) Secondary Actions: Expand
+			24 container
+				35 button Required action Complete your Weight Loss visit to ensure your prescription is issued and treatment can begin. Complete your visit Cancel visit
+					36 container
+						37 text Required action Complete your  Weight Loss  visit to ensure your prescription is issued and treatment can begin.
+						38 button Complete your visit
+						39 button Cancel visit
+				25 button
+					26 image
+				27 button
+					28 image
+				29 heading Need help exploring the portal?, Value: 5
+					30 text Need help exploring the portal?
+				31 text Start the tour anytime. Always ready to help.
+				32 button Show me around
+					33 image
+					34 text Show me around
+				40 text Discover what truly fits your lifestyle. From daily energy to long-term balance. Your goals, your way.
+				41 text field (settable)
+				42 image
+				43 text All
+				44 text Longevity
+				45 text Weight Loss
+				46 text 9  products
+				47 link Description: Vitamin B12 ᴿˣ LONGEVITY . RX Vitamin B12 ᴿˣ As low as $119/mo*, Value: portal.goodlifemeds.com/patient-v3/shop/product/20721
+				48 link Description: Lipotropic (MIC) + B12 ᴿˣ LONGEVITY . RX Lipotropic (MIC) + B12 ᴿˣ As low as $129/mo*, Value: portal.goodlifemeds.com/patient-v3/shop/product/20720
+				49 link Value: portal.goodlifemeds.com/patient-v3/shop/product/20717, Description: Slim Shot®: Lipo(MIC), B12, L-Carnitine ᴿˣ RX Slim Shot®: Lipo(MIC), B12, L-Carnitine ᴿˣ As low as $169/mo*
+				50 link Description: NAD+ Injections ᴿˣ LONGEVITY . RX NAD+ Injections ᴿˣ As low as $174/mo*, Value: portal.goodlifemeds.com/patient-v3/shop/product/20035
+				51 link Description: NAD+ Nasal Spray ᴿˣ LONGEVITY . RX NAD+ Nasal Spray ᴿˣ As low as $139/mo*, Value: portal.goodlifemeds.com/patient-v3/shop/product/20034
+				52 link Description: Compounded Tirzepatide ᴿˣ WEIGHT LOSS . RX Compounded Tirzepatide ᴿˣ As low as $297/mo*, Value: portal.goodlifemeds.com/patient-v3/shop/product/19970
+				53 link Description: Sermorelin ᴿˣ RX Sermorelin ᴿˣ As low as $149/mo*, Value: portal.goodlifemeds.com/patient-v3/shop/product/15139
+				54 link Description: Glutathione ᴿˣ LONGEVITY . RX Glutathione ᴿˣ As low as $149/mo*, Value: portal.goodlifemeds.com/patient-v3/shop/product/12276
+				55 link Description: Compounded Semaglutide ᴿˣ WEIGHT LOSS . RX Compounded Semaglutide ᴿˣ As low as $199/mo*, Value: portal.goodlifemeds.com/patient-v3/shop/product/30977
+
+The focused UI element is 1 AXWebArea Shop | Good Life Meds, URL: portal.goodlifemeds.com/shop

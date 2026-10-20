@@ -1,0 +1,15 @@
+Browser tab: 285221924, Title: "Start your weight loss visit · Effecty", URL: "https://start.effecty.com/weight-loss/sensitivities?promo=SAVEMORE".
+0 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/sensitivities?promo=SAVEMORE
+	1 container
+		2 button Back
+			3 image
+			4 text Back
+		5 image Effecty
+		6 heading Do you tend to be sensitive to medications?, Value: 1
+			7 text Do you tend to be sensitive to medications?
+		8 text Some people feel side effects more easily than others.
+		9 radio button Yes, Value: 0
+		10 radio button No, Value: 0
+		11 radio button Not sure, Value: 1
+
+The focused UI element is 0 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/sensitivities?promo=SAVEMORE

@@ -1,0 +1,50 @@
+  - dialog "Order Summary":
+    - heading "Order Summary" [level=2]
+    - button "Back":
+      - generic: Back
+    - heading "Order Summary" [level=2]
+    - progressbar "Consultation progress"
+    - paragraph: Bremelanotide Nasal Spray (PT-141)
+    - button "Remove"
+    - paragraph: $175.00
+    - paragraph: To pay today
+    - paragraph: $175.00
+    - button "Add to Cart ($175.00)":
+      - generic: Add to Cart ($175.00)
+    - paragraph:
+      - text: Need to start over? Click
+      - button "here"
+    - button "Previous":
+      - generic: Previous
+  - heading "How does PT-141 work?" [level=3]:
+    - button "How does PT-141 work?" [expanded]:
+      - text: How does PT-141 work?
+  - region "How does PT-141 work?":
+    - paragraph: Most sexual wellness products, like vasodilators and other blood flow enhancers, work by addressing the physical mechanics of arousal. PT-141 is different. Bremelanotide is a melanocortin receptor agonist, meaning it acts centrally on the brain’s own desire pathways rather than on peripheral blood flow. It’s sometimes called a “desire switch” because it targets the neurological origin of sexual desire itself, making it particularly relevant for those who have tried other solutions and still aren’t seeing changes to their libido or desire.
+  - heading "Who is PT-141 for?" [level=3]:
+    - button "Who is PT-141 for?":
+      - text: Who is PT-141 for?
+  - heading "Product Details" [level=3]:
+    - button "Product Details":
+      - text: Product Details
+  - heading "How It Works" [level=2]
+  - region "Carousel":
+    - generic: Step 1
+    - heading "Explore Care Options" [level=3]
+    - generic: Get the care you need on your terms. Feeling unsure? We're here to help you find the right fit.
+    - generic: Step 2
+    - heading "Our Experts Review" [level=3]
+    - generic: If needed, a licensed medical provider will follow up same day by secure chat or video to ensure you receive safe and effective care.
+    - generic: Step 3
+    - heading "FREE Delivery" [level=3]
+    - generic: Have your care shipped FREE to your home in discreet packaging.
+    - generic: Step 4
+    - heading "Our Doors Are Always Open" [level=3]
+    - generic: Chat with our Care Team anytime. We’ve got your back.
+  - heading "Bremelanotide (PT-141) Nasal Solution FAQ" [level=2]
+  - heading "Do I need a prescription for PT-141?" [level=3]:
+    - button "Do I need a prescription for PT-141?":
+      - text: Do I need a prescription for PT-141?
+  - heading "How is PT-141 different from OMG! Cream or other topicals?" [level=3]:
+    - button "How is PT-141 different from OMG! Cream or other topicals?":
+      - text: How is PT-141 different from OMG! Cream or other topicals?

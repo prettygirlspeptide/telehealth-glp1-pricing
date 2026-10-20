@@ -1,0 +1,30 @@
+  - dialog "Order Summary":
+    - heading "Order Summary" [level=2]
+    - button "Back":
+      - generic: Back
+    - heading "Order Summary" [level=2]
+    - progressbar "Consultation progress"
+    - paragraph: GHK-Cu Face Cream
+    - button "Remove"
+    - paragraph: $102.50
+    - paragraph: To pay today
+    - paragraph: $102.50
+    - button "Add to Cart ($102.50)":
+      - generic: Add to Cart ($102.50)
+    - paragraph:
+      - text: Need to start over? Click
+      - button "here"
+    - button "Previous":
+      - generic: Previous
+  - heading "What is GHK-Cu and how does it work?" [level=3]:
+    - button "What is GHK-Cu and how does it work?" [expanded]:
+      - text: What is GHK-Cu and how does it work?
+  - region "What is GHK-Cu and how does it work?":
+    - paragraph: GHK-Cu (copper peptide GHK-Cu) is a naturally occurring peptide found in human plasma. In younger adults, it plays a key role in stimulating collagen and elastin synthesis, supporting skin repair, and visibly soothing the skin. Applied topically, GHK-Cu can help support cellular signaling to increase collagen production, improve structural integrity, and complement the body's natural defense mechanisms. At 0.5%, this formulation delivers a higher concentration than the majority of over-the-counter copper peptide serums (typically 0.1–0.3%), making it a meaningful step up in potency.
+  - heading "How do I use GHK-Cu Topical Cream?" [level=3]:
+    - button "How do I use GHK-Cu Topical Cream?":
+      - text: How do I use GHK-Cu Topical Cream?
+  - heading "Product Details" [level=3]:
+    - button "Product Details":
+      - text: Product Details
+  - heading "How It Works" [level=2]

@@ -1,0 +1,37 @@
+  - dialog "Consultation":
+    - heading "Consultation" [level=2]
+    - button "Back":
+      - generic: Back
+    - heading "Consultation" [level=2]
+    - progressbar "Consultation progress"
+    - heading "What to Expect" [level=3]
+    - paragraph:
+      - strong: "Step 1: Today"
+    - list:
+      - listitem: Pay $99 for your Weight Care Consult and complete your medical intake form.
+    - paragraph:
+      - strong: "Step 2: Within 2 Business Days"
+    - list:
+      - listitem: If eligible, your provider will send your prescription to your local pharmacy.
+    - paragraph:
+      - strong: "Step 3: Pharmacy Pickup"
+    - list:
+      - listitem: Pick up your medication at your pharmacy. Medication costs are paid separately at the pharmacy.
+    - paragraph:
+      - strong: "Step 4: Every Month"
+    - list:
+      - paragraph: Your card will be authorized for $99 (but not yet charged). Complete a quick medical intake form, and your provider will review your progress. If needed, your dosage may be adjusted.
+      - paragraph: Once your check-in is complete and your refill prescription is sent to the pharmacy, your card will be charged. Medication costs are paid separately at the pharmacy. This process repeats each month as you continue your treatment plan.
+    - button "Local Pickup Pickup same-day at your local pharmacy. Medication costs are paid separately at the pharmacy. $99 paid monthly":
+      - generic: Local Pickup
+      - generic: Pickup same-day at your local pharmacy. Medication costs are paid separately at the pharmacy.
+      - generic: $99 paid monthly
+    - button "Previous":
+      - generic: Previous
+    - button "Next" [active]:
+      - generic: Next
+  - heading "Our Standards" [level=3]:
+    - button "Our Standards" [expanded]:
+      - text: Our Standards
+  - region "Our Standards":
+    - paragraph: Here's why we are trusted by 2 million+ nationwide

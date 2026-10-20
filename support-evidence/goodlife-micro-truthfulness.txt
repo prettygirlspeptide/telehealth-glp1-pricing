@@ -1,0 +1,28 @@
+Browser tab: 285221979, Title: "GLP-1 Microdosing | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glp-microdosing?promo=DW20".
+0 AXWebArea GLP-1 Microdosing | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-microdosing?promo=DW20
+	1 container
+		2 container questionnaire-container
+			5 container
+				11 button Back
+					12 image
+					13 text Back
+				6 image Logo
+				7 pop up button (collapsed) Secondary Actions: Expand
+					8 image
+				9 pop up button (collapsed) Secondary Actions: Expand
+					10 image
+			14 container
+				15 heading Consent (Truthfulness):, Value: 4
+					16 text Consent (Truthfulness):
+				17 text Please attest to the following confirming that all information you have provided to us is true and complete.
+				18 button Consent:
+					19 heading Consent:, Value: 2
+						20 text Consent:
+					21 image
+				22 text I verify that I am the patient and that I have answered the questions asked in this intake form. I confirm that I have reviewed and understood all the questions asked of me. I attest that the answers and information I have provided in this questionnaire is true and complete to the best of my knowledge. I understand that it is critical to my health to share complete health information with my doctor. I will not hold the doctor or affiliated medical practice responsible for any oversights or omissions, whether intentional or not, in the information that I provided.
+				23 container headlessui-label-_r_0_
+					24 switch Description: I have read the above information and I do consent and wish to move forward, Value: 0, ID: headlessui-switch-_r_1_
+					25 text I have read the above information and I do consent and wish to move forward
+				26 button (disabled) Next
+
+The focused UI element is 0 AXWebArea GLP-1 Microdosing | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-microdosing?promo=DW20

@@ -1,0 +1,104 @@
+- main:
+  - region "Account":
+    - heading "Account" [level=3]:
+      - button "Account" [expanded]:
+        - heading "Account" [level=4]
+    - region "Account":
+      - button "Already have an account? Log in to continue" [active]
+      - generic: "Important Notice: Please ensure the accuracy of your legal name and date of birth as listed on your official ID (e.g., driver's license, passport). Once submitted, you won't be able to modify this information. Accurate details are crucial for the correct processing of prescriptions and maintaining the security of your account."
+      - text: First Name*
+      - generic: As appears on official ID.
+      - textbox "First Name* As appears on official ID."
+      - text: Last Name*
+      - generic: As appears on official ID.
+      - textbox "Last Name* As appears on official ID."
+      - text: Email Address*
+      - textbox "Email Address*"
+      - text: Phone Number*
+      - textbox "Phone Number*"
+      - group "Date of Birth* As appears on official ID.":
+        - text: Date of Birth*
+        - generic: As appears on official ID.
+        - combobox "Birth month":
+          - text: MM
+        - combobox
+        - combobox "Birth day":
+          - text: DD
+        - combobox
+        - combobox "Birth year":
+          - text: YYYY
+        - combobox
+      - text: Create Password*
+      - textbox "Create Password*"
+      - button:
+      - text: Confirm Password*
+      - textbox "Confirm Password*"
+      - button:
+      - checkbox
+      - checkbox
+      - text: "By selecting the checkbox, I consent to the following: the processing of my personal data as described in the"
+      - link "Privacy Policy":
+        - /url: /privacy
+      - text: ", the guidelines for using the website or service in the"
+      - 'button "By selecting the checkbox, I consent to the following: the processing of my personal data as described in thePrivacy Policy, the guidelines for using the website or service in the , and the benefits and risks outlined in the Telehealth Informed Consent .*"': Terms & Conditions
+      - text: ", and the benefits and risks outlined in the"
+      - button "Telehealth Informed Consent"
+      - text: .*
+      - button "Create Account"
+  - region "Patient Information":
+    - heading "Patient Information" [level=3]:
+      - button "Patient Information":
+        - heading "Patient Information" [level=4]
+        - separator
+  - region "Pharmacy":
+    - heading "Pharmacy" [level=3]:
+      - button "Pharmacy":
+        - heading "Pharmacy" [level=4]
+        - separator
+  - region "Shipping Address":
+    - heading "Shipping Address" [level=3]:
+      - button "Shipping Address":
+        - heading "Shipping Address" [level=4]
+        - separator
+  - region "Subscriptions":
+    - heading "Subscriptions" [level=3]:
+      - button "Subscriptions":
+        - heading "Subscriptions" [level=4]
+        - separator
+  - region "Payment":
+    - heading "Payment" [level=3]:
+      - button "Payment":
+        - heading "Payment" [level=4]
+        - separator
+  - heading "Order Summary" [level=4]
+  - link "Edit Cart":
+    - /url: /cart
+  - separator
+  - generic: NAD+ Nasal Spray
+  - generic: $150.00
+  - generic: 1-Month Subscription
+  - generic: Delivery
+  - heading "Pay Later" [level=3]
+  - generic: Prescription
+  - generic: TBD
+  - paragraph: If prescribed, medication costs will apply at your local pharmacy unless home delivery is selected. Your one-time consult fee covers your virtual visit and unlimited Care Team messaging. If you cannot be prescribed any treatment, you will be charged a fee of up to $25 instead of the full consult price in order to cover your provider's review.
+  - separator
+  - text: Sub-total (1 item)
+  - generic: $150.00
+  - text: Shipping
+  - generic: Free
+  - text: Tax
+  - generic: TBD
+  - separator
+  - text: Total Due Today
+  - generic: $150.00
+  - separator
+  - note:
+    - paragraph:
+      - text: For subscription items, you will be billed
+      - strong: $150.00 every 1 month
+      - text: .
+  - separator
+  - text: Need help? Email
+  - link "support@hellowisp.com":
+    - /url: mailto:support@hellowisp.com

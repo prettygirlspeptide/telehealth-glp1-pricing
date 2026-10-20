@@ -1,0 +1,136 @@
+Browser tab: 285221693, Title: "Longevity, Weight & Performance Solutions | ReadyRx", URL: "https://readyrx.com/treatments".
+0 AXWebArea Longevity, Weight & Performance Solutions | ReadyRx, URL: readyrx.com/treatments
+	1 container
+		2 container w-node-_8e7b004f-8db6-7413-2034-222dabddbf0f-abddbf09
+			3 image
+			4 container
+				5 text Welcome to Ready Rx
+		6 container
+			7 link Description: Ready Rx - Go to homepage, Value: readyrx.com/
+			8 content list
+				9 button Metabolic health
+					10 text Metabolic health
+					11 image
+				12 button Hormone health
+					13 text Hormone health
+					14 image
+				15 button Energy & Recovery
+					16 text Energy & Recovery
+					17 image
+				18 link Description: All treatments, Value: readyrx.com/treatments
+			19 link Description: Login, Value: app.readyrx.com/account
+	20 container main
+		21 container
+			22 image Close-up image of cells
+			23 text Personalized care, 100% online
+			24 heading All treatments, Value: 1
+				25 text All treatments
+		26 container
+			27 checkbox All, Value: 1
+			28 checkbox Metabolic, Value: 0
+			29 checkbox Hormone, Value: 0
+			30 checkbox Energy & Recovery, Value: 0
+			31 content list
+				32 link Description: View treatment details, Value: readyrx.com/treatments/na
+				33 link Description: View treatment details, Value: readyrx.com/treatments/nan
+				34 link Description: View treatment details, Value: readyrx.com/treatments/ser
+				35 link Description: View treatment details, Value: readyrx.com/treatments/sero
+				36 link Description: View treatment details, Value: readyrx.com/treatments/gl
+				37 link Description: View treatment details, Value: readyrx.com/treatments/gln
+				38 link Description: View treatment details, Value: readyrx.com/treatments/me
+				39 link Description: View treatment details, Value: readyrx.com/treatments/lb
+				40 link Description: View treatment details, Value: readyrx.com/treatments/se
+				41 link Description: View treatment details, Value: readyrx.com/treatments/ti
+		42 container
+			131 image
+			132 text Potency Tested A test to check the medication contains the correct concentration of active ingredient.
+			43 image A glass dropper releases liquid onto a clear petri dish sitting on a gold-colored surface. The liquid, compounded in the USA, forms a single large drop in the center of the dish.
+		44 container
+			45 text 4.8/5 on Trust Pilot
+			46 heading Real people, real outcomes, Value: 2
+				47 text Real people, real outcomes
+		48 container
+			49 text Our blog
+			50 heading Latest insights, Value: 2
+				51 text Latest insights
+			52 container
+				53 content list swiper-wrapper-feae0a5937f50c18
+					54 container 1 / 17
+						55 link Description: Read the full article, Value: readyrx.com/blog/glp-1s-are-they-even-effective
+					56 container 2 / 17
+						57 link Description: Read the full article, Value: readyrx.com/blog/glp-1s-and-fatigue-do-glp-1s-make-you-tired
+					58 container 3 / 17
+						59 link Description: Read the full article, Value: readyrx.com/blog/sleep-muscle-and-metabolism-the-overlooked-benefits-of-sermorelin
+					60 container 4 / 17
+						61 link Description: Read the full article, Value: readyrx.com/blog/what-to-expect-when-starting-sermorelin-results-and-timeline
+					62 container 5 / 17
+						63 link Description: Read the full article, Value: readyrx.com/blog/the-role-of-nad-in-brain-health-cognitive-benefits-you-should-know
+					64 container 6 / 17
+						65 link Description: Read the full article, Value: readyrx.com/blog/injections-or-drips-the-real-differences-in-how-your-body-absorbs-nad
+					66 container 7 / 17
+						67 link Description: Read the full article, Value: readyrx.com/blog/glp-1s-quick-fix-or-sustainable-solution
+					68 container 8 / 17
+						69 link Description: Read the full article, Value: readyrx.com/blog/glp-1-medications-vs-lifestyle-changes-do-you-need-both
+					70 container 9 / 17
+						71 link Description: Read the full article, Value: readyrx.com/blog/can-nad-improve-memory-and-focus
+					72 container 10 / 17
+						73 link Description: Read the full article, Value: readyrx.com/blog/sermorelin-vs-hgh-which-is-safer-for-performance-and-longevity
+					74 container 11 / 17
+						75 link Description: Read the full article, Value: readyrx.com/blog/sermorelin-can-it-boost-performance-naturally
+					76 container 12 / 17
+						77 link Description: Read the full article, Value: readyrx.com/blog/nad-unlocks-cellular-energy-and-healthy-aging
+					78 container 13 / 17
+						79 link Description: Read the full article, Value: readyrx.com/blog/sermorelin-boost-your-growth-hormone
+					80 container 14 / 17
+						81 link Description: Read the full article, Value: readyrx.com/blog/mic-b12-what-you-need-to-know
+					82 container 15 / 17
+						83 link Description: Read the full article, Value: readyrx.com/blog/nad-nasal-vs-injections
+					84 container 16 / 17
+						85 link Description: Read the full article, Value: readyrx.com/blog/how-do-glp-1s-work
+					86 container 17 / 17
+						87 link Description: Read the full article, Value: readyrx.com/blog/what-is-nad
+	88 container
+		89 heading Footer, Value: 2
+			90 text Footer
+		91 text Shape your  future health
+		92 heading Follow us, Value: 3
+			93 text Follow us
+		94 content list
+			95 link Description: Facebook, Value: facebook.com/people/ReadyRx/61561006166731/?_rdr=
+			96 link Description: Instagram, Value: instagram.com/getreadyrx/
+			97 link Description: Linkedin, Value: linkedin.com/company/readyrx/
+		98 link Description: LegitScript approved, Help: Verify LegitScript Approval, Value: legitscript.com/websites/?checker_keywords=readyrx.com
+		99 image ReadyRx is HIPAA compliant
+		100 container
+			101 heading Metabolic health, Value: 3
+				102 text Metabolic health
+			103 content list
+				104 link Description: GLP-1 Injections, Value: readyrx.com/treatments/glp1
+				105 link Description: Glutathione, Value: readyrx.com/treatments/gl
+				106 link Description: Glutathione Nasal Spray, Value: readyrx.com/treatments/gln
+				107 link Description: Metformin, Value: readyrx.com/treatments/me
+		108 container
+			109 heading Hormone health, Value: 3
+				110 text Hormone health
+			111 content list
+				112 link Description: Sermorelin, Value: readyrx.com/treatments/ser
+				113 link Description: Sermorelin ODT, Value: readyrx.com/treatments/sero
+		114 container
+			115 heading Energy & Recovery, Value: 3
+				116 text Energy & Recovery
+			117 content list
+				118 link Description: NAD+, Value: readyrx.com/treatments/na
+				119 link Description: NAD+ Nasal Spray, Value: readyrx.com/treatments/nan
+				120 link Description: MIC+B12, Value: readyrx.com/treatments/lb
+		121 container
+			122 heading Company, Value: 3
+				123 text Company
+			124 content list
+				125 link Description: Contact Us, Value: app.readyrx.com/contact
+				126 link Description: Terms of Use, Value: app.readyrx.com/terms
+				127 link Description: Cookie Consent, Value: app.readyrx.com/cookies
+				128 link Description: Communication, Value: app.readyrx.com/communication-policy
+		129 image
+		130 text Copyright ©2026 ReadyRx™. All rights reserved.
+
+The focused UI element is 0 AXWebArea Longevity, Weight & Performance Solutions | ReadyRx, URL: readyrx.com/treatments

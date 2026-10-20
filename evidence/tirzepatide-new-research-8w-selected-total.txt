@@ -1,0 +1,86 @@
+ACTUAL POST-PROVIDER-QUESTIONNAIRE SELECTED QUOTE; NOT FINAL CLINICAL INTAKE.
+Source: https://app.goodlifemeds.com/start-online-visit/glp-promo
+Tirzepatide8-week plan explicitly selected. Conditional Total if prescribed298; crossed594 is reference, not payable. Charged once prescribed, no current charge/card/Submit. Supply8weeks/billing8weeks; advertised149/mo refers four-week injection units, not calendar-month normalization. Age/sex not asked or verified; California approved address confirmed. Current case question sequence and fictional research disclosure documented separately.
+
+Browser tab: 285221951, Title: "GLP Intake - Promo | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glp-promo".
+0 AXWebArea GLP Intake - Promo | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-promo
+	1 container
+		2 container questionnaire-container
+			3 container
+				4 button Back
+					5 image
+					6 text Back
+				7 image Logo
+				8 pop up button (collapsed) Secondary Actions: Expand
+					9 image
+			10 container
+				12 image
+				13 text FSA/HSA eligible for reimbursement Tirzepatide - Promotional Plan by OptioRx Includes:
+				14 image
+				15 text Pharmacy = OptioRx
+				16 image
+				17 text State licensed 503(a) and PCAB accredited pharmacy
+				18 image
+				19 text Free eligibility check with physician review
+				20 image
+				21 text Expedited shipping, on us
+				22 image
+				23 text On-going care and support
+				24 text Select your medication details... Each month includes 4 weekly injections. Save more with multi-month supply purchases.
+				25 content list
+					26 text LOCK IN YOUR SAVING FOR THE NEXT 12 MONTHS!
+					27 container
+						28 text 4 Week Supply $ 179.00 /mo
+						29 text Plan breakdown:
+						30 content list
+							31 container
+								32 AXListMarker • 
+								33 text $179 billed every 4 weeks (cancel or pause at any time)
+							34 container
+								35 AXListMarker • 
+								36 text Compounded Tirzepatide + Injection Kit
+							37 container
+								38 AXListMarker • 
+								39 text Direct from state-licensed 503(a), OptioRx
+							40 container
+								41 AXListMarker • 
+								42 text Same price at every dose!
+						43 text Cancel or change your plan at anytime through your online account portal.
+						44 image
+						45 text FSA/FHA eligible for reimbursement
+					46 container
+						47 text SAVE EVEN MORE WITH 8 WEEK SHIPMENTS 8 Week Supply $ 149.00 /mo
+						48 text Plan breakdown:
+						49 content list
+							50 container
+								51 AXListMarker • 
+								52 text $298 billed every 8 weeks (cancel or pause at any time)
+							53 container
+								54 AXListMarker • 
+								55 text Compounded Tirzepatide + Injection Kit
+							56 container
+								57 AXListMarker • 
+								58 text Direct from state-licensed 503(a), OptioRX
+							59 container
+								60 AXListMarker • 
+								61 text 8 week supply billed and shipped all at once
+							62 container
+								63 AXListMarker • 
+								64 text Same price at every dose!
+						65 text Cancel or change your plan at anytime through your online account portal.
+						66 image
+						67 text FSA/FHA eligible for reimbursement
+				68 text Total if prescribed $594.00 $ 298.00
+				69 text Select payment method You’ll be charged once prescribed. You won’t be charged if a provider determines that treatment isn’t right for you.
+				70 button Card
+					71 heading Card, Value: 4
+						72 text Card
+					73 AXWebArea about:blank
+					74 AXWebArea about:blank
+					75 AXWebArea about:blank
+				76 button Submit to Provider
+				77 text Compounded drug products are not approved or evaluated by the FDA for safety, effectiveness, or quality. Prescription required. Zepbound® (tirzepatide) and Mounjaro® (tirzepatide) are not compounded. Zepbound® and Mounjaro® are registered trademarks of Eli Lilly. Good Life Meds is not affiliated with or endorsed by Eli Lilly. FSA/HSA eligibility and coverage vary by plan provider. Important: By clicking “Submit to provider” you agree that you are purchasing an automatically renewing subscription and will be billed according to the pricing and billing schedule associated with the plan you select. The amount billed and the billing frequency will depend on whether you choose a 4-week, 12-week, or 24-week plan, as well as the shipping frequency selected. You will not be able to cancel your first shipment. Your subscription will renew according to the terms of your selected plan unless you cancel at least 2 days before the next renewal date. You can view your renewal date and cancel your subscription(s) through your online account or by contacting customer support at care@goodlifemeds.com . Cancellation will take effect at the end of the current subscription period, and we do not offer refunds for partially used subscription periods. As part of your subscription, our partner pharmacy will refill and ship the prescribed product(s) in accordance with your chosen plan and shipping schedule. We will notify you of any actions you need to take to ensure that the prescription associated with your subscription remains active. You are responsible for completing these actions, and unless you have canceled, your subscription will automatically renew even if you have not taken these actions.
+				78 image
+				79 text 256-BIT TLS SECURITY
+
+The focused UI element is 0 AXWebArea GLP Intake - Promo | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-promo

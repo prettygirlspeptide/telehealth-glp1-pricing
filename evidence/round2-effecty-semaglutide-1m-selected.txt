@@ -1,0 +1,101 @@
+Browser tab: 285221924, Title: "Start your weight loss visit · Effecty", URL: "https://start.effecty.com/weight-loss/medication_choice?promo=SAVEMORE".
+1 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/medication_choice?promo=SAVEMORE
+	2 container
+		3 button Back
+			4 image
+			5 text Back
+		6 image Effecty
+	7 container
+		8 heading Choose your treatment plan, Value: 1
+			9 text Choose your treatment plan
+		10 text Prescribed by a licensed provider and shipped free to your door. Longer plans save more.
+		11 Medication
+			12 radio button Tirzepatide from $160/mo Faster & more weight loss, Value: 0
+				13 text Tirzepatide
+				14 text from 
+				15 text $160
+				16 text /mo
+				17 text Faster & more weight loss
+			18 radio button Semaglutide from $95/mo Most affordable, Value: 1
+				19 text Semaglutide
+				20 text from 
+				21 text $95
+				22 text /mo
+				23 text Most affordable
+		24 text GLP-1 Compounded Semaglutide
+		25 Billing term
+			100 radio button Monthly Save $75 $95 for your first month, then $170 monthly $170/mo $95/mo first month, Value: 1
+				101 text Monthly
+				139 text Save 
+				140 text $75
+				141 text $95 for your first month, then $170 monthly
+				142 text $170
+				143 text /mo
+				106 text $95
+				107 text /mo
+				144 text first month
+			109 radio button 3 months Most popular Save $185 $150/mo $108/mo first 3 months, Value: 0
+				110 text 3 months
+				111 text Most popular
+				112 text Save 
+				113 text $185
+				114 text $150
+				115 text /mo
+				116 text $108
+				117 text /mo
+				118 text first 3 months
+			119 radio button 6 months Save $380 $140/mo $107/mo first 6 months, Value: 0
+				120 text 6 months
+				121 text Save 
+				122 text $380
+				124 text $140
+				125 text /mo
+				126 text $107
+				127 text /mo
+				128 text first 6 months
+			129 radio button 12 months Best value Save $780 $130/mo $105/mo first 12 months, Value: 0
+				130 text 12 months
+				131 text Best value
+				132 text Save 
+				133 text $780
+				134 text $130
+				135 text /mo
+				136 text $105
+				137 text /mo
+				138 text first 12 months
+		57 definition list
+			89 container Due if prescribed
+				90 text Due if prescribed
+			91 text $95
+			92 container Billing
+				93 text Billing
+			94 container
+				95 text $95 first, then $170 monthly Cancel anytime
+			96 container Shipping
+				97 text Shipping
+			98 text Free
+		59 container What happens next
+			60 heading What happens next, Value: 2, ID: next-heading
+				61 text What happens next
+			62 content list
+				63 container
+					64 text TODAY Submit your visit Your answers go to a licensed provider in your state.
+				65 container
+					66 text WITHIN 24 HOURS Provider review Your provider reviews your visit and reaches out through secure messaging.
+				67 container
+					68 text IF PRESCRIBED Pharmacy prepares your order Your payment goes through and a state-licensed pharmacy prepares your medication.
+				69 container
+					70 text FREE Expedited delivery Shipped to your door with your injection supplies.
+		71 button Continue with Compounded Semaglutide
+			72 text Continue with 
+			99 text Compounded Semaglutide
+		73 container Rated Excellent, 4.5 out of 5 on Trustpilot. 20,000+ patients
+			74 text Excellent 20,000+ patients
+		75 text AS SEEN IN
+		76 image Forbes
+		77 image Us Weekly
+		78 image New York Post
+		79 image Daily Mail
+		80 image The Daily Beast
+
+The focused UI element is 100 radio button Monthly Save $75 $95 for your first month, then $170 monthly $170/mo $95/mo first month, Value: 1

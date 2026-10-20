@@ -1,0 +1,89 @@
+Browser tab: 285221740, Title: "Glutathione Intake | Arbor", URL: "https://startarbor.com/glutathione/quiz".
+0 AXWebArea Glutathione Intake | Arbor, URL: startarbor.com/glutathione/quiz
+	1 image Arbor
+	2 container
+		3 text Only  3  discounts left. Yours is reserved for  2:07
+		4 heading Choose your Glutathione plan., Value: 2
+			5 text Choose your  Glutathione plan.
+		6 text No Hidden Fees. Everything Included. Step 1 Select Your Program
+		7 image Glutathione
+		8 heading Glutathione, Value: 3
+			9 text Glutathione
+		10 text Physician-guided Glutathione, personalized to your goals. Personalized protocol 810  chose this today Step 2 Select Your Plan Lock in your savings without a big upfront payment — use free financing or pay in full with your card.
+		11 heading Monthly Plan, Value: 3
+			12 text Monthly Plan
+		13 text Your Glutathione, delivered to your door monthly
+		14 text 1-Month Supply
+		15 text Flexible month-to-month
+		16 button Select Plan · $139/mo
+			17 text Select Plan · $
+			18 text 139
+			19 text /mo
+		20 heading 3-Month Plan, Value: 3
+			21 text 3-Month Plan
+		22 text Your 3-month supply in a single shipment.
+		23 text Most Popular 3-Month Supply
+		24 text Easy 0% Installments
+		25 text Spread payments over 12 months.
+		26 image Affirm
+		27 image Klarna
+		28 image Afterpay
+		29 container
+			30 text You are saving $ 60
+		31 button Select Plan · $119/mo
+			32 text Select Plan · $
+			33 text 119
+			34 text /mo
+		35 heading 6-Month Plan, Value: 3
+			36 text 6-Month Plan
+		37 text Stay consistent with a 6-month supply.
+		38 text 6-Month Supply
+		39 text Easy 0% Installments
+		40 text Spread payments over 12 months.
+		41 image Affirm
+		42 image Klarna
+		43 image Afterpay
+		44 container
+			45 text You are saving $ 180
+		46 button Select Plan · $109/mo
+			47 text Select Plan · $
+			48 text 109
+			49 text /mo
+		50 heading 12-Month Plan, Value: 3
+			51 text 12-Month Plan
+		52 text Commit to a full year and get our best value.
+		53 text Best Deal 12-Month Supply
+		54 text Easy 0% Installments
+		55 text Spread payments over 12 months.
+		56 image Affirm
+		57 image Klarna
+		58 image Afterpay
+		59 container
+			60 text You are saving $ 600
+		61 button Select Plan · $89/mo
+			62 text Select Plan · $
+			63 text 89
+			64 text /mo
+		65 text BACKED BY RESEARCH FROM
+		66 image Backed by research from Mayo Clinic, Stanford Medicine, WebMD, Harvard, and NIH
+		67 heading Your plan includes, Value: 3
+			68 text Your plan includes
+		69 text Glutathione medication Complete injection kit and supplies Unlimited clinician access Free dosage adjustments Easy treatment switches, anytime! Anytime automatic refills with free shipping 24/7 U.S.-based support
+		70 heading How it works, Value: 3
+			71 text How it works
+		72 text 1 Complete your plan and checkout, get approved by a licensed Arbor clinician, and get your Glutathione shipped fast, straight to your door. 2 Follow your personalized Glutathione protocol at home, starting at a dose tailored to your goals and adjusted over time to optimize how you feel. 3 Your care team monitors your progress and fine-tunes your protocol as needed — all from home. *If you're already on Glutathione, we'll start you at your current dose.
+		73 heading All major credit cards accepted, Value: 3
+			74 text All major credit cards accepted
+		75 image Visa
+		76 image Mastercard
+		77 image American Express
+		78 image Discover
+		79 image Apple Pay
+		80 image Google Pay
+		81 heading Buy Now, Pay Later, Value: 3
+			82 text Buy Now, Pay Later
+		83 image Affirm
+		84 image Afterpay
+		85 image Klarna
+
+The focused UI element is 61 button Select Plan · $89/mo

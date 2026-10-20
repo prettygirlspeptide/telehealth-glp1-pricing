@@ -1,0 +1,14 @@
+Browser tab: 285221924, Title: "Start your weight loss visit · Effecty", URL: "https://start.effecty.com/weight-loss/gastric_bypass?promo=SAVEMORE".
+0 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/gastric_bypass?promo=SAVEMORE
+	1 container
+		2 button Back
+			3 image
+			4 text Back
+		5 image Effecty
+		9 text MEDICAL HISTORY
+		6 heading Have you had gastric bypass or other bariatric surgery within the past 6 months?, Value: 1
+			7 text Have you had gastric bypass or other bariatric surgery within the past 6 months?
+		10 radio button No, Value: 1
+		11 radio button Yes, Value: 0
+
+The focused UI element is 0 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/gastric_bypass?promo=SAVEMORE

@@ -1,0 +1,54 @@
+Browser tab: 285221924, Title: "Start your weight loss visit · Effecty", URL: "https://start.effecty.com/weight-loss/measurements?promo=SAVEMORE".
+1 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/measurements?promo=SAVEMORE
+	2 container
+		3 button Back
+			4 image
+			5 text Back
+		6 image Effecty
+	7 container
+		8 heading What's your height and weight?, Value: 1
+			9 text What's your height and weight?
+		10 text Your provider uses your BMI to check which plans fit. Your goal shapes your plan.
+		11 text Height (feet)
+		12 pop up button (collapsed, settable) Height (feet), Value: 5 ft, ID: height-ft, Secondary Actions: Expand
+			13 menu
+				14 4 ft
+				15 (selected) 5 ft
+				16 6 ft
+				17 7 ft
+		18 image
+		19 text Height (inches)
+		20 pop up button (collapsed, settable) Height (inches), Value: 4 in, ID: height-in, Secondary Actions: Expand
+			21 menu
+				22 0 in
+				23 1 in
+				24 2 in
+				25 3 in
+				26 (selected) 4 in
+				27 5 in
+				28 6 in
+				29 7 in
+				30 8 in
+				31 9 in
+				32 10 in
+				33 11 in
+		34 image
+		35 text Current weight (lbs)
+		36 text field (settable) Current weight (lbs), Value: 172, ID: weight
+		37 container
+			38 image
+			39 text Your BMI is  29.5 ·  you qualify for GLP‑1 treatment.
+		40 text Goal weight (lbs)
+		41 text field (settable) Goal weight (lbs), Value: 145, ID: goal
+		42 text That's 27 lbs to lose.
+		43 button Continue
+		44 container Rated Excellent, 4.5 out of 5 on Trustpilot. 20,000+ patients
+			45 text Excellent 20,000+ patients
+		46 text AS SEEN IN
+		47 image Forbes
+		48 image Us Weekly
+		49 image New York Post
+		50 image Daily Mail
+		51 image The Daily Beast
+
+The focused UI element is 1 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/measurements?promo=SAVEMORE

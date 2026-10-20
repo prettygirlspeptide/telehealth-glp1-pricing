@@ -1,0 +1,2253 @@
+{
+  "checked": "2026-10-19",
+  "publisher": "Pretty Girls Peptide",
+  "observation_stage": "owner_verified_configured_benchmark",
+  "source_method": "Read-only authorized owner billing-plan configuration cross-checked against membership checkout question-product mappings and Approved questionnaire metadata. No patient visit created, questionnaire answered, charge authorized, or independent post-intake quote obtained.",
+  "limitations": [
+    "Configured billing prices are not a final card charge or independent consumer quote.",
+    "Tax, conditional visit/review fees, shipping overrides, discounts and final eligibility have not been tested.",
+    "Quarterly, SixMonth and Yearly are configured billing frequencies, not proof that a calendar-month supply is dispensed each month.",
+    "The 6- and 12-month cream/microdose mappings point to quarterly product variants; full term shipment quantities are not verified.",
+    "Pharmacies are owner-configured, not necessarily publicly named on the comparison source page."
+  ],
+  "plans": [
+    {
+      "id": 3873,
+      "name": "GHK-Cu 2% Plan",
+      "updatedAt": "2026-10-13T21:22:59.933Z",
+      "variants": [
+        {
+          "id": 22307,
+          "name": "Monthly",
+          "price": 172,
+          "introductoryPrice": null,
+          "paymentSchedule": "Monthly"
+        },
+        {
+          "id": 22308,
+          "name": "Quarterly",
+          "price": 447,
+          "introductoryPrice": null,
+          "paymentSchedule": "Quarterly"
+        },
+        {
+          "id": 22309,
+          "name": "6 Month",
+          "price": 870,
+          "introductoryPrice": null,
+          "paymentSchedule": "SixMonth"
+        },
+        {
+          "id": 23258,
+          "name": "12 Month",
+          "price": 1716,
+          "introductoryPrice": null,
+          "paymentSchedule": "Yearly"
+        }
+      ]
+    },
+    {
+      "id": 3872,
+      "name": "GHK-Cu 0.5% Plan",
+      "updatedAt": "2026-10-13T21:22:10.999Z",
+      "variants": [
+        {
+          "id": 22310,
+          "name": "Monthly",
+          "price": 118,
+          "introductoryPrice": null,
+          "paymentSchedule": "Monthly"
+        },
+        {
+          "id": 22311,
+          "name": "Quarterly",
+          "price": 297,
+          "introductoryPrice": null,
+          "paymentSchedule": "Quarterly"
+        },
+        {
+          "id": 22312,
+          "name": "6-Month",
+          "price": 570,
+          "introductoryPrice": null,
+          "paymentSchedule": "SixMonth"
+        },
+        {
+          "id": 23262,
+          "name": "12 Month",
+          "price": 1080,
+          "introductoryPrice": null,
+          "paymentSchedule": "Yearly"
+        }
+      ]
+    },
+    {
+      "id": 3804,
+      "name": "NAD+ Nasal Spray 300mg/mL",
+      "updatedAt": "2026-10-13T21:23:58.309Z",
+      "variants": [
+        {
+          "id": 22042,
+          "name": "Monthly",
+          "price": 199,
+          "introductoryPrice": null,
+          "paymentSchedule": "Monthly"
+        },
+        {
+          "id": 22314,
+          "name": "Quarterly",
+          "price": 525,
+          "introductoryPrice": null,
+          "paymentSchedule": "Quarterly"
+        },
+        {
+          "id": 22316,
+          "name": "6 Month",
+          "price": 990,
+          "introductoryPrice": null,
+          "paymentSchedule": "SixMonth"
+        },
+        {
+          "id": 23302,
+          "name": "12-month",
+          "price": 1740,
+          "introductoryPrice": null,
+          "paymentSchedule": "Yearly"
+        }
+      ]
+    },
+    {
+      "id": 3803,
+      "name": "NAD+ Injection Plan",
+      "updatedAt": "2026-10-13T21:23:34.844Z",
+      "variants": [
+        {
+          "id": 22039,
+          "name": "Monthly",
+          "price": 159,
+          "introductoryPrice": null,
+          "paymentSchedule": "Monthly"
+        },
+        {
+          "id": 22040,
+          "name": "Quarterly",
+          "price": 417,
+          "introductoryPrice": null,
+          "paymentSchedule": "Quarterly"
+        },
+        {
+          "id": 22041,
+          "name": "6-month",
+          "price": 768,
+          "introductoryPrice": null,
+          "paymentSchedule": "SixMonth"
+        },
+        {
+          "id": 23298,
+          "name": "12-month",
+          "price": 1428,
+          "introductoryPrice": null,
+          "paymentSchedule": "Yearly"
+        }
+      ]
+    },
+    {
+      "id": 3802,
+      "name": "Oral Tirzepatide Tablets",
+      "updatedAt": "2026-10-13T21:49:33.425Z",
+      "variants": [
+        {
+          "id": 22036,
+          "name": "Monthly",
+          "price": 339,
+          "introductoryPrice": null,
+          "paymentSchedule": "Monthly"
+        },
+        {
+          "id": 22037,
+          "name": "Quarterly",
+          "price": 915,
+          "introductoryPrice": null,
+          "paymentSchedule": "Quarterly"
+        },
+        {
+          "id": 22038,
+          "name": "6-month",
+          "price": 1620,
+          "introductoryPrice": null,
+          "paymentSchedule": "SixMonth"
+        },
+        {
+          "id": 23290,
+          "name": "12-month",
+          "price": 2880,
+          "introductoryPrice": null,
+          "paymentSchedule": "Yearly"
+        }
+      ]
+    },
+    {
+      "id": 3801,
+      "name": "Oral Semaglutide Tablets",
+      "updatedAt": "2026-10-13T21:45:46.989Z",
+      "variants": [
+        {
+          "id": 22033,
+          "name": "Monthly",
+          "price": 329,
+          "introductoryPrice": null,
+          "paymentSchedule": "Monthly"
+        },
+        {
+          "id": 22034,
+          "name": "Quarterly",
+          "price": 885,
+          "introductoryPrice": null,
+          "paymentSchedule": "Quarterly"
+        },
+        {
+          "id": 22035,
+          "name": "6-month",
+          "price": 1740,
+          "introductoryPrice": null,
+          "paymentSchedule": "SixMonth"
+        },
+        {
+          "id": 23294,
+          "name": "12-month",
+          "price": 3120,
+          "introductoryPrice": null,
+          "paymentSchedule": "Yearly"
+        }
+      ]
+    },
+    {
+      "id": 3800,
+      "name": "Semaglutide Sublingual Drops",
+      "updatedAt": "2026-10-13T21:47:05.301Z",
+      "variants": [
+        {
+          "id": 22030,
+          "name": "Monthly",
+          "price": 175,
+          "introductoryPrice": null,
+          "paymentSchedule": "Monthly"
+        },
+        {
+          "id": 22031,
+          "name": "Quarterly",
+          "price": 402,
+          "introductoryPrice": null,
+          "paymentSchedule": "Quarterly"
+        },
+        {
+          "id": 22032,
+          "name": "6-month",
+          "price": 720,
+          "introductoryPrice": null,
+          "paymentSchedule": "SixMonth"
+        },
+        {
+          "id": 23286,
+          "name": "12-month",
+          "price": 1188,
+          "introductoryPrice": null,
+          "paymentSchedule": "Yearly"
+        }
+      ]
+    },
+    {
+      "id": 3799,
+      "name": "Tirzepatide Sublingual Drops",
+      "updatedAt": "2026-10-13T21:50:31.217Z",
+      "variants": [
+        {
+          "id": 22027,
+          "name": "Monthly",
+          "price": 186,
+          "introductoryPrice": null,
+          "paymentSchedule": "Monthly"
+        },
+        {
+          "id": 22028,
+          "name": "Quarterly",
+          "price": 480,
+          "introductoryPrice": null,
+          "paymentSchedule": "Quarterly"
+        },
+        {
+          "id": 22029,
+          "name": "6-month",
+          "price": 882,
+          "introductoryPrice": null,
+          "paymentSchedule": "SixMonth"
+        },
+        {
+          "id": 23282,
+          "name": "12-month",
+          "price": 1284,
+          "introductoryPrice": null,
+          "paymentSchedule": "Yearly"
+        }
+      ]
+    },
+    {
+      "id": 3798,
+      "name": "Microdose Semaglutide",
+      "updatedAt": "2026-10-13T21:57:44.181Z",
+      "variants": [
+        {
+          "id": 22024,
+          "name": "Monthly",
+          "price": 155,
+          "introductoryPrice": null,
+          "paymentSchedule": "Monthly"
+        },
+        {
+          "id": 22025,
+          "name": "Quarterly",
+          "price": 375,
+          "introductoryPrice": null,
+          "paymentSchedule": "Quarterly"
+        },
+        {
+          "id": 22026,
+          "name": "6-Month",
+          "price": 600,
+          "introductoryPrice": null,
+          "paymentSchedule": "SixMonth"
+        },
+        {
+          "id": 23278,
+          "name": "12-month",
+          "price": 948,
+          "introductoryPrice": null,
+          "paymentSchedule": "Yearly"
+        }
+      ]
+    },
+    {
+      "id": 3797,
+      "name": "Microdose Tirzepatide",
+      "updatedAt": "2026-10-13T21:58:00.161Z",
+      "variants": [
+        {
+          "id": 22021,
+          "name": "Monthly",
+          "price": 205,
+          "introductoryPrice": null,
+          "paymentSchedule": "Monthly"
+        },
+        {
+          "id": 22022,
+          "name": "Quarterly",
+          "price": 537,
+          "introductoryPrice": null,
+          "paymentSchedule": "Quarterly"
+        },
+        {
+          "id": 22023,
+          "name": "6-month",
+          "price": 930,
+          "introductoryPrice": null,
+          "paymentSchedule": "SixMonth"
+        },
+        {
+          "id": 23274,
+          "name": "12-month",
+          "price": 1380,
+          "introductoryPrice": null,
+          "paymentSchedule": "Yearly"
+        }
+      ]
+    },
+    {
+      "id": 3372,
+      "name": "Tirzepatide Plan",
+      "updatedAt": "2026-10-13T21:48:38.077Z",
+      "variants": [
+        {
+          "id": 20334,
+          "name": "Monthly",
+          "price": 225,
+          "introductoryPrice": null,
+          "paymentSchedule": "Monthly"
+        },
+        {
+          "id": 20335,
+          "name": "Quarterly",
+          "price": 597,
+          "introductoryPrice": null,
+          "paymentSchedule": "Quarterly"
+        },
+        {
+          "id": 22015,
+          "name": "6-month",
+          "price": 1050,
+          "introductoryPrice": null,
+          "paymentSchedule": "SixMonth"
+        },
+        {
+          "id": 23266,
+          "name": "12-month",
+          "price": 1620,
+          "introductoryPrice": null,
+          "paymentSchedule": "Yearly"
+        }
+      ]
+    },
+    {
+      "id": 3357,
+      "name": "Semaglutide Plan",
+      "updatedAt": "2026-10-13T21:44:56.909Z",
+      "variants": [
+        {
+          "id": 20308,
+          "name": "Monthly",
+          "price": 175,
+          "introductoryPrice": null,
+          "paymentSchedule": "Monthly"
+        },
+        {
+          "id": 20309,
+          "name": "Quarterly",
+          "price": 435,
+          "introductoryPrice": null,
+          "paymentSchedule": "Quarterly"
+        },
+        {
+          "id": 22018,
+          "name": "6-Month",
+          "price": 720,
+          "introductoryPrice": null,
+          "paymentSchedule": "SixMonth"
+        },
+        {
+          "id": 23270,
+          "name": "12-month",
+          "price": 1188,
+          "introductoryPrice": null,
+          "paymentSchedule": "Yearly"
+        }
+      ]
+    }
+  ],
+  "mappings": [
+    {
+      "id": 20308,
+      "plan_id": 3357,
+      "name": "Monthly",
+      "price": 175,
+      "paymentSchedule": "Monthly",
+      "question_products": [
+        {
+          "questionId": 1119246,
+          "productId": 46142,
+          "defaultVariantId": "639fed68-b942-48c5-9b75-4147ca864be5"
+        },
+        {
+          "questionId": 1119245,
+          "productId": 46201,
+          "defaultVariantId": "2239bb86-60b2-437c-bd9f-2deba75914e2"
+        },
+        {
+          "questionId": 1259207,
+          "productId": 46204,
+          "defaultVariantId": "9028add7-d7d9-4a90-8555-f5cd9222e535"
+        },
+        {
+          "questionId": 1259204,
+          "productId": 46201,
+          "defaultVariantId": "2239bb86-60b2-437c-bd9f-2deba75914e2"
+        },
+        {
+          "questionId": 1259206,
+          "productId": 46207,
+          "defaultVariantId": "f6462daf-e57d-4a73-ba5a-55ce3c50683c"
+        },
+        {
+          "questionId": 1119248,
+          "productId": 46204,
+          "defaultVariantId": "9028add7-d7d9-4a90-8555-f5cd9222e535"
+        },
+        {
+          "questionId": 1119247,
+          "productId": 46207,
+          "defaultVariantId": "f6462daf-e57d-4a73-ba5a-55ce3c50683c"
+        },
+        {
+          "questionId": 1259205,
+          "productId": 46142,
+          "defaultVariantId": "639fed68-b942-48c5-9b75-4147ca864be5"
+        }
+      ]
+    },
+    {
+      "id": 20334,
+      "plan_id": 3372,
+      "name": "Monthly",
+      "price": 225,
+      "paymentSchedule": "Monthly",
+      "question_products": [
+        {
+          "questionId": 1259209,
+          "productId": 46196,
+          "defaultVariantId": "c65cd19b-0adf-43f7-83af-f949b9cd8634"
+        },
+        {
+          "questionId": 1119249,
+          "productId": 46194,
+          "defaultVariantId": "a4d26439-378c-45e2-acaf-82dc54f59828"
+        },
+        {
+          "questionId": 1119250,
+          "productId": 46196,
+          "defaultVariantId": "c65cd19b-0adf-43f7-83af-f949b9cd8634"
+        },
+        {
+          "questionId": 1259211,
+          "productId": 46197,
+          "defaultVariantId": "f09eddee-0283-417d-b082-d10d576c016a"
+        },
+        {
+          "questionId": 1259210,
+          "productId": 46200,
+          "defaultVariantId": "3f137050-d849-45d5-bd3c-3b31eca44172"
+        },
+        {
+          "questionId": 1259208,
+          "productId": 46194,
+          "defaultVariantId": "a4d26439-378c-45e2-acaf-82dc54f59828"
+        },
+        {
+          "questionId": 1119251,
+          "productId": 46200,
+          "defaultVariantId": "3f137050-d849-45d5-bd3c-3b31eca44172"
+        },
+        {
+          "questionId": 1119252,
+          "productId": 46197,
+          "defaultVariantId": "f09eddee-0283-417d-b082-d10d576c016a"
+        }
+      ]
+    },
+    {
+      "id": 22021,
+      "plan_id": 3797,
+      "name": "Monthly",
+      "price": 205,
+      "paymentSchedule": "Monthly",
+      "question_products": [
+        {
+          "questionId": 1188604,
+          "productId": 46570,
+          "defaultVariantId": "c2e020e0-e569-4f06-a986-e482f4462f32"
+        },
+        {
+          "questionId": 1230449,
+          "productId": 46570,
+          "defaultVariantId": "c2e020e0-e569-4f06-a986-e482f4462f32"
+        },
+        {
+          "questionId": 1259239,
+          "productId": 46570,
+          "defaultVariantId": "c2e020e0-e569-4f06-a986-e482f4462f32"
+        },
+        {
+          "questionId": 1256283,
+          "productId": 46570,
+          "defaultVariantId": "c2e020e0-e569-4f06-a986-e482f4462f32"
+        }
+      ]
+    },
+    {
+      "id": 22024,
+      "plan_id": 3798,
+      "name": "Monthly",
+      "price": 155,
+      "paymentSchedule": "Monthly",
+      "question_products": [
+        {
+          "questionId": 1230448,
+          "productId": 48100,
+          "defaultVariantId": "f6d10a9b-95b2-4e04-9793-cf2dc8b2eb7a"
+        },
+        {
+          "questionId": 1259238,
+          "productId": 48100,
+          "defaultVariantId": "f6d10a9b-95b2-4e04-9793-cf2dc8b2eb7a"
+        },
+        {
+          "questionId": 1256282,
+          "productId": 48100,
+          "defaultVariantId": "f6d10a9b-95b2-4e04-9793-cf2dc8b2eb7a"
+        },
+        {
+          "questionId": 1188603,
+          "productId": 48100,
+          "defaultVariantId": "f6d10a9b-95b2-4e04-9793-cf2dc8b2eb7a"
+        }
+      ]
+    },
+    {
+      "id": 22027,
+      "plan_id": 3799,
+      "name": "Monthly",
+      "price": 186,
+      "paymentSchedule": "Monthly",
+      "question_products": [
+        {
+          "questionId": 1220528,
+          "productId": 48475,
+          "defaultVariantId": "f9f5f030-95b0-400b-b89a-a8319e83da7b"
+        },
+        {
+          "questionId": 1220529,
+          "productId": 48476,
+          "defaultVariantId": "3622cb42-73a6-40d8-916c-3c06d57fffdc"
+        },
+        {
+          "questionId": 1259225,
+          "productId": 48475,
+          "defaultVariantId": "f9f5f030-95b0-400b-b89a-a8319e83da7b"
+        },
+        {
+          "questionId": 1259226,
+          "productId": 48476,
+          "defaultVariantId": "3622cb42-73a6-40d8-916c-3c06d57fffdc"
+        }
+      ]
+    },
+    {
+      "id": 22030,
+      "plan_id": 3800,
+      "name": "Monthly",
+      "price": 175,
+      "paymentSchedule": "Monthly",
+      "question_products": [
+        {
+          "questionId": 1259223,
+          "productId": 48478,
+          "defaultVariantId": "300b0b33-a7ef-4222-9129-0fb330a05fa8"
+        },
+        {
+          "questionId": 1220526,
+          "productId": 48478,
+          "defaultVariantId": "300b0b33-a7ef-4222-9129-0fb330a05fa8"
+        },
+        {
+          "questionId": 1220525,
+          "productId": 48477,
+          "defaultVariantId": "a15a1b5d-414e-449e-8363-2ebf84c0d5aa"
+        },
+        {
+          "questionId": 1259222,
+          "productId": 48477,
+          "defaultVariantId": "a15a1b5d-414e-449e-8363-2ebf84c0d5aa"
+        }
+      ]
+    },
+    {
+      "id": 22033,
+      "plan_id": 3801,
+      "name": "Monthly",
+      "price": 329,
+      "paymentSchedule": "Monthly",
+      "question_products": [
+        {
+          "questionId": 1259218,
+          "productId": 47097,
+          "defaultVariantId": "5082c951-915e-4b93-b7b5-4f304713ab55"
+        },
+        {
+          "questionId": 1259217,
+          "productId": 48095,
+          "defaultVariantId": "e8a840d3-1a30-4270-948c-e88e5a6f37c0"
+        },
+        {
+          "questionId": 1220519,
+          "productId": 48095,
+          "defaultVariantId": "e8a840d3-1a30-4270-948c-e88e5a6f37c0"
+        },
+        {
+          "questionId": 1220520,
+          "productId": 47097,
+          "defaultVariantId": "5082c951-915e-4b93-b7b5-4f304713ab55"
+        }
+      ]
+    },
+    {
+      "id": 22036,
+      "plan_id": 3802,
+      "name": "Monthly",
+      "price": 339,
+      "paymentSchedule": "Monthly",
+      "question_products": [
+        {
+          "questionId": 1259219,
+          "productId": 48094,
+          "defaultVariantId": "713418a7-d4dd-46d6-b87d-e83aece41916"
+        },
+        {
+          "questionId": 1259220,
+          "productId": 48093,
+          "defaultVariantId": "b8dfe03b-29c1-4101-bf6f-4eb5bb0fc0fd"
+        },
+        {
+          "questionId": 1220522,
+          "productId": 48093,
+          "defaultVariantId": "b8dfe03b-29c1-4101-bf6f-4eb5bb0fc0fd"
+        },
+        {
+          "questionId": 1220521,
+          "productId": 48094,
+          "defaultVariantId": "713418a7-d4dd-46d6-b87d-e83aece41916"
+        }
+      ]
+    },
+    {
+      "id": 22039,
+      "plan_id": 3803,
+      "name": "Monthly",
+      "price": 159,
+      "paymentSchedule": "Monthly",
+      "question_products": [
+        {
+          "questionId": 1188507,
+          "productId": 48099,
+          "defaultVariantId": "63a7c7ce-c439-423b-a05c-0662a7029a52"
+        },
+        {
+          "questionId": 1246796,
+          "productId": 48099,
+          "defaultVariantId": "63a7c7ce-c439-423b-a05c-0662a7029a52"
+        }
+      ]
+    },
+    {
+      "id": 22042,
+      "plan_id": 3804,
+      "name": "Monthly",
+      "price": 199,
+      "paymentSchedule": "Monthly",
+      "question_products": [
+        {
+          "questionId": 1232171,
+          "productId": 49249,
+          "defaultVariantId": "53cc2431-5151-432d-a432-3536afe4f15a"
+        },
+        {
+          "questionId": 1246799,
+          "productId": 49249,
+          "defaultVariantId": "53cc2431-5151-432d-a432-3536afe4f15a"
+        }
+      ]
+    },
+    {
+      "id": 22045,
+      "plan_id": 3805,
+      "name": "Monthly",
+      "price": 219,
+      "paymentSchedule": "Monthly",
+      "question_products": []
+    },
+    {
+      "id": 22307,
+      "plan_id": 3873,
+      "name": "Monthly",
+      "price": 172,
+      "paymentSchedule": "Monthly",
+      "question_products": [
+        {
+          "questionId": 1247957,
+          "productId": 48098,
+          "defaultVariantId": "5f20d273-d468-457c-928a-422a07f5b1ed"
+        },
+        {
+          "questionId": 1232169,
+          "productId": 48098,
+          "defaultVariantId": "5f20d273-d468-457c-928a-422a07f5b1ed"
+        }
+      ]
+    },
+    {
+      "id": 22310,
+      "plan_id": 3872,
+      "name": "Monthly",
+      "price": 118,
+      "paymentSchedule": "Monthly",
+      "question_products": [
+        {
+          "questionId": 1247939,
+          "productId": 48098,
+          "defaultVariantId": "cbdddf27-1e47-44c2-850a-901f70057237"
+        },
+        {
+          "questionId": 1188559,
+          "productId": 48098,
+          "defaultVariantId": "cbdddf27-1e47-44c2-850a-901f70057237"
+        }
+      ]
+    },
+    {
+      "id": 20309,
+      "plan_id": 3357,
+      "name": "Quarterly",
+      "price": 435,
+      "paymentSchedule": "Quarterly",
+      "question_products": [
+        {
+          "questionId": 1119246,
+          "productId": 46203,
+          "defaultVariantId": "48b2b487-47b3-48bf-85cc-56af49a0e43b"
+        },
+        {
+          "questionId": 1259206,
+          "productId": 46206,
+          "defaultVariantId": "5f48e799-cf91-42a7-8e2c-7c4e42f93e2b"
+        },
+        {
+          "questionId": 1119248,
+          "productId": 46205,
+          "defaultVariantId": "278d06b1-1582-4ab7-bf59-0a9bc9a0125c"
+        },
+        {
+          "questionId": 1119247,
+          "productId": 46206,
+          "defaultVariantId": "5f48e799-cf91-42a7-8e2c-7c4e42f93e2b"
+        },
+        {
+          "questionId": 1119245,
+          "productId": 46202,
+          "defaultVariantId": "55fbd247-ec6c-46bb-a178-97423bb580df"
+        },
+        {
+          "questionId": 1259207,
+          "productId": 46205,
+          "defaultVariantId": "278d06b1-1582-4ab7-bf59-0a9bc9a0125c"
+        },
+        {
+          "questionId": 1259205,
+          "productId": 46203,
+          "defaultVariantId": "48b2b487-47b3-48bf-85cc-56af49a0e43b"
+        },
+        {
+          "questionId": 1259204,
+          "productId": 46202,
+          "defaultVariantId": "55fbd247-ec6c-46bb-a178-97423bb580df"
+        }
+      ]
+    },
+    {
+      "id": 20335,
+      "plan_id": 3372,
+      "name": "Quarterly",
+      "price": 597,
+      "paymentSchedule": "Quarterly",
+      "question_products": [
+        {
+          "questionId": 1119249,
+          "productId": 46195,
+          "defaultVariantId": "c24af99e-6e2e-46cf-82c8-0788f37f0ee2"
+        },
+        {
+          "questionId": 1259210,
+          "productId": 46199,
+          "defaultVariantId": "e3f9bed7-e207-4270-948f-4422c20023c1"
+        },
+        {
+          "questionId": 1259211,
+          "productId": 46198,
+          "defaultVariantId": "bc2953ab-c674-4617-9f63-79d535609907"
+        },
+        {
+          "questionId": 1119250,
+          "productId": 46143,
+          "defaultVariantId": "2a2cf430-b62f-4b73-be45-f32f7f0b38f4"
+        },
+        {
+          "questionId": 1119252,
+          "productId": 46198,
+          "defaultVariantId": "bc2953ab-c674-4617-9f63-79d535609907"
+        },
+        {
+          "questionId": 1119251,
+          "productId": 46199,
+          "defaultVariantId": "e3f9bed7-e207-4270-948f-4422c20023c1"
+        },
+        {
+          "questionId": 1259208,
+          "productId": 46195,
+          "defaultVariantId": "c24af99e-6e2e-46cf-82c8-0788f37f0ee2"
+        },
+        {
+          "questionId": 1259209,
+          "productId": 46143,
+          "defaultVariantId": "2a2cf430-b62f-4b73-be45-f32f7f0b38f4"
+        }
+      ]
+    },
+    {
+      "id": 22022,
+      "plan_id": 3797,
+      "name": "Quarterly",
+      "price": 537,
+      "paymentSchedule": "Quarterly",
+      "question_products": [
+        {
+          "questionId": 1188604,
+          "productId": 46570,
+          "defaultVariantId": "bb8cc373-b2a4-42be-b871-1df3b61c0f5e"
+        },
+        {
+          "questionId": 1256283,
+          "productId": 46570,
+          "defaultVariantId": "bb8cc373-b2a4-42be-b871-1df3b61c0f5e"
+        },
+        {
+          "questionId": 1230449,
+          "productId": 46570,
+          "defaultVariantId": "bb8cc373-b2a4-42be-b871-1df3b61c0f5e"
+        },
+        {
+          "questionId": 1259239,
+          "productId": 46570,
+          "defaultVariantId": "bb8cc373-b2a4-42be-b871-1df3b61c0f5e"
+        }
+      ]
+    },
+    {
+      "id": 22025,
+      "plan_id": 3798,
+      "name": "Quarterly",
+      "price": 375,
+      "paymentSchedule": "Quarterly",
+      "question_products": [
+        {
+          "questionId": 1188603,
+          "productId": 48100,
+          "defaultVariantId": "180b3063-4a7e-4fb5-85e8-6dadce6f394c"
+        },
+        {
+          "questionId": 1259238,
+          "productId": 48100,
+          "defaultVariantId": "180b3063-4a7e-4fb5-85e8-6dadce6f394c"
+        },
+        {
+          "questionId": 1230448,
+          "productId": 48100,
+          "defaultVariantId": "180b3063-4a7e-4fb5-85e8-6dadce6f394c"
+        },
+        {
+          "questionId": 1256282,
+          "productId": 48100,
+          "defaultVariantId": "180b3063-4a7e-4fb5-85e8-6dadce6f394c"
+        }
+      ]
+    },
+    {
+      "id": 22028,
+      "plan_id": 3799,
+      "name": "Quarterly",
+      "price": 480,
+      "paymentSchedule": "Quarterly",
+      "question_products": [
+        {
+          "questionId": 1259226,
+          "productId": 48476,
+          "defaultVariantId": "3622cb42-73a6-40d8-916c-3c06d57fffdc"
+        },
+        {
+          "questionId": 1220528,
+          "productId": 48475,
+          "defaultVariantId": "f9f5f030-95b0-400b-b89a-a8319e83da7b"
+        },
+        {
+          "questionId": 1259225,
+          "productId": 48475,
+          "defaultVariantId": "f9f5f030-95b0-400b-b89a-a8319e83da7b"
+        },
+        {
+          "questionId": 1220529,
+          "productId": 48476,
+          "defaultVariantId": "3622cb42-73a6-40d8-916c-3c06d57fffdc"
+        }
+      ]
+    },
+    {
+      "id": 22031,
+      "plan_id": 3800,
+      "name": "Quarterly",
+      "price": 402,
+      "paymentSchedule": "Quarterly",
+      "question_products": [
+        {
+          "questionId": 1220525,
+          "productId": 48477,
+          "defaultVariantId": "a15a1b5d-414e-449e-8363-2ebf84c0d5aa"
+        },
+        {
+          "questionId": 1259223,
+          "productId": 48478,
+          "defaultVariantId": "300b0b33-a7ef-4222-9129-0fb330a05fa8"
+        },
+        {
+          "questionId": 1259222,
+          "productId": 48477,
+          "defaultVariantId": "a15a1b5d-414e-449e-8363-2ebf84c0d5aa"
+        },
+        {
+          "questionId": 1220526,
+          "productId": 48478,
+          "defaultVariantId": "300b0b33-a7ef-4222-9129-0fb330a05fa8"
+        }
+      ]
+    },
+    {
+      "id": 22034,
+      "plan_id": 3801,
+      "name": "Quarterly",
+      "price": 885,
+      "paymentSchedule": "Quarterly",
+      "question_products": [
+        {
+          "questionId": 1259218,
+          "productId": 48097,
+          "defaultVariantId": "31bdcf7f-0acc-4b41-8a28-e3357b42568b"
+        },
+        {
+          "questionId": 1220520,
+          "productId": 48097,
+          "defaultVariantId": "31bdcf7f-0acc-4b41-8a28-e3357b42568b"
+        },
+        {
+          "questionId": 1220519,
+          "productId": 48096,
+          "defaultVariantId": "2651724e-3a1a-48eb-9100-76f5fd2ccefd"
+        },
+        {
+          "questionId": 1259217,
+          "productId": 48096,
+          "defaultVariantId": "2651724e-3a1a-48eb-9100-76f5fd2ccefd"
+        }
+      ]
+    },
+    {
+      "id": 22037,
+      "plan_id": 3802,
+      "name": "Quarterly",
+      "price": 915,
+      "paymentSchedule": "Quarterly",
+      "question_products": [
+        {
+          "questionId": 1220522,
+          "productId": 48092,
+          "defaultVariantId": "2e24d000-72a7-4b4f-a714-8e7ec927465d"
+        },
+        {
+          "questionId": 1259219,
+          "productId": 48091,
+          "defaultVariantId": "84998a60-abd7-4faa-a5cd-d208ac4b1be9"
+        },
+        {
+          "questionId": 1259220,
+          "productId": 48092,
+          "defaultVariantId": "2e24d000-72a7-4b4f-a714-8e7ec927465d"
+        },
+        {
+          "questionId": 1220521,
+          "productId": 48091,
+          "defaultVariantId": "84998a60-abd7-4faa-a5cd-d208ac4b1be9"
+        }
+      ]
+    },
+    {
+      "id": 22040,
+      "plan_id": 3803,
+      "name": "Quarterly",
+      "price": 417,
+      "paymentSchedule": "Quarterly",
+      "question_products": [
+        {
+          "questionId": 1188507,
+          "productId": 48099,
+          "defaultVariantId": "b1997937-974c-48bf-b543-59859f319426"
+        },
+        {
+          "questionId": 1246796,
+          "productId": 48099,
+          "defaultVariantId": "b1997937-974c-48bf-b543-59859f319426"
+        }
+      ]
+    },
+    {
+      "id": 22308,
+      "plan_id": 3873,
+      "name": "Quarterly",
+      "price": 447,
+      "paymentSchedule": "Quarterly",
+      "question_products": [
+        {
+          "questionId": 1247957,
+          "productId": 48098,
+          "defaultVariantId": "e154bd64-4a96-44c8-8329-e5e493ef7734"
+        },
+        {
+          "questionId": 1232169,
+          "productId": 48098,
+          "defaultVariantId": "e154bd64-4a96-44c8-8329-e5e493ef7734"
+        }
+      ]
+    },
+    {
+      "id": 22311,
+      "plan_id": 3872,
+      "name": "Quarterly",
+      "price": 297,
+      "paymentSchedule": "Quarterly",
+      "question_products": [
+        {
+          "questionId": 1188559,
+          "productId": 48098,
+          "defaultVariantId": "28778b48-f630-453f-aa59-c568e00fbb5d"
+        },
+        {
+          "questionId": 1247939,
+          "productId": 48098,
+          "defaultVariantId": "28778b48-f630-453f-aa59-c568e00fbb5d"
+        }
+      ]
+    },
+    {
+      "id": 22314,
+      "plan_id": 3804,
+      "name": "Quarterly",
+      "price": 525,
+      "paymentSchedule": "Quarterly",
+      "question_products": [
+        {
+          "questionId": 1232171,
+          "productId": 49249,
+          "defaultVariantId": "53cc2431-5151-432d-a432-3536afe4f15a"
+        },
+        {
+          "questionId": 1246799,
+          "productId": 49249,
+          "defaultVariantId": "53cc2431-5151-432d-a432-3536afe4f15a"
+        }
+      ]
+    },
+    {
+      "id": 22015,
+      "plan_id": 3372,
+      "name": "6-month",
+      "price": 1050,
+      "paymentSchedule": "SixMonth",
+      "question_products": [
+        {
+          "questionId": 1259209,
+          "productId": 46143,
+          "defaultVariantId": "2a2cf430-b62f-4b73-be45-f32f7f0b38f4"
+        },
+        {
+          "questionId": 1259211,
+          "productId": 46198,
+          "defaultVariantId": "bc2953ab-c674-4617-9f63-79d535609907"
+        },
+        {
+          "questionId": 1119250,
+          "productId": 46143,
+          "defaultVariantId": "2a2cf430-b62f-4b73-be45-f32f7f0b38f4"
+        },
+        {
+          "questionId": 1119251,
+          "productId": 46199,
+          "defaultVariantId": "e3f9bed7-e207-4270-948f-4422c20023c1"
+        },
+        {
+          "questionId": 1119249,
+          "productId": 46195,
+          "defaultVariantId": "c24af99e-6e2e-46cf-82c8-0788f37f0ee2"
+        },
+        {
+          "questionId": 1259208,
+          "productId": 46195,
+          "defaultVariantId": "c24af99e-6e2e-46cf-82c8-0788f37f0ee2"
+        },
+        {
+          "questionId": 1259210,
+          "productId": 46199,
+          "defaultVariantId": "e3f9bed7-e207-4270-948f-4422c20023c1"
+        },
+        {
+          "questionId": 1119252,
+          "productId": 46198,
+          "defaultVariantId": "bc2953ab-c674-4617-9f63-79d535609907"
+        }
+      ]
+    },
+    {
+      "id": 22018,
+      "plan_id": 3357,
+      "name": "6-Month",
+      "price": 720,
+      "paymentSchedule": "SixMonth",
+      "question_products": [
+        {
+          "questionId": 1119248,
+          "productId": 46205,
+          "defaultVariantId": "278d06b1-1582-4ab7-bf59-0a9bc9a0125c"
+        },
+        {
+          "questionId": 1119245,
+          "productId": 46202,
+          "defaultVariantId": "55fbd247-ec6c-46bb-a178-97423bb580df"
+        },
+        {
+          "questionId": 1259205,
+          "productId": 46203,
+          "defaultVariantId": "48b2b487-47b3-48bf-85cc-56af49a0e43b"
+        },
+        {
+          "questionId": 1259204,
+          "productId": 46202,
+          "defaultVariantId": "55fbd247-ec6c-46bb-a178-97423bb580df"
+        },
+        {
+          "questionId": 1259206,
+          "productId": 46206,
+          "defaultVariantId": "5f48e799-cf91-42a7-8e2c-7c4e42f93e2b"
+        },
+        {
+          "questionId": 1119247,
+          "productId": 46206,
+          "defaultVariantId": "5f48e799-cf91-42a7-8e2c-7c4e42f93e2b"
+        },
+        {
+          "questionId": 1259207,
+          "productId": 46205,
+          "defaultVariantId": "278d06b1-1582-4ab7-bf59-0a9bc9a0125c"
+        },
+        {
+          "questionId": 1119246,
+          "productId": 46203,
+          "defaultVariantId": "48b2b487-47b3-48bf-85cc-56af49a0e43b"
+        }
+      ]
+    },
+    {
+      "id": 22023,
+      "plan_id": 3797,
+      "name": "6-month",
+      "price": 930,
+      "paymentSchedule": "SixMonth",
+      "question_products": [
+        {
+          "questionId": 1259239,
+          "productId": 46570,
+          "defaultVariantId": "bb8cc373-b2a4-42be-b871-1df3b61c0f5e"
+        },
+        {
+          "questionId": 1256283,
+          "productId": 46570,
+          "defaultVariantId": "bb8cc373-b2a4-42be-b871-1df3b61c0f5e"
+        },
+        {
+          "questionId": 1230449,
+          "productId": 46570,
+          "defaultVariantId": "bb8cc373-b2a4-42be-b871-1df3b61c0f5e"
+        },
+        {
+          "questionId": 1188604,
+          "productId": 46570,
+          "defaultVariantId": "bb8cc373-b2a4-42be-b871-1df3b61c0f5e"
+        }
+      ]
+    },
+    {
+      "id": 22026,
+      "plan_id": 3798,
+      "name": "6-Month",
+      "price": 600,
+      "paymentSchedule": "SixMonth",
+      "question_products": [
+        {
+          "questionId": 1188603,
+          "productId": 48100,
+          "defaultVariantId": "180b3063-4a7e-4fb5-85e8-6dadce6f394c"
+        },
+        {
+          "questionId": 1256282,
+          "productId": 48100,
+          "defaultVariantId": "180b3063-4a7e-4fb5-85e8-6dadce6f394c"
+        },
+        {
+          "questionId": 1230448,
+          "productId": 48100,
+          "defaultVariantId": "180b3063-4a7e-4fb5-85e8-6dadce6f394c"
+        },
+        {
+          "questionId": 1259238,
+          "productId": 48100,
+          "defaultVariantId": "180b3063-4a7e-4fb5-85e8-6dadce6f394c"
+        }
+      ]
+    },
+    {
+      "id": 22029,
+      "plan_id": 3799,
+      "name": "6-month",
+      "price": 882,
+      "paymentSchedule": "SixMonth",
+      "question_products": [
+        {
+          "questionId": 1259226,
+          "productId": 48476,
+          "defaultVariantId": "3622cb42-73a6-40d8-916c-3c06d57fffdc"
+        },
+        {
+          "questionId": 1259225,
+          "productId": 48475,
+          "defaultVariantId": "f9f5f030-95b0-400b-b89a-a8319e83da7b"
+        },
+        {
+          "questionId": 1220528,
+          "productId": 48475,
+          "defaultVariantId": "f9f5f030-95b0-400b-b89a-a8319e83da7b"
+        },
+        {
+          "questionId": 1220529,
+          "productId": 48476,
+          "defaultVariantId": "3622cb42-73a6-40d8-916c-3c06d57fffdc"
+        }
+      ]
+    },
+    {
+      "id": 22032,
+      "plan_id": 3800,
+      "name": "6-month",
+      "price": 720,
+      "paymentSchedule": "SixMonth",
+      "question_products": [
+        {
+          "questionId": 1259222,
+          "productId": 48477,
+          "defaultVariantId": "a15a1b5d-414e-449e-8363-2ebf84c0d5aa"
+        },
+        {
+          "questionId": 1220525,
+          "productId": 48477,
+          "defaultVariantId": "a15a1b5d-414e-449e-8363-2ebf84c0d5aa"
+        },
+        {
+          "questionId": 1220526,
+          "productId": 48478,
+          "defaultVariantId": "300b0b33-a7ef-4222-9129-0fb330a05fa8"
+        },
+        {
+          "questionId": 1259223,
+          "productId": 48478,
+          "defaultVariantId": "300b0b33-a7ef-4222-9129-0fb330a05fa8"
+        }
+      ]
+    },
+    {
+      "id": 22035,
+      "plan_id": 3801,
+      "name": "6-month",
+      "price": 1740,
+      "paymentSchedule": "SixMonth",
+      "question_products": [
+        {
+          "questionId": 1220520,
+          "productId": 48097,
+          "defaultVariantId": "31bdcf7f-0acc-4b41-8a28-e3357b42568b"
+        },
+        {
+          "questionId": 1259217,
+          "productId": 48096,
+          "defaultVariantId": "2651724e-3a1a-48eb-9100-76f5fd2ccefd"
+        },
+        {
+          "questionId": 1220519,
+          "productId": 48096,
+          "defaultVariantId": "2651724e-3a1a-48eb-9100-76f5fd2ccefd"
+        },
+        {
+          "questionId": 1259218,
+          "productId": 48097,
+          "defaultVariantId": "31bdcf7f-0acc-4b41-8a28-e3357b42568b"
+        }
+      ]
+    },
+    {
+      "id": 22038,
+      "plan_id": 3802,
+      "name": "6-month",
+      "price": 1620,
+      "paymentSchedule": "SixMonth",
+      "question_products": [
+        {
+          "questionId": 1220521,
+          "productId": 48091,
+          "defaultVariantId": "84998a60-abd7-4faa-a5cd-d208ac4b1be9"
+        },
+        {
+          "questionId": 1220522,
+          "productId": 48092,
+          "defaultVariantId": "2e24d000-72a7-4b4f-a714-8e7ec927465d"
+        },
+        {
+          "questionId": 1259219,
+          "productId": 48091,
+          "defaultVariantId": "84998a60-abd7-4faa-a5cd-d208ac4b1be9"
+        },
+        {
+          "questionId": 1259220,
+          "productId": 48092,
+          "defaultVariantId": "2e24d000-72a7-4b4f-a714-8e7ec927465d"
+        }
+      ]
+    },
+    {
+      "id": 22041,
+      "plan_id": 3803,
+      "name": "6-month",
+      "price": 768,
+      "paymentSchedule": "SixMonth",
+      "question_products": [
+        {
+          "questionId": 1246796,
+          "productId": 48099,
+          "defaultVariantId": "b1997937-974c-48bf-b543-59859f319426"
+        },
+        {
+          "questionId": 1188507,
+          "productId": 48099,
+          "defaultVariantId": "b1997937-974c-48bf-b543-59859f319426"
+        }
+      ]
+    },
+    {
+      "id": 22309,
+      "plan_id": 3873,
+      "name": "6 Month",
+      "price": 870,
+      "paymentSchedule": "SixMonth",
+      "question_products": [
+        {
+          "questionId": 1247957,
+          "productId": 48098,
+          "defaultVariantId": "e154bd64-4a96-44c8-8329-e5e493ef7734"
+        },
+        {
+          "questionId": 1232169,
+          "productId": 48098,
+          "defaultVariantId": "e154bd64-4a96-44c8-8329-e5e493ef7734"
+        }
+      ]
+    },
+    {
+      "id": 22312,
+      "plan_id": 3872,
+      "name": "6-Month",
+      "price": 570,
+      "paymentSchedule": "SixMonth",
+      "question_products": [
+        {
+          "questionId": 1188559,
+          "productId": 48098,
+          "defaultVariantId": "28778b48-f630-453f-aa59-c568e00fbb5d"
+        },
+        {
+          "questionId": 1247939,
+          "productId": 48098,
+          "defaultVariantId": "28778b48-f630-453f-aa59-c568e00fbb5d"
+        }
+      ]
+    },
+    {
+      "id": 22316,
+      "plan_id": 3804,
+      "name": "6 Month",
+      "price": 990,
+      "paymentSchedule": "SixMonth",
+      "question_products": [
+        {
+          "questionId": 1246799,
+          "productId": 49249,
+          "defaultVariantId": "53cc2431-5151-432d-a432-3536afe4f15a"
+        },
+        {
+          "questionId": 1232171,
+          "productId": 49249,
+          "defaultVariantId": "53cc2431-5151-432d-a432-3536afe4f15a"
+        }
+      ]
+    },
+    {
+      "id": 23258,
+      "plan_id": 3873,
+      "name": "12 Month",
+      "price": 1716,
+      "paymentSchedule": "Yearly",
+      "question_products": [
+        {
+          "questionId": 1247957,
+          "productId": 48098,
+          "defaultVariantId": "e154bd64-4a96-44c8-8329-e5e493ef7734"
+        },
+        {
+          "questionId": 1232169,
+          "productId": 48098,
+          "defaultVariantId": "e154bd64-4a96-44c8-8329-e5e493ef7734"
+        }
+      ]
+    },
+    {
+      "id": 23262,
+      "plan_id": 3872,
+      "name": "12 Month",
+      "price": 1080,
+      "paymentSchedule": "Yearly",
+      "question_products": [
+        {
+          "questionId": 1188559,
+          "productId": 48098,
+          "defaultVariantId": "28778b48-f630-453f-aa59-c568e00fbb5d"
+        },
+        {
+          "questionId": 1247939,
+          "productId": 48098,
+          "defaultVariantId": "28778b48-f630-453f-aa59-c568e00fbb5d"
+        }
+      ]
+    },
+    {
+      "id": 23266,
+      "plan_id": 3372,
+      "name": "12-month",
+      "price": 1620,
+      "paymentSchedule": "Yearly",
+      "question_products": [
+        {
+          "questionId": 1259209,
+          "productId": 46143,
+          "defaultVariantId": "2a2cf430-b62f-4b73-be45-f32f7f0b38f4"
+        },
+        {
+          "questionId": 1119249,
+          "productId": 46195,
+          "defaultVariantId": "c24af99e-6e2e-46cf-82c8-0788f37f0ee2"
+        },
+        {
+          "questionId": 1259210,
+          "productId": 46199,
+          "defaultVariantId": "e3f9bed7-e207-4270-948f-4422c20023c1"
+        },
+        {
+          "questionId": 1259208,
+          "productId": 46195,
+          "defaultVariantId": "c24af99e-6e2e-46cf-82c8-0788f37f0ee2"
+        },
+        {
+          "questionId": 1119250,
+          "productId": 46143,
+          "defaultVariantId": "2a2cf430-b62f-4b73-be45-f32f7f0b38f4"
+        },
+        {
+          "questionId": 1259211,
+          "productId": 46198,
+          "defaultVariantId": "bc2953ab-c674-4617-9f63-79d535609907"
+        },
+        {
+          "questionId": 1119252,
+          "productId": 46198,
+          "defaultVariantId": "bc2953ab-c674-4617-9f63-79d535609907"
+        },
+        {
+          "questionId": 1119251,
+          "productId": 46199,
+          "defaultVariantId": "e3f9bed7-e207-4270-948f-4422c20023c1"
+        }
+      ]
+    },
+    {
+      "id": 23270,
+      "plan_id": 3357,
+      "name": "12-month",
+      "price": 1188,
+      "paymentSchedule": "Yearly",
+      "question_products": [
+        {
+          "questionId": 1119248,
+          "productId": 46205,
+          "defaultVariantId": "278d06b1-1582-4ab7-bf59-0a9bc9a0125c"
+        },
+        {
+          "questionId": 1259207,
+          "productId": 46205,
+          "defaultVariantId": "278d06b1-1582-4ab7-bf59-0a9bc9a0125c"
+        },
+        {
+          "questionId": 1259206,
+          "productId": 46206,
+          "defaultVariantId": "5f48e799-cf91-42a7-8e2c-7c4e42f93e2b"
+        },
+        {
+          "questionId": 1259205,
+          "productId": 46203,
+          "defaultVariantId": "48b2b487-47b3-48bf-85cc-56af49a0e43b"
+        },
+        {
+          "questionId": 1259204,
+          "productId": 46202,
+          "defaultVariantId": "55fbd247-ec6c-46bb-a178-97423bb580df"
+        },
+        {
+          "questionId": 1119247,
+          "productId": 46206,
+          "defaultVariantId": "5f48e799-cf91-42a7-8e2c-7c4e42f93e2b"
+        },
+        {
+          "questionId": 1119245,
+          "productId": 46202,
+          "defaultVariantId": "55fbd247-ec6c-46bb-a178-97423bb580df"
+        },
+        {
+          "questionId": 1119246,
+          "productId": 46203,
+          "defaultVariantId": "48b2b487-47b3-48bf-85cc-56af49a0e43b"
+        }
+      ]
+    },
+    {
+      "id": 23274,
+      "plan_id": 3797,
+      "name": "12-month",
+      "price": 1380,
+      "paymentSchedule": "Yearly",
+      "question_products": [
+        {
+          "questionId": 1230449,
+          "productId": 46570,
+          "defaultVariantId": "bb8cc373-b2a4-42be-b871-1df3b61c0f5e"
+        },
+        {
+          "questionId": 1188604,
+          "productId": 46570,
+          "defaultVariantId": "bb8cc373-b2a4-42be-b871-1df3b61c0f5e"
+        },
+        {
+          "questionId": 1259239,
+          "productId": 46570,
+          "defaultVariantId": "bb8cc373-b2a4-42be-b871-1df3b61c0f5e"
+        },
+        {
+          "questionId": 1256283,
+          "productId": 46570,
+          "defaultVariantId": "bb8cc373-b2a4-42be-b871-1df3b61c0f5e"
+        }
+      ]
+    },
+    {
+      "id": 23278,
+      "plan_id": 3798,
+      "name": "12-month",
+      "price": 948,
+      "paymentSchedule": "Yearly",
+      "question_products": [
+        {
+          "questionId": 1230448,
+          "productId": 48100,
+          "defaultVariantId": "180b3063-4a7e-4fb5-85e8-6dadce6f394c"
+        },
+        {
+          "questionId": 1259238,
+          "productId": 48100,
+          "defaultVariantId": "180b3063-4a7e-4fb5-85e8-6dadce6f394c"
+        },
+        {
+          "questionId": 1188603,
+          "productId": 48100,
+          "defaultVariantId": "180b3063-4a7e-4fb5-85e8-6dadce6f394c"
+        },
+        {
+          "questionId": 1256282,
+          "productId": 48100,
+          "defaultVariantId": "180b3063-4a7e-4fb5-85e8-6dadce6f394c"
+        }
+      ]
+    },
+    {
+      "id": 23282,
+      "plan_id": 3799,
+      "name": "12-month",
+      "price": 1284,
+      "paymentSchedule": "Yearly",
+      "question_products": [
+        {
+          "questionId": 1220529,
+          "productId": 48476,
+          "defaultVariantId": "220bf6fe-81f0-4ea5-af2b-8874f6a92517"
+        },
+        {
+          "questionId": 1220528,
+          "productId": 48475,
+          "defaultVariantId": "f9f5f030-95b0-400b-b89a-a8319e83da7b"
+        },
+        {
+          "questionId": 1259226,
+          "productId": 48476,
+          "defaultVariantId": "220bf6fe-81f0-4ea5-af2b-8874f6a92517"
+        },
+        {
+          "questionId": 1259225,
+          "productId": 48475,
+          "defaultVariantId": "f9f5f030-95b0-400b-b89a-a8319e83da7b"
+        }
+      ]
+    },
+    {
+      "id": 23286,
+      "plan_id": 3800,
+      "name": "12-month",
+      "price": 1188,
+      "paymentSchedule": "Yearly",
+      "question_products": [
+        {
+          "questionId": 1220525,
+          "productId": 48477,
+          "defaultVariantId": "a15a1b5d-414e-449e-8363-2ebf84c0d5aa"
+        },
+        {
+          "questionId": 1220526,
+          "productId": 48478,
+          "defaultVariantId": "8b4c23bf-627b-41fb-8876-705242b2ffcc"
+        },
+        {
+          "questionId": 1259223,
+          "productId": 48478,
+          "defaultVariantId": "8b4c23bf-627b-41fb-8876-705242b2ffcc"
+        },
+        {
+          "questionId": 1259222,
+          "productId": 48477,
+          "defaultVariantId": "a15a1b5d-414e-449e-8363-2ebf84c0d5aa"
+        }
+      ]
+    },
+    {
+      "id": 23290,
+      "plan_id": 3802,
+      "name": "12-month",
+      "price": 2880,
+      "paymentSchedule": "Yearly",
+      "question_products": [
+        {
+          "questionId": 1220522,
+          "productId": 48092,
+          "defaultVariantId": "2e24d000-72a7-4b4f-a714-8e7ec927465d"
+        },
+        {
+          "questionId": 1259219,
+          "productId": 48091,
+          "defaultVariantId": "84998a60-abd7-4faa-a5cd-d208ac4b1be9"
+        },
+        {
+          "questionId": 1259220,
+          "productId": 48092,
+          "defaultVariantId": "2e24d000-72a7-4b4f-a714-8e7ec927465d"
+        },
+        {
+          "questionId": 1220521,
+          "productId": 48091,
+          "defaultVariantId": "84998a60-abd7-4faa-a5cd-d208ac4b1be9"
+        }
+      ]
+    },
+    {
+      "id": 23294,
+      "plan_id": 3801,
+      "name": "12-month",
+      "price": 3120,
+      "paymentSchedule": "Yearly",
+      "question_products": [
+        {
+          "questionId": 1259218,
+          "productId": 48097,
+          "defaultVariantId": "31bdcf7f-0acc-4b41-8a28-e3357b42568b"
+        },
+        {
+          "questionId": 1220520,
+          "productId": 48097,
+          "defaultVariantId": "31bdcf7f-0acc-4b41-8a28-e3357b42568b"
+        },
+        {
+          "questionId": 1259217,
+          "productId": 48096,
+          "defaultVariantId": "2651724e-3a1a-48eb-9100-76f5fd2ccefd"
+        },
+        {
+          "questionId": 1220519,
+          "productId": 48096,
+          "defaultVariantId": "2651724e-3a1a-48eb-9100-76f5fd2ccefd"
+        }
+      ]
+    },
+    {
+      "id": 23298,
+      "plan_id": 3803,
+      "name": "12-month",
+      "price": 1428,
+      "paymentSchedule": "Yearly",
+      "question_products": [
+        {
+          "questionId": 1188507,
+          "productId": 48099,
+          "defaultVariantId": "b1997937-974c-48bf-b543-59859f319426"
+        },
+        {
+          "questionId": 1246796,
+          "productId": 48099,
+          "defaultVariantId": "b1997937-974c-48bf-b543-59859f319426"
+        }
+      ]
+    },
+    {
+      "id": 23302,
+      "plan_id": 3804,
+      "name": "12-month",
+      "price": 1740,
+      "paymentSchedule": "Yearly",
+      "question_products": [
+        {
+          "questionId": 1246799,
+          "productId": 49249,
+          "defaultVariantId": "53cc2431-5151-432d-a432-3536afe4f15a"
+        },
+        {
+          "questionId": 1232171,
+          "productId": 49249,
+          "defaultVariantId": "53cc2431-5151-432d-a432-3536afe4f15a"
+        }
+      ]
+    }
+  ],
+  "checkout_questions": [
+    {
+      "id": 1119245,
+      "questionnaire_id": 11970,
+      "title": "MCheckout: Semaglutide B12 Maintenance ",
+      "question_type": "membership_checkout",
+      "products": [
+        {
+          "id": 46201,
+          "name": "Semaglutide/B12 Standard Maintenance (Monthly)"
+        },
+        {
+          "id": 46202,
+          "name": "Semaglutide/B12 Standard Maintenance (Quarterly)"
+        }
+      ],
+      "includes": null
+    },
+    {
+      "id": 1119246,
+      "questionnaire_id": 11970,
+      "title": "MCheckout: Semaglutide B12 Titration",
+      "question_type": "membership_checkout",
+      "products": [
+        {
+          "id": 46203,
+          "name": "Semaglutide/B12 Standard Titration (Quarterly)"
+        },
+        {
+          "id": 46142,
+          "name": "Semaglutide/B12 Standard Titration (Monthly)"
+        }
+      ],
+      "includes": null
+    },
+    {
+      "id": 1119249,
+      "questionnaire_id": 11970,
+      "title": "MCheckout: Tirzepatide B12 Maintenance ",
+      "question_type": "membership_checkout",
+      "products": [
+        {
+          "id": 46194,
+          "name": "Tirzepatide/B12 Standard Maintenance (Monthly)"
+        },
+        {
+          "id": 46195,
+          "name": "Tirzepatide/B12 Standard Maintenance (Quarterly)"
+        }
+      ],
+      "includes": null
+    },
+    {
+      "id": 1119250,
+      "questionnaire_id": 11970,
+      "title": "MCheckout: Tirzepatide B12 Titration ",
+      "question_type": "membership_checkout",
+      "products": [
+        {
+          "id": 46143,
+          "name": "Tirzepatide/B12 Standard Titration (Quarterly)"
+        },
+        {
+          "id": 46196,
+          "name": "Tirzepatide/B12 Standard Titration (Monthly)"
+        }
+      ],
+      "includes": null
+    },
+    {
+      "id": 1220528,
+      "questionnaire_id": 11970,
+      "title": "Tirz Oral Drops (Intro + Maintenance) ",
+      "question_type": "membership_checkout",
+      "products": [
+        {
+          "id": 48475,
+          "name": "Tirzepatide Sublingual Drops - 15ml [Membership]"
+        }
+      ],
+      "includes": null
+    },
+    {
+      "id": 1230449,
+      "questionnaire_id": 11970,
+      "title": "Billing Plan: Tirzepatide Microdose",
+      "question_type": "membership_checkout",
+      "products": [
+        {
+          "id": 46570,
+          "name": "Tirzepatide + B12 Microdose (Membership)"
+        }
+      ],
+      "includes": null
+    },
+    {
+      "id": 1188604,
+      "questionnaire_id": 12976,
+      "title": "Memb Checkout: Microdose Tirzepatide",
+      "question_type": "membership_checkout",
+      "products": [
+        {
+          "id": 46570,
+          "name": "Tirzepatide + B12 Microdose (Membership)"
+        }
+      ],
+      "includes": [
+        "FREE Shipping",
+        "Ongoing Medical Support",
+        "Patient Portal Access – Manage Prescriptions, Refills & Questions"
+      ]
+    },
+    {
+      "id": 1232171,
+      "questionnaire_id": 12973,
+      "title": "Memb Checkout: NAD+ Nasal Spray",
+      "question_type": "membership_checkout",
+      "products": [
+        {
+          "id": 49249,
+          "name": "NAD+ Nasal Spray 300mg/mL (Membership)"
+        }
+      ],
+      "includes": [
+        "FREE Shipping",
+        "Ongoing Medical Support",
+        "Patient Portal Access – Manage Prescriptions, Refills & Questions"
+      ]
+    },
+    {
+      "id": 1188559,
+      "questionnaire_id": 12975,
+      "title": "GHK-Cu Checkout 0.5mg",
+      "question_type": "membership_checkout",
+      "products": [
+        {
+          "id": 48098,
+          "name": "GHK-Cu Cream [Membership]"
+        }
+      ],
+      "includes": [
+        "FREE Shipping",
+        "Ongoing Medical Support",
+        "Patient Portal Access – Manage Prescriptions, Refills & Questions"
+      ]
+    },
+    {
+      "id": 1232169,
+      "questionnaire_id": 12975,
+      "title": "GHK-Cu Checkout 2mg",
+      "question_type": "membership_checkout",
+      "products": [
+        {
+          "id": 48098,
+          "name": "GHK-Cu Cream [Membership]"
+        }
+      ],
+      "includes": [
+        "FREE Shipping",
+        "Ongoing Medical Support",
+        "Patient Portal Access – Manage Prescriptions, Refills & Questions"
+      ]
+    }
+  ],
+  "questionnaires": [
+    {
+      "id": 12976,
+      "name": "Microdosing Intake",
+      "slug": "microdosing",
+      "status": "Approved",
+      "testMode": false
+    },
+    {
+      "id": 12975,
+      "name": "GHK-Cu Intake",
+      "slug": "ghk-cu",
+      "status": "Approved",
+      "testMode": false
+    },
+    {
+      "id": 12973,
+      "name": "NAD+ Intake",
+      "slug": "nad",
+      "status": "Approved",
+      "testMode": false
+    },
+    {
+      "id": 11970,
+      "name": "Weight loss Intake",
+      "slug": "weightloss",
+      "status": "Approved",
+      "testMode": false
+    }
+  ],
+  "product_variants": [
+    {
+      "product_id": 48098,
+      "name": "GHK-Cu Cream [Membership]",
+      "compounded": true,
+      "configured_pharmacy": "THE PHARMACY HUB LLC",
+      "variants": [
+        {
+          "id": "28778b48-f630-453f-aa59-c568e00fbb5d",
+          "name": "GHK-Cu 0.5% (5mg/gm) Cream-Quarterly"
+        },
+        {
+          "id": "29f48aab-7a0d-4a6c-a0c6-bb70aebe18b8",
+          "name": "GHK-Cu 5% (50mg/gm) Cream (Quarterly)"
+        },
+        {
+          "id": "5f20d273-d468-457c-928a-422a07f5b1ed",
+          "name": "GHK-Cu 2% (20mg/gm) Cream -Monthly "
+        },
+        {
+          "id": "a99bac73-41dd-4be5-a78d-7115d04dd2fa",
+          "name": "GHK-Cu 4% (40mg/gm) Cream (Monthly)"
+        },
+        {
+          "id": "c61befc7-a9bd-4bc9-8e76-94fd9644f1ec",
+          "name": "GHK-Cu 0.2% (2mg/gm) Cream -Quarterly"
+        },
+        {
+          "id": "c9e807c1-1ab3-47ad-9148-fcbff0989054",
+          "name": "GHK-Cu 5% (50mg/gm) Cream (Monthly)"
+        },
+        {
+          "id": "cbdddf27-1e47-44c2-850a-901f70057237",
+          "name": " GHK-Cu 0.5% (5mg/gm) Cream-Monthly"
+        },
+        {
+          "id": "d2010a19-8364-4ace-8b0b-ce8a8222ad3e",
+          "name": "GHK-Cu 4% (40mg/gm) Cream (Quarterly)"
+        },
+        {
+          "id": "e154bd64-4a96-44c8-8329-e5e493ef7734",
+          "name": "GHK-Cu 2% (20mg/gm) Cream -Quarterly"
+        },
+        {
+          "id": "fe725b15-9382-49b5-8d5c-9f9e65f83d7b",
+          "name": "GHK-Cu 0.2% (2mg/gm) Cream -Monthly "
+        }
+      ],
+      "supply_variants": [
+        {
+          "name": "GHK-Cu 0.2% (2mg/gm) Cream -Monthly ",
+          "strength": "0.2%",
+          "form": "Topical",
+          "quantity": 30,
+          "unit": "grams"
+        },
+        {
+          "name": "GHK-Cu 0.2% (2mg/gm) Cream -Quarterly",
+          "strength": "0.2%",
+          "form": "Topical",
+          "quantity": 90,
+          "unit": "gram"
+        },
+        {
+          "name": " GHK-Cu 0.5% (5mg/gm) Cream-Monthly",
+          "strength": " 0.5%",
+          "form": "Topical",
+          "quantity": 30,
+          "unit": "grams"
+        },
+        {
+          "name": "GHK-Cu 0.5% (5mg/gm) Cream-Quarterly",
+          "strength": "0.5% ",
+          "form": "Topical",
+          "quantity": 90,
+          "unit": "grams"
+        },
+        {
+          "name": "GHK-Cu 5% (50mg/gm) Cream (Monthly)",
+          "strength": "5%",
+          "form": "Topical",
+          "quantity": 30,
+          "unit": "grams"
+        },
+        {
+          "name": "GHK-Cu 5% (50mg/gm) Cream (Quarterly)",
+          "strength": "5% ",
+          "form": "Topical",
+          "quantity": 90,
+          "unit": "grams"
+        },
+        {
+          "name": "GHK-Cu 4% (40mg/gm) Cream (Monthly)",
+          "strength": "4%",
+          "form": "Topical",
+          "quantity": 30,
+          "unit": "grams"
+        },
+        {
+          "name": "GHK-Cu 4% (40mg/gm) Cream (Quarterly)",
+          "strength": "4% ",
+          "form": "Topical",
+          "quantity": 90,
+          "unit": "grams"
+        },
+        {
+          "name": "GHK-Cu 2% (20mg/gm) Cream -Monthly ",
+          "strength": "2%",
+          "form": "Topical",
+          "quantity": 30,
+          "unit": "grams"
+        },
+        {
+          "name": "GHK-Cu 2% (20mg/gm) Cream -Quarterly",
+          "strength": "2%",
+          "form": "Topical",
+          "quantity": 90,
+          "unit": "grams"
+        }
+      ]
+    },
+    {
+      "product_id": 48475,
+      "name": "Tirzepatide Sublingual Drops - 15ml [Membership]",
+      "compounded": true,
+      "configured_pharmacy": "THE PHARMACY HUB LLC",
+      "variants": [
+        {
+          "id": "0f393bf7-0aaf-427c-a68f-3164722af894",
+          "name": "- delete me -"
+        },
+        {
+          "id": "179eedb9-5333-4d32-a0a9-93b3a5c1dd03",
+          "name": " Tirzepatide Sublingual Drops - 15ml - Maintenance "
+        },
+        {
+          "id": "f9f5f030-95b0-400b-b89a-a8319e83da7b",
+          "name": "Tirzepatide Sublingual Drops 15ml Intro + Maintenance"
+        }
+      ],
+      "supply_variants": [
+        {
+          "name": "Tirzepatide Sublingual Drops 15ml Intro + Maintenance",
+          "strength": "1mg/mL; 5mg/mL",
+          "form": "Solution",
+          "quantity": 1,
+          "unit": "each"
+        },
+        {
+          "name": " Tirzepatide Sublingual Drops - 15ml - Maintenance ",
+          "strength": "5mg/mL",
+          "form": "Solution",
+          "quantity": 1,
+          "unit": "each"
+        }
+      ]
+    },
+    {
+      "product_id": 49249,
+      "name": "NAD+ Nasal Spray 300mg/mL (Membership)",
+      "compounded": true,
+      "configured_pharmacy": "Partell Specialty Pharmacy",
+      "variants": [
+        {
+          "id": "250ad377-cbb6-4da8-9120-9246efcebad5",
+          "name": "NAD+ Nasal Spray 30mL"
+        },
+        {
+          "id": "53cc2431-5151-432d-a432-3536afe4f15a",
+          "name": "NAD Nasal Spray 15ml"
+        }
+      ],
+      "supply_variants": [
+        {
+          "name": "NAD Nasal Spray 15ml",
+          "strength": "300mg/ml",
+          "form": "Nasal",
+          "quantity": 15,
+          "unit": "mL"
+        },
+        {
+          "name": "NAD+ Nasal Spray 30mL",
+          "strength": "300mg/ml",
+          "form": "Nasal Spray",
+          "quantity": 30,
+          "unit": "mL"
+        }
+      ]
+    },
+    {
+      "product_id": 46570,
+      "name": "Tirzepatide + B12 Microdose (Membership)",
+      "compounded": true,
+      "configured_pharmacy": "Vials Pharmacy",
+      "variants": [
+        {
+          "id": "bb8cc373-b2a4-42be-b871-1df3b61c0f5e",
+          "name": "Tirzepatide + B12 1.5mg Microdose (Quarterly)"
+        },
+        {
+          "id": "c2e020e0-e569-4f06-a986-e482f4462f32",
+          "name": "Tirzepatide 1.5mg Microdose (Monthly)"
+        }
+      ],
+      "supply_variants": [
+        {
+          "name": "Tirzepatide + B12 1.5mg Microdose (Monthly)",
+          "strength": "5mg/mL",
+          "form": "Injection",
+          "quantity": 1,
+          "unit": "Vial"
+        },
+        {
+          "name": "Tirzepatide + B12 1.5mg Microdose (Quarterly)",
+          "strength": "5mg/mL",
+          "form": "Injection",
+          "quantity": 3,
+          "unit": "vials"
+        }
+      ]
+    }
+  ]
+}

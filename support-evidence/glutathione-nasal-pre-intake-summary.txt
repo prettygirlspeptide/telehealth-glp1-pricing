@@ -1,0 +1,28 @@
+  - dialog "Order Summary":
+    - heading "Order Summary" [level=2]
+    - button "Back":
+      - generic: Back
+    - heading "Order Summary" [level=2]
+    - progressbar "Consultation progress"
+    - paragraph: Glutathione Nasal Spray
+    - button "Remove"
+    - paragraph: $130.00
+    - paragraph: To pay today
+    - paragraph: $130.00
+    - button "Add to Cart ($130.00)":
+      - generic: Add to Cart ($130.00)
+    - paragraph:
+      - text: Need to start over? Click
+      - button "here"
+    - button "Previous":
+      - generic: Previous
+  - heading "What is Glutathione?" [level=3]:
+    - button "What is Glutathione?" [expanded]:
+      - text: What is Glutathione?
+  - region "What is Glutathione?":
+    - paragraph: Glutathione is a tripeptide that can be naturally-occurring in all cells of the body. It is involved in the biological processes of free radical neutralization, detoxification, transport and storage of essential amino acids, maintenance of cell energy production, among others. Some firefighters even use it to detoxify their bodies from the high levels of cancer-causing agents and toxic smoke inhaled while fighting wildfires.
+  - heading "How quickly will I feel the effects?" [level=3]:
+    - button "How quickly will I feel the effects?":
+      - text: How quickly will I feel the effects?
+  - heading "Product Details" [level=3]:
+    - button "Product Details":

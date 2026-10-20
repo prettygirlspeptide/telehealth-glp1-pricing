@@ -1,0 +1,53 @@
+Browser tab: 285221924, Title: "Start your weight loss visit · Effecty", URL: "https://start.effecty.com/weight-loss/conditions_screen?promo=SAVEMORE".
+0 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/conditions_screen?promo=SAVEMORE
+	1 container
+		2 button Back
+			3 image
+			4 text Back
+		5 image Effecty
+		9 text MEDICAL HISTORY
+		6 heading Do any of these apply to you?, Value: 1
+			7 text Do any of these apply to you?
+		8 text Select everything that applies. Some of these change whether GLP-1 medication is safe for you.
+		10 container
+			11 checkbox None of the below, Value: 1
+			12 checkbox Currently taking insulin, a sulfonylurea, or a GLP-1 prescribed by another provider, Value: 0
+			13 checkbox Gastroparesis (paralysis of your intestines), Value: 0
+			14 checkbox Triglycerides over 600 at any point, Value: 0
+			15 checkbox Pancreatic cancer, Value: 0
+			16 checkbox Pancreatitis, Value: 0
+			17 checkbox Type 1 diabetes, Value: 0
+			18 checkbox Hypoglycemia (low blood sugar), Value: 0
+			19 checkbox Insulin-dependent diabetes, Value: 0
+			20 checkbox Thyroid cancer, Value: 0
+			21 checkbox Family history of thyroid cancer, Value: 0
+			22 checkbox Family history of Multiple Endocrine Neoplasia (MEN-2) syndrome, Value: 0
+			23 checkbox Anorexia or bulimia, Value: 0
+			24 checkbox Current symptomatic gallstones, Value: 0
+			25 checkbox Gallbladder disease or past removal of your gallbladder, Value: 0
+			26 checkbox Hypertension (high blood pressure), Value: 0
+			27 checkbox Dyslipidemia (high cholesterol or triglycerides), Value: 0
+			28 checkbox Sleep apnea, Value: 0
+			29 checkbox Osteoarthritis, Value: 0
+			30 checkbox Mobility issues which are impacted by body weight, Value: 0
+			31 checkbox Gastroesophageal reflux disease (GERD) related to body weight, Value: 0
+			32 checkbox Polycystic Ovary Syndrome (PCOS) with insulin resistance, Value: 0
+			33 checkbox Liver disease or conditions that affect the liver such as non-alcoholic fatty liver disease (NAFLD), Value: 0
+			34 checkbox Heart disease or conditions that affect the heart, Value: 0
+			35 checkbox Metabolic syndrome, Value: 0
+			36 checkbox Chronic kidney disease stage 3 or greater, Value: 0
+			37 checkbox Syndrome of inappropriate antidiuretic hormone, Value: 0
+			38 checkbox Hypothyroidism, hyperthyroidism, or thyroid issues, Value: 0
+			39 checkbox Prediabetes, Value: 0
+			40 checkbox Type 2 diabetes, Value: 0
+		41 button Continue
+		42 container Rated Excellent, 4.5 out of 5 on Trustpilot. 20,000+ patients
+			43 text Excellent 20,000+ patients
+		44 text AS SEEN IN
+		45 image Forbes
+		46 image Us Weekly
+		47 image New York Post
+		48 image Daily Mail
+		49 image The Daily Beast
+
+The focused UI element is 0 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/conditions_screen?promo=SAVEMORE

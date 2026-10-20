@@ -1,0 +1,79 @@
+- main:
+  - region "Account":
+    - heading "Account" [level=3]:
+      - button "Account" [expanded]:
+        - heading "Account" [level=4]
+    - region "Account":
+      - button "Don’t have an account? Create an account to continue"
+      - text: Email Address*
+      - textbox "Email Address*"
+      - text: Password*
+      - textbox "Password*"
+      - button:
+      - checkbox
+      - checkbox
+      - generic: Stay logged in
+      - link "Forgot password?":
+        - /url: /forgot-password
+      - button "Log In"
+  - region "Patient Information":
+    - heading "Patient Information" [level=3]:
+      - button "Patient Information":
+        - heading "Patient Information" [level=4]
+        - separator
+  - region "Pharmacy":
+    - heading "Pharmacy" [level=3]:
+      - button "Pharmacy":
+        - heading "Pharmacy" [level=4]
+        - separator
+  - region "Shipping Address":
+    - heading "Shipping Address" [level=3]:
+      - button "Shipping Address":
+        - heading "Shipping Address" [level=4]
+        - separator
+  - region "Subscriptions":
+    - heading "Subscriptions" [level=3]:
+      - button "Subscriptions":
+        - heading "Subscriptions" [level=4]
+        - separator
+  - region "Payment":
+    - heading "Payment" [level=3]:
+      - button "Payment":
+        - heading "Payment" [level=4]
+        - separator
+  - heading "Order Summary" [level=4]
+  - link "Edit Cart":
+    - /url: /cart
+  - separator
+  - generic: NAD+ Nasal Spray
+  - generic: $150.00
+  - generic: 1-Month Subscription
+  - generic: Delivery
+  - generic: Glutathione Nasal Spray
+  - generic: $130.00
+  - generic: 1-Month Subscription
+  - generic: Delivery
+  - heading "Pay Later" [level=3]
+  - generic: Prescription
+  - generic: TBD
+  - paragraph: If prescribed, medication costs will apply at your local pharmacy unless home delivery is selected. Your one-time consult fee covers your virtual visit and unlimited Care Team messaging. If you cannot be prescribed any treatment, you will be charged a fee of up to $25 instead of the full consult price in order to cover your provider's review.
+  - separator
+  - text: Sub-total (2 items)
+  - generic: $280.00
+  - text: Shipping
+  - generic: Free
+  - text: Tax
+  - generic: TBD
+  - separator
+  - text: Total Due Today
+  - generic: $280.00
+  - separator
+  - note:
+    - paragraph:
+      - text: For subscription items, you will be billed
+      - strong: $280.00 every 1 month
+      - text: .
+  - separator
+  - text: Need help? Email
+  - link "support@hellowisp.com":
+    - /url: mailto:support@hellowisp.com

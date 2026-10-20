@@ -1,0 +1,31 @@
+CURRENT AUTHENTICATED ENTRY; NO NEW CLINICAL ANSWER ENTERED.
+Source entry: https://portal.goodlifemeds.com/shop/product/20034
+Questionnaire: https://app.goodlifemeds.com/start-online-visit/nad-nasal-spray
+Healthy scenario: no symptom may be invented. No None option was displayed. No symptom, Other or Next selected this round. This restored a prior incomplete stage; earlier scenario application is historical, not freshly revalidated.
+
+Browser tab: 285221945, Title: "NAD+ Nasal Spray | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/nad-nasal-spray
+1 AXWebArea NAD+ Nasal Spray | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/nad-nasal-spray
+	2 container
+		3 container questionnaire-container
+			6 container
+				13 button Back
+					14 image
+					15 text Back
+				7 image Logo
+				8 pop up button (collapsed) Secondary Actions: Expand
+					9 image
+			16 container
+				17 heading Are you currently experiencing any of the following?, Value: 4
+					18 text Are you currently experiencing any of the following?
+				19 content list
+					20 button Fatigue or Low Energy
+					21 button Memory Issues
+					22 button Difficulty Concentrating
+					23 button Depression or Anxiety
+					24 button Sleep Disorders
+					25 button Chronic Pain
+					26 button Other
+				27 button Next
+		12 text NAD+ Nasal Spray | Good Life Meds
+
+The focused UI element is 3 container questionnaire-container

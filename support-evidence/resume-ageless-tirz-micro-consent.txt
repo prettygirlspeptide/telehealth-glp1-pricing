@@ -1,0 +1,114 @@
+Browser tab: 18, Title: "AgelessRx - Product Medical Informed Consent", URL: "https://customer.agelessrx.com/IntakeV2/MedicalInformedConsent?orderID=[omitted]".
+1 AXWebArea AgelessRx - Product Medical Informed Consent, URL: customer.agelessrx.com/IntakeV2/MedicalInformedConsent?orderID=[omitted]
+	2 container
+		3 progress indicator 25
+		4 container
+			5 link customer.agelessrx.com/IntakeV2/Router/MedicalInformedConsent/Back/PatientAllergy
+			6 image
+		7 container
+			8 heading Almost done! Next, we have a few treatment-specific questions., Value: 1
+				9 text Almost done! Next, we have a few treatment-specific questions.
+			10 heading Microdosing Tirzepatide + Glycine Injection, Value: 1
+				11 text Microdosing Tirzepatide + Glycine Injection
+			12 button (disabled) Continue with this treatment, ID: continueButton
+			13 container
+				14 checkbox (settable, integer) Description: By continuing, you confirm that you've read and understood the treatment information outlined below., Value: 0, ID: treatmentConsentCheckbox
+				15 text By continuing, you confirm that you've read and understood the treatment information outlined below.
+			16 container
+				17 button (expanded) Informed Consent & Medical Disclaimer, Secondary Actions: Collapse
+					18 text Informed Consent & Medical Disclaimer
+				19 text Overview
+				20 text GLP-1 receptor agonists are medications that mimic a naturally occurring hormone involved in appetite regulation, insulin secretion, and gastrointestinal motility. Brand name formulations of these agents are FDA-approved for type 2 diabetes and chronic weight management, and are increasingly prescribed off-label for metabolic health and longevity purposes.This is a personalized combination treatment of tirzepatide + glycine, an amino acid that may help support muscle metabolism.
+				21 text This document outlines the potential benefits, risks, contraindications, and safety precautions of GLP-1 therapy. Please read carefully and ask any questions prior to initiating treatment.
+				22 text Off-Label Use and Telehealth Disclosure
+				23 text GLP-1 medications may be prescribed off-label for purposes not explicitly approved by the FDA, such as weight loss or metabolic optimization. Treatment is provided via telehealth and does not replace in-person comprehensive care.
+				24 text Compounded Medication Disclosure
+				25 text While semaglutide, liraglutide, and tirzepatide are the active ingredients in some FDA-approved brand name medications, AgelessRx's compounded versions are not FDA-reviewed nor approved for quality, safety, or efficacy. Compounded medications may carry additional risks related to sterility, stability, and potency, even when sourced from licensed pharmacies. Treatments described in this document may involve compounded medications and/or off-label uses of FDA-approved drugs. These specific uses and formulations have not been evaluated by the FDA.
+				26 text Updates
+				27 text Drug science and safety is always evolving, and any updates to this consent and disclaimer will appear. We will update the "Last Updated" date as changes are made, and you are responsible for reviewing them. By continuing to use the medication after we post such changes, you agree to these terms as modified.
+				28 text Last updated 9/21/2026
+			29 container
+				30 button (expanded) Potential Benefits, Secondary Actions: Collapse
+					31 text Potential Benefits
+				32 content list
+					33 container
+						34 AXListMarker • 
+						35 text Weight loss, reduced appetite and caloric intake, improved glucose regulation, decreased inflammation and cardiometabolic risk markers
+			36 container
+				37 button (expanded) Common and Serious Side Effects, Secondary Actions: Collapse
+					38 text Common and Serious Side Effects
+				39 text Common side effects may occur most often during dose escalation and typically subside within 2–3 weeks. Serious side effects should result in discontinuation of medication and urgent/emergent in person medical care.
+				40 text Gastrointestinal:
+				41 text Common:  Nausea, Vomiting, Diarrhea, Constipation, Abdominal pain, bloating, GERD/reflux, Flatulence, Dry mouth, Decreased appetite
+				42 text Serious: Pancreatitis, Intestinal obstruction  or gastroparesis,  Gallbladder disease  (gallstones, cholecystitis). Rapid weight loss, a common effect of GLP-1 therapy, may increase the risk of developing gallstones or gallbladder disease.
+				43 text Neurological:
+				44 text Common:  Headache, Dizziness, Fatigue
+				45 text Serious: Suicidal thoughts  or  mood changes
+				46 text Cardiovascular:
+				47 text Common:  Increased heart rate, Low blood pressure with rising, Palpitations
+				48 text Serious:  Worsening of pre-existing  heart failure, Syncope  due to dehydration or orthostatic hypotension (fainting due to low blood volume), Possible worsening of pre-existing  arrhythmias  due to increased resting heart rate
+				49 text Endocrine/Metabolic:
+				50 text Common:  Low blood sugar (especially in diabetics), Hair thinning (anecdotal), Altered taste, Dehydration, Malaise
+				51 text Serious: Kidney injury  or worsening of chronic kidney disease;  Osteopenia  (long term use);  Thyroid C-cell tumors , including medullary thyroid carcinoma (MTC); Multiple Endocrine Neoplasia syndrome type 2 (MEN2). Thyroid C- cell tumors are observed in animal studies; risk in humans is unknown.
+				52 text Ophthalmic:
+				53 text Common:  Potential worsening of diabetic retinopathy
+				54 text Serious: Macular degeneration  (long-term use in older adults with diabetes)
+				55 text Injection Site Reactions:
+				56 text Common:  Redness, Swelling, Pain, Nodules
+				57 text Serious: Cellulitis
+				58 text Seek immediate medical attention for:  Severe abdominal pain (especially with vomiting), Difficulty breathing or swallowing, Facial/lip/tongue swelling, Visual distortion or sudden vision changes, Yellowing of skin or eyes (jaundice), Dark urine, Confusion or loss of consciousness, Suicidal thoughts or mood instability
+				59 text Monitoring and Follow up
+				60 content list
+					61 container
+						62 AXListMarker • 
+						63 text Notify your provider of any new or worsening symptoms
+					64 container
+						65 AXListMarker • 
+						66 text Periodic labs may be requested to assess diabetic control or monitor kidney function
+					67 container
+						68 AXListMarker • 
+						69 text Continue regular care with your primary care provider or relevant specialists
+			70 container
+				71 button (expanded) Contraindications, Secondary Actions: Collapse
+					72 text Contraindications
+				73 text Do NOT use GLP-1s if you have:
+				74 content list
+					75 container
+						76 AXListMarker • 
+						77 text Personal or family history of medullary thyroid carcinoma (MTC), Personal or family history of Multiple endocrine neoplasia syndrome type 2 (MEN2), Active gallbladder disease, Diagnosed or suspected gastroparesis, Known allergy to semaglutide, tirzepatide, liraglutide, or formulation ingredients, Pregnancy or breastfeeding (or if planning to become pregnant then must stop 2 months before conceiving)
+				78 text Use with caution (inform your provider):
+				79 content list
+					80 container
+						81 AXListMarker • 
+						82 text History of pancreatitis, Kidney dysfunction, Diabetic retinopathy, History of depression or suicidal ideation
+					83 container
+						84 AXListMarker • 
+						85 text You must discontinue GLP-1 medications  at least 7 days  before any elective surgery to reduce risk of delayed gastric emptying and aspiration. Notify your surgical team if you are using GLP-1 therapy. Please notify your AgelessRx provider if you are off the medication for longer than 7 days and wish to restart. Your AgelessRx provider will help you titrate back up if needed.
+			86 container
+				87 button (expanded) Medication Use Warning, Secondary Actions: Collapse
+					88 text Medication Use Warning
+				89 text This medication has been prescribed specifically for you based on your individual medical history, health status, and treatment goals.  Do not share, transfer, or administer your GLP-1 medication to anyone else . Doing so may lead to serious health risks or complications and is considered misuse of prescription medication. Do not titrate your medication unless approved by your clinician.
+			90 text Consent and Acknowledgment
+			91 text By continuing, I confirm that:
+			92 content list
+				93 container
+					94 AXListMarker • 
+					95 text I have provided a complete and accurate medical history.
+				96 container
+					97 AXListMarker • 
+					98 text I have reviewed and understand the potential risks and benefits of GLP-1 therapy.
+				99 container
+					100 AXListMarker • 
+					101 text I understand I must stop GLP-1 at least 1 week before elective surgeries.
+				102 container
+					103 AXListMarker • 
+					104 text I understand I may contact the AgelessRx medical team for non-urgent questions, and should seek emergency medical services for any urgent medical issues.
+				105 container
+					106 AXListMarker • 
+					107 text I understand that AgelessRx does not manage chronic or acute medical conditions.
+				108 container
+					109 AXListMarker • 
+					110 text I consent to GLP-1 treatment based on my provider's clinical judgment.
+			111 text The above statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.
+
+The focused UI element is 1 AXWebArea AgelessRx - Product Medical Informed Consent, URL: customer.agelessrx.com/IntakeV2/MedicalInformedConsent?orderID=[omitted]

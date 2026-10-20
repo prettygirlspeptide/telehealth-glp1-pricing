@@ -1,0 +1,27 @@
+Browser tab: 285221978, Title: "NAD+ Nasal Spray | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/nad-nasal-spray?promo=DW20".
+0 AXWebArea NAD+ Nasal Spray | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/nad-nasal-spray?promo=DW20
+	1 container
+		2 container questionnaire-container
+			5 container
+				9 button Back
+					10 image
+					11 text Back
+				6 image Logo
+				7 pop up button (collapsed) Secondary Actions: Expand
+					8 image
+			12 container
+				13 text TRUTHFULNESS CONSENT
+				14 heading Please attest to the following confirming that all information provided is true, Value: 4
+					15 text Please attest to the following confirming that all information provided is true
+				16 text You must agree to continue. If you do not agree, you can exit your asynchronous visit
+				17 button Truthfullness Consent
+					18 heading Truthfullness Consent, Value: 2
+						19 text Truthfullness Consent
+					20 image
+				21 text Please attest to the following confirming that all information you have provided to us is true and complete. Consent: I verify that I am the patient and that I have answered the questions asked in this intake form. I confirm that I have reviewed and understood all the questions asked of me. I attest that the answers and information I have provided in this questionnaire is true and complete to the best of my knowledge. I understand that it is critical to my health to share complete health information with my doctor. I will not hold the doctor or affiliated medical practice responsible for any oversights or omissions, whether intentional or not, in the information that I provided.
+				22 container headlessui-label-_r_6_
+					23 switch Description: By checking this box, you acknowledge the above information, Value: 0, ID: headlessui-switch-_r_7_
+					24 text By checking this box, you acknowledge the above information
+				25 button (disabled) Next
+
+The focused UI element is 0 AXWebArea NAD+ Nasal Spray | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/nad-nasal-spray?promo=DW20

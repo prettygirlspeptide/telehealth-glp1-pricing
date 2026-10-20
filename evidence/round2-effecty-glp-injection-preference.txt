@@ -1,0 +1,14 @@
+Browser tab: 285221924, Title: "Start your weight loss visit · Effecty", URL: "https://start.effecty.com/weight-loss/injection_ok?promo=SAVEMORE".
+0 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/injection_ok?promo=SAVEMORE
+	1 container
+		2 button Back
+			3 image
+			4 text Back
+		5 image Effecty
+		6 heading Are you comfortable giving yourself a weekly injection?, Value: 1
+			7 text Are you comfortable giving yourself a weekly injection?
+		8 text It's a tiny needle, once a week. Most people say it's easier than expected.
+		9 radio button Yes, I can give myself injections, Value: 1
+		10 radio button No, I'd prefer an oral formulation Less effective, but an alternative to injections, Value: 0
+
+The focused UI element is 0 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/injection_ok?promo=SAVEMORE

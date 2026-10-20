@@ -1,0 +1,139 @@
+Browser tab: 19, Title: "AgelessRx - Product Medical Informed Consent", URL: "https://customer.agelessrx.com/IntakeV2/MedicalInformedConsent?orderID=[omitted]".
+1 AXWebArea AgelessRx - Product Medical Informed Consent, URL: customer.agelessrx.com/IntakeV2/MedicalInformedConsent?orderID=[omitted]
+	2 container
+		3 progress indicator 25
+		4 container
+			5 link customer.agelessrx.com/IntakeV2/Router/MedicalInformedConsent/Back/PatientAllergy
+			6 image
+		7 container
+			8 heading Almost done! Next, we have a few treatment-specific questions., Value: 1
+				9 text Almost done! Next, we have a few treatment-specific questions.
+			10 heading GSH Injection, Value: 1
+				11 text GSH Injection
+			12 button (disabled) Continue with this treatment, ID: continueButton
+			13 container
+				14 checkbox (settable, integer) Description: By continuing, you confirm that you've read and understood the treatment information outlined below., Value: 0, ID: treatmentConsentCheckbox
+				15 text By continuing, you confirm that you've read and understood the treatment information outlined below.
+			16 container
+				17 button (expanded) Informed Consent & Medical Disclaimer, Secondary Actions: Collapse
+					18 text Informed Consent & Medical Disclaimer
+				19 text Overview
+				20 text Glutathione is a naturally occurring antioxidant composed of glutamine, cysteine, and glycine. It plays a critical role in detoxification, immune defense, cellular repair, and protection against oxidative stress. Glutathione levels decline with age, chronic illness, and environmental exposures.
+				21 text Supplementation is available in injectable, transdermal (patch), and intranasal forms. In the United States, these formulations are often compounded and used off-label for wellness, longevity, or cosmetic purposes.
+				22 text Off-Label Use and Telehealth Disclosure
+				23 text Glutathione therapy may be prescribed off-label for wellness or longevity purposes not explicitly approved by the FDA. Treatment is provided via telehealth and does not replace in-person comprehensive care.
+				24 text Compounded Medication Disclosure
+				25 text Compounded glutathione is not FDA-reviewed or approved for safety, efficacy, or quality. Compounded medications may carry risks related to sterility, potency, and stability even when sourced from licensed pharmacies.
+				26 text Updates
+				27 text Drug science and safety is always evolving, and any updates to this consent and disclaimer will appear. We will update the 'Last Updated' date as changes are made, and you are responsible for reviewing them. By continuing to use the medication after we post such changes, you agree to these terms as modified.
+				28 text Last updated 9/16/2025
+			29 container
+				30 button (expanded) Potential Benefits, Secondary Actions: Collapse
+					31 text Potential Benefits
+				32 content list
+					33 container
+						34 AXListMarker • 
+						35 text Enhanced antioxidant protection and cellular repair
+					36 container
+						37 AXListMarker • 
+						38 text Supports detoxification and liver function
+					39 container
+						40 AXListMarker • 
+						41 text May reduce pigmentation and improve skin clarity
+					42 container
+						43 AXListMarker • 
+						44 text Promotes immune resilience
+					45 container
+						46 AXListMarker • 
+						47 text Supports energy and mitochondrial function
+					48 container
+						49 AXListMarker • 
+						50 text May reduce inflammation and oxidative stress
+			51 container
+				52 button (expanded) Common and Serious Side Effects, Secondary Actions: Collapse
+					53 text Common and Serious Side Effects
+				54 text Administration Site Reactions
+				55 content list
+					56 container
+						57 AXListMarker • 
+						58 text Common: Redness, burning, swelling, or bruising at injection site
+					59 container
+						60 AXListMarker • 
+						61 text Rare/Serious: Infection or cellulitis
+				62 text Systemic
+				63 content list
+					64 container
+						65 AXListMarker • 
+						66 text Common: Lightheadedness, nausea, headache, fatigue
+					67 container
+						68 AXListMarker • 
+						69 text Rare/Serious: Allergic reaction (rash, itching, swelling, difficulty breathing)
+				70 text Other Possible Effects
+				71 content list
+					72 container
+						73 AXListMarker • 
+						74 text Sulfur-like body odor or metallic taste
+					75 container
+						76 AXListMarker • 
+						77 text Worsening of asthma in sensitive individuals
+				78 text Monitoring and Follow-Up
+				79 content list
+					80 container
+						81 AXListMarker • 
+						82 text Report any new or worsening symptoms to your provider
+					83 container
+						84 AXListMarker • 
+						85 text Continue primary care follow-up for all other health needs
+			86 container
+				87 button (expanded) Contraindications, Secondary Actions: Collapse
+					88 text Contraindications
+				89 text Do NOT use glutathione if you have:
+				90 content list
+					91 container
+						92 AXListMarker • 
+						93 text Known allergy to glutathione or its excipients
+					94 container
+						95 AXListMarker • 
+						96 text Severe or uncontrolled asthma
+					97 container
+						98 AXListMarker • 
+						99 text Active chemotherapy or radiation therapy
+			100 container
+				101 button (expanded) Medication Use Warning, Secondary Actions: Collapse
+					102 text Medication Use Warning
+				103 text This medication has been prescribed specifically for you based on your individual medical history, health status, and treatment goals. Do not share, transfer, or administer your GSH medication to anyone else. Doing so may lead to health risks or complications and is considered misuse of prescription medication.
+			104 container
+				105 button (expanded) Consent to Pre-Approved Automated Orders & Future Therapies, Secondary Actions: Collapse
+					106 text Consent to Pre-Approved Automated Orders & Future Therapies
+				107 content list
+					108 container
+						109 AXListMarker • 
+						110 text I understand that glutathione therapy may be approved automatically if no red flags are present.
+					111 container
+						112 AXListMarker • 
+						113 text If clinical concerns are identified, a licensed provider may contact me or deny therapy.
+					114 container
+						115 AXListMarker • 
+						116 text I understand that additional therapies may be offered in the future, and I consent to their use under the platform’s protocols should I choose to proceed.
+			117 text Consent and Acknowledgment
+			118 container
+				119 text By continuing, I confirm that:
+			120 content list
+				121 container
+					122 AXListMarker • 
+					123 text I understand glutathione is not FDA-approved for wellness, longevity, or cosmetic use.
+				124 container
+					125 AXListMarker • 
+					126 text I have reviewed the risks and benefits of glutathione therapy.
+				127 container
+					128 AXListMarker • 
+					129 text I understand I may contact my provider for non-urgent concerns and will seek emergency care for urgent issues.
+				130 container
+					131 AXListMarker • 
+					132 text I will maintain regular care with my primary physician for other health needs.
+				133 container
+					134 AXListMarker • 
+					135 text I consent to glutathione treatment under my provider’s clinical judgment or a pre-approved automated order.
+			136 text The above statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.
+
+The focused UI element is 1 AXWebArea AgelessRx - Product Medical Informed Consent, URL: customer.agelessrx.com/IntakeV2/MedicalInformedConsent?orderID=[omitted]

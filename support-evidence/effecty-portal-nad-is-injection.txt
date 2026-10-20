@@ -1,0 +1,25 @@
+Browser tab: 285221997, Title: "NAD+ Injection - Effecty | Effecty", URL: "https://go.effecty.com/start-online-visit/nad?utm_source=bask_patient_portal".
+0 AXWebArea NAD+ Injection - Effecty | Effecty, URL: go.effecty.com/start-online-visit/nad?utm_source=bask_patient_portal
+	1 container
+		2 container questionnaire-container
+			3 container
+				4 button Back
+					5 image
+					6 text Back
+				7 image Logo
+				8 pop up button (collapsed) Secondary Actions: Expand
+					9 image
+			10 container
+				11 heading What do you hope to achieve with NAD+ therapy?, Value: 4
+					12 text What do you hope to achieve with NAD+ therapy?
+				13 content list
+					14 button Overall wellness
+					15 button Mental clarity
+					16 button Better sleep
+					17 button Energy boost
+					18 button Anti-aging
+					19 button All of the above
+				20 button Next
+		21 text NAD+ Injection - Effecty | Effecty
+
+The focused UI element is 0 AXWebArea NAD+ Injection - Effecty | Effecty, URL: go.effecty.com/start-online-visit/nad?utm_source=bask_patient_portal

@@ -1,0 +1,40 @@
+  - dialog "Consultation":
+    - heading "Consultation" [level=2]
+    - button "Back":
+      - generic: Back
+    - heading "Consultation" [level=2]
+    - progressbar "Consultation progress"
+    - heading "Do you have a medication preference?" [level=3]
+    - paragraph: If you’ve had success with a particular medication, you may specifically request it.
+    - paragraph: If you aren't sure, let our medical providers decide the best option based on your medical history and preferences.
+    - button "Local Pickup | FDA-Approved Oral Wegovy Pill Pickup same-day at your local pharmacy. Medication costs apply at pharmacy. Rx":
+      - generic: Local Pickup | FDA-Approved Oral Wegovy Pill
+      - generic: Pickup same-day at your local pharmacy. Medication costs apply at pharmacy.
+      - generic: Rx
+    - button "Wegovy | Injectable Semaglutide Pickup same-day at your local pharmacy. Medication costs are paid separately at the pharmacy. Rx":
+      - generic: Wegovy | Injectable Semaglutide
+      - generic: Pickup same-day at your local pharmacy. Medication costs are paid separately at the pharmacy.
+      - generic: Rx
+    - button "Saxenda | Injectable Liraglutide Pickup same-day at your local pharmacy. Medication costs are paid separately at the pharmacy. Rx":
+      - generic: Saxenda | Injectable Liraglutide
+      - generic: Pickup same-day at your local pharmacy. Medication costs are paid separately at the pharmacy.
+      - generic: Rx
+    - button "Zepbound | Injectable Tirzepatide Pickup same-day at your local pharmacy. Medication costs are paid separately at the pharmacy. Rx":
+      - generic: Zepbound | Injectable Tirzepatide
+      - generic: Pickup same-day at your local pharmacy. Medication costs are paid separately at the pharmacy.
+      - generic: Rx
+    - button "Let the Medical Provider Decide Pickup same-day at your local pharmacy. Medication costs are paid separately at the pharmacy. Rx":
+      - generic: Let the Medical Provider Decide
+      - generic: Pickup same-day at your local pharmacy. Medication costs are paid separately at the pharmacy.
+      - generic: Rx
+    - button "Previous":
+      - generic: Previous
+    - button "Next" [active]:
+      - generic: Next
+  - heading "Our Standards" [level=3]:
+    - button "Our Standards" [expanded]:
+      - text: Our Standards
+  - region "Our Standards":
+    - paragraph: Here's why we are trusted by 2 million+ nationwide
+    - list:
+      - listitem: 100% online, board-certified medical providers

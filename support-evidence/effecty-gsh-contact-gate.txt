@@ -1,0 +1,22 @@
+Browser tab: 285221972, Title: "Glutathione - Membership | Effecty", URL: "https://go.effecty.com/start-online-visit/glut?utm_source=bask_patient_portal".
+1 AXWebArea Glutathione - Membership | Effecty, URL: go.effecty.com/start-online-visit/glut?utm_source=bask_patient_portal
+	2 container
+		3 container questionnaire-container
+			4 container
+				5 button Back
+					6 image
+					7 text Back
+				8 image Logo
+				9 pop up button (collapsed) Secondary Actions: Expand
+					10 image
+			23 container
+				24 heading Basics, Value: 4
+					25 text Basics
+				26 text Please enter your mobile number and zip code.
+				27 text field (settable)
+				28 text field (settable) Value: 90012, ID: zip_code
+				29 text By entering your phone number and checking the above box, you consent to Effecty calling or sending text messages to you for the purpose of verifying your phone number, ensuring patient safety, and for any other lawful purposes related to your Effecty account in use of our services. This includes cart/browser reminders, marketing promotions, order confirmations, shipment notifications, and messages from your provider. You must be 18 or older to opt in. Message and data rates may apply. Message frequency varies. Reply HELP for assistance or STOP to opt out.
+				30 button Next
+		22 text Glutathione - Membership | Effecty
+
+The focused UI element is 30 button Next

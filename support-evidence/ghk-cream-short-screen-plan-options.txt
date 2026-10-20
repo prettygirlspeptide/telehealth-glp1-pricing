@@ -1,0 +1,35 @@
+  - dialog "Consultation":
+    - heading "Consultation" [level=2]
+    - button "Back":
+      - generic: Back
+    - heading "Consultation" [level=2]
+    - progressbar "Consultation progress"
+    - heading "Choose your cadence." [level=3]
+    - paragraph:
+      - strong: Note
+      - text: ": this medication is available for delivery only."
+    - button "One-time | 1-month supply $125 paid once Rx":
+      - generic: One-time | 1-month supply
+      - generic: $125 paid once
+      - generic: Rx
+    - button "Subscription | 1-month supply $102.50 paid every month Cancel anytime Rx":
+      - generic: Subscription | 1-month supply
+      - generic: $102.50 paid every month
+      - generic: Cancel anytime
+      - generic: Rx
+    - button "One-time | 3-month supply $225 paid once Rx":
+      - generic: One-time | 3-month supply
+      - generic: $225 paid once
+      - generic: Rx
+    - button "Subscription | 3-month supply $184.50 paid every 3 months Cancel anytime Rx":
+      - generic: Subscription | 3-month supply
+      - generic: $184.50 paid every 3 months
+      - generic: Cancel anytime
+      - generic: Rx
+    - button "Previous":
+      - generic: Previous
+    - button "Next" [active]:
+      - generic: Next
+  - heading "What is GHK-Cu and how does it work?" [level=3]:
+    - button "What is GHK-Cu and how does it work?" [expanded]:
+      - text: What is GHK-Cu and how does it work?

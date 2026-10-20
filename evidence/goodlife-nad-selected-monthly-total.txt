@@ -1,0 +1,51 @@
+Browser tab: 285221978, Title: "NAD+ Nasal Spray | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/nad-nasal-spray?promo=DW20".
+0 AXWebArea NAD+ Nasal Spray | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/nad-nasal-spray?promo=DW20
+	1 container
+		2 container questionnaire-container
+			5 container
+				9 button Back
+					10 image
+					11 text Back
+				6 image Logo
+				7 pop up button (collapsed) Secondary Actions: Expand
+					8 image
+			12 container
+				13 text You're almost done [research account name redacted] treatment details
+				14 image
+				15 text FSA/HSA eligible for reimbursement NAD+ (Nasal Spray) Clinically formulated to deliver effective, physician-reviewed treatment. Includes:
+				16 image
+				17 text Medication and needed supplies
+				18 image
+				19 text Free expedited shipping
+				20 text Select your shipping plan Lock in bigger savings with longer plans.
+				21 content list
+					22 container
+						23 text NAD+ Nasal Spray (Monthly) $ 139.00 /mo
+						24 text Plan breakdown:
+						25 content list
+							26 container
+								27 AXListMarker • 
+								28 text Monthly Membership: Auto-delivered every 30 days
+							29 container
+								30 AXListMarker • 
+								31 text Free Expedited Shipping on every order
+							32 container
+								33 AXListMarker • 
+								34 text Hassle-free subscription — never run out
+							35 container
+								36 AXListMarker • 
+								37 text 1 Month Supply
+						38 text Cancel or change your plan at anytime through your online account portal.
+				39 text Total if prescribed $139.00 $ 111.20
+				40 heading Discounts, Value: 4
+					41 text Discounts
+				42 button (collapsed) Description: Expand discounts, Secondary Actions: Expand
+				43 text field (disabled) DW20
+				44 button (disabled) Apply
+				45 text Daily Wellness 20% Promo
+				46 button Remove coupon: Daily Wellness 20% Promo
+				47 text Select payment method You’ll be charged once prescribed. You won’t be charged if a provider determines that treatment isn’t right for you. By making a purchase, you accept a Self Pay arrangement. Your subscription will automatically renew and your credit card will be charged the subscription fee. You can cancel or modify your plan at any time in your patient portal.
+				48 image
+				49 text 256-BIT TLS SECURITY
+
+The focused UI element is 0 AXWebArea NAD+ Nasal Spray | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/nad-nasal-spray?promo=DW20

@@ -1,0 +1,6 @@
+Checked 2026-10-20. Official public product eligibility screen, before account creation or health history.
+Source: https://hellowisp.com/products/nad-nasal-spray
+Heading: Tell us where you are located.
+Public availability statement: longevity products available in all U.S. states except South Carolina.
+Derived state count:49 of50 U.S. states. This is the provider claim on this matched NAD nasal entry, not independent fulfillment verification.
+No post-health-questionnaire price was obtained.

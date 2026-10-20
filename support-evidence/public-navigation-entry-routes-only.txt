@@ -1,0 +1,31 @@
+PUBLIC CATALOGUE / ENTRY ROUTE EVIDENCE ONLY — NOT AN INTAKE QUOTE.
+Tracking parameters removed.
+
+0 AXWebArea Compounded Semaglutide | Good Life Meds, URL: goodlifemeds.com/products/semaglutide
+			30 link Description: Login, Value: portal.goodlifemeds.com/login
+			31 text MEDICATION
+			32 link Description: Compounded TirzepatideRx, Value: goodlifemeds.com/products/tirzepatide
+			33 link Description: Compounded SemaglutideRx, Value: goodlifemeds.com/products/semaglutide
+			34 link Description: Microdose GLP-1Rx, Value: goodlifemeds.com/products/microdose-glp-1
+			35 text NAME BRAND
+			43 link Description: Explore Weight Loss, Value: goodlifemeds.com/weight-loss
+				45 link Description: Compounded Tirzepatide Rx GLP-1 + GIP INJECTION, Value: goodlifemeds.com/products/tirzepatide
+			46 text DAILY PERFORMANCE
+			49 link Description: GlutathioneRx, Value: goodlifemeds.com/products/glutathione
+			51 text LONGEVITY
+			53 link Description: NAD+ InjectionsRx, Value: goodlifemeds.com/products/nad
+			54 link Description: NAD+ Nasal SprayRx, Value: goodlifemeds.com/products/nad-nasal-spray
+			55 link Description: Microdose GLP-1Rx, Value: goodlifemeds.com/products/microdose-glp-1
+			56 link Description: Explore Daily Wellness, Value: goodlifemeds.com/daily-wellness
+				58 link Description: NAD+ Injections Rx BOOSTS CELLULAR HEALTH, INCREASES ENERGY. PROMOTES HEALTHY AGING., Value: goodlifemeds.com/products/nad
+			59 text FOR MEN
+			66 text FOR WOMEN
+			67 link Description: Bliss StripsRx, Value: goodlifemeds.com/products/bliss-strips
+			68 link Description: Explore Sexual Health, Value: goodlifemeds.com/sexual-health
+			71 text FOR MEN
+			75 text FOR WOMEN
+			78 link Description: Explore Hair, Value: goodlifemeds.com/hair
+				95 link Description: Buy now, Value: app.goodlifemeds.com/start-online-visit/glp-promo
+				406 link Description: Compounded TirzepatideRx, Value: goodlifemeds.com/products/tirzepatide
+				407 link Description: NAD+ Nasal SprayRx, Value: goodlifemeds.com/products/nad
+The focused UI element is 0 AXWebArea Compounded Semaglutide | Good Life Meds, URL: goodlifemeds.com/products/semaglutide

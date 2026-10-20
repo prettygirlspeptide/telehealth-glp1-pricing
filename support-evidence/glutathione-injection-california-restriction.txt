@@ -1,0 +1,80 @@
+  - dialog "Consultation":
+    - heading "Consultation" [level=2]
+    - button "Back":
+      - generic: Back
+    - heading "Consultation" [level=2]
+    - progressbar "Consultation progress"
+    - heading "Unfortunately we aren't able to offer longevity programs in your state." [level=3]
+    - paragraph:
+      - text: While we work to expand our longevity offerings, we recommend our custom-made
+      - strong: Wisp Thrive Creatine Tablets
+      - text: . Research shows that supplementing creatine may help support increased energy levels, enhance cognitive function, and improve muscle health.
+    - button "$45 | Subscription 3-month supply, paid every 3 months ($15 per month) Cancel anytime.":
+      - generic: $45 | Subscription
+      - generic: 3-month supply, paid every 3 months ($15 per month)
+      - generic: Cancel anytime.
+    - button "$54 | One-time":
+      - generic: $54 | One-time
+    - button "Previous":
+      - generic: Previous
+    - button "Next" [active]:
+      - generic: Next
+  - heading "What is Glutathione?" [level=3]:
+    - button "What is Glutathione?" [expanded]:
+      - text: What is Glutathione?
+  - region "What is Glutathione?":
+    - paragraph: Glutathione is a tripeptide that can be naturally-occurring in all cells of the body, but natural levels tend to decrease with age and stress. It is involved in the biological processes of free radical neutralization, detoxification, transport and storage of essential amino acids, maintenance of cell energy production, among others.
+  - heading "How quickly will I feel the effects?" [level=3]:
+    - button "How quickly will I feel the effects?":
+      - text: How quickly will I feel the effects?
+  - heading "Product Details" [level=3]:
+    - button "Product Details":
+      - text: Product Details
+  - heading "How It Works" [level=2]
+  - region "Carousel":
+    - generic: Step 1
+    - heading "Explore Treatment Options" [level=3]
+    - generic: Find the care you need, or let your provider decide what’s best. Answer a few quick questions to get started.
+    - generic: Step 2
+    - heading "Our Experts Review" [level=3]
+    - generic: If needed, a licensed medical provider will follow up same day by secure chat or video to ensure you receive safe and effective care.
+    - generic: Step 3
+    - heading "FREE Delivery" [level=3]
+    - generic: Have your care shipped FREE to your home in discreet packaging.
+    - generic: Step 4
+    - heading "Our Doors Are Always Open" [level=3]
+    - generic: Chat with our Care Team anytime. We’ve got your back.
+  - heading "Glutathione Injection FAQ" [level=2]
+  - heading "Who can benefit from Glutathione?" [level=3]:
+    - button "Who can benefit from Glutathione?":
+      - text: Who can benefit from Glutathione?
+  - heading "Nasal Spray vs. Injection" [level=3]:
+    - button "Nasal Spray vs. Injection":
+      - text: Nasal Spray vs. Injection
+  - heading "Is Glutathione FDA-approved?" [level=3]:
+    - button "Is Glutathione FDA-approved?":
+      - text: Is Glutathione FDA-approved?
+  - heading "What’s the best way to take Glutathione?" [level=3]:
+    - button "What’s the best way to take Glutathione?":
+      - text: What’s the best way to take Glutathione?
+  - heading "Who shouldn’t use Glutathione?" [level=3]:
+    - button "Who shouldn’t use Glutathione?":
+      - text: Who shouldn’t use Glutathione?
+  - heading "What are the side effects of Glutathione?" [level=3]:
+    - button "What are the side effects of Glutathione?":
+      - text: What are the side effects of Glutathione?
+  - heading "What information do I need to provide after placing my order?" [level=3]:
+    - button "What information do I need to provide after placing my order?":
+      - text: What information do I need to provide after placing my order?
+  - heading "Will I still be charged if I am not approved for treatment?" [level=3]:
+    - button "Will I still be charged if I am not approved for treatment?":
+      - text: Will I still be charged if I am not approved for treatment?
+  - heading "Wisp Care Team" [level=2]
+  - img "Shannon Chatham wearing blue scrubs"
+  - paragraph: Injectable Glutathione is often used in functional medicine to support the body’s natural detoxification processes, immune system function, and overall wellness. Unlike oral supplements, the injectable form delivers glutathione directly into tissue, which may help support more consistent absorption. Many patients incorporate it as part of a broader wellness plan to complement nutrition, lifestyle, and other targeted therapies.
+  - generic: Dr. Shannon Chatham, DO
+  - heading "As seen in" [level=4]
+  - img "Inc. Best in Business 2025"
+  - img "CNN logo"
+  - img "New York Times logo"
+  - img "Forbes logo"

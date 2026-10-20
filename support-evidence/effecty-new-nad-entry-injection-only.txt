@@ -1,0 +1,22 @@
+Browser tab: 285221982, Title: "Start your NAD+ visit · Effecty", URL: "https://start.effecty.com/nad/price".
+0 AXWebArea Start your NAD+ visit · Effecty, URL: start.effecty.com/nad/price
+	1 container
+		2 button Back
+			3 image
+			4 text Back
+		5 image Effecty
+		6 text NAD+ is a coenzyme in every cell that declines with age. Injections are prescribed to support energy, focus and healthy aging.
+		7 container
+			8 text STARTING AT $160 PER MONTH*
+		9 text *NAD+ Injection, 12-month plan, $1,920 every 12 months. You're only charged if a provider prescribes it.
+		10 button Continue
+		11 container Rated Excellent, 4.5 out of 5 on Trustpilot
+			12 text Excellent
+		13 text AS SEEN IN
+		14 image Forbes
+		15 image Us Weekly
+		16 image New York Post
+		17 image Daily Mail
+		18 image The Daily Beast
+
+The focused UI element is 0 AXWebArea Start your NAD+ visit · Effecty, URL: start.effecty.com/nad/price

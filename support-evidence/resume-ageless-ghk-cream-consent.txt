@@ -1,0 +1,233 @@
+Browser tab: 20, Title: "AgelessRx - Product Medical Informed Consent", URL: "https://customer.agelessrx.com/IntakeV2/MedicalInformedConsent?orderID=[omitted]".
+1 AXWebArea AgelessRx - Product Medical Informed Consent, URL: customer.agelessrx.com/IntakeV2/MedicalInformedConsent?orderID=[omitted]
+	2 container
+		3 progress indicator 25
+		4 container
+			5 link customer.agelessrx.com/IntakeV2/Router/MedicalInformedConsent/Back/PatientAllergy
+			6 image
+		7 container
+			8 heading Almost done! Next, we have a few treatment-specific questions., Value: 1
+				9 text Almost done! Next, we have a few treatment-specific questions.
+			10 heading GHK-Cu Cream, Value: 1
+				11 text GHK-Cu Cream
+			12 button (disabled) Continue with this treatment, ID: continueButton
+			13 container
+				14 checkbox (settable, integer) Description: By continuing, you confirm that you've read and understood the treatment information outlined below., Value: 0, ID: treatmentConsentCheckbox
+				15 text By continuing, you confirm that you've read and understood the treatment information outlined below.
+			16 container
+				17 button (expanded) Informed Consent & Medical Disclaimer, Secondary Actions: Collapse
+					18 text Informed Consent & Medical Disclaimer
+				19 text Purpose
+				20 text GHK-Cu cream is a compounded peptide therapy used off-label for skin rejuvenation. It is a naturally occurring copper-binding peptide found in human plasma. It is commonly used in cosmetic dermatology and aesthetic medicine for skin and hair applications. When prescribed through AgelessRx, GHK-Cu will be compounded and used off-label for purposes such as skin health optimization.
+				21 text This document outlines the potential benefits, risks, contraindications, safety precautions, and alternatives associated with topical GHK-Cu therapy. Please read carefully and ask any questions before initiating treatment.
+			22 container
+				23 button (expanded) How It Works, Secondary Actions: Collapse
+					24 text How It Works
+				25 text GHK-Cu plays a role in tissue repair, collagen production, and cellular signaling.
+				26 text In plain terms, GHK-Cu works by:
+				27 content list
+					28 container
+						29 AXListMarker • 
+						30 text Supporting collagen and elastin production
+					31 container
+						32 AXListMarker • 
+						33 text Promoting wound healing and tissue remodeling
+					34 container
+						35 AXListMarker • 
+						36 text Modulating inflammation
+					37 container
+						38 AXListMarker • 
+						39 text Acting as an antioxidant and cellular signaling molecule
+				40 text Potential Benefits
+				41 text Individual responses may vary and benefits are not guaranteed. Potential benefits of Topical GHK-Cu may include:
+				42 content list
+					43 container
+						44 AXListMarker • 
+						45 text Improved skin firmness, elasticity, and appearance
+					46 container
+						47 AXListMarker • 
+						48 text Reduction in fine lines and photodamage
+					49 container
+						50 AXListMarker • 
+						51 text Support for hair density and scalp health
+					52 container
+						53 AXListMarker • 
+						54 text Enhanced wound healing and tissue repair
+					55 container
+						56 AXListMarker • 
+						57 text Improved skin barrier integrity
+			58 container
+				59 button (expanded) Possible Risks & Side Effects, Secondary Actions: Collapse
+					60 text Possible Risks & Side Effects
+				61 text All medications carry potential risks and side effects.
+				62 text Common side effects may include:
+				63 content list
+					64 container
+						65 AXListMarker • 
+						66 text Mild redness or irritation at application site
+					67 container
+						68 AXListMarker • 
+						69 text Dryness, itching, or sensitivity
+					70 container
+						71 AXListMarker • 
+						72 text Side effects are more likely with the higher strength of 3%
+				73 text Less common but serious risks may include:
+				74 content list
+					75 container
+						76 AXListMarker • 
+						77 text Allergic reaction (rash, swelling, hives)
+					78 container
+						79 AXListMarker • 
+						80 text Infection (if used on compromised or open skin improperly)
+					81 container
+						82 AXListMarker • 
+						83 text Theoretical copper imbalance with inappropriate systemic exposure
+				84 text You should notify your provider promptly if you experience concerning symptoms.
+				85 text Seek immediate medical attention
+				86 text  if you experience fever, signs of allergic reaction (such as facial swelling, rash, or difficulty breathing), severe or persistent symptoms, signs of infection, unusual bleeding or bruising, or any other concerning reactions.
+			87 container
+				88 button (expanded) Who Should Not Take This Medication, Secondary Actions: Collapse
+					89 text Who Should Not Take This Medication
+				90 text Do not take this medication if any of the following apply to you:
+				91 content list
+					92 container
+						93 AXListMarker • 
+						94 text Known hypersensitivity to copper peptides or formulation ingredients
+					95 container
+						96 AXListMarker • 
+						97 text Known copper metabolism disorders (e.g., Wilson’s disease)
+					98 container
+						99 AXListMarker • 
+						100 text Known allergy to the medication or its components
+					101 container
+						102 AXListMarker • 
+						103 text Active or uncontrolled skin infection at application site
+					104 container
+						105 AXListMarker • 
+						106 text Pregnancy or breastfeeding (unless explicitly approved)
+			107 container
+				108 button (expanded) Use With Caution, Secondary Actions: Collapse
+					109 text Use With Caution
+				110 text Notify your provider before starting or continuing treatment if any of the following apply:
+				111 content list
+					112 container
+						113 AXListMarker • 
+						114 text Autoimmune or inflammatory skin disorders (e.g. psoriasis)
+					115 container
+						116 AXListMarker • 
+						117 text Heavy metal metabolism disorders
+					118 container
+						119 AXListMarker • 
+						120 text Chronic medical conditions
+					121 container
+						122 AXListMarker • 
+						123 text Immune system disorders
+					124 container
+						125 AXListMarker • 
+						126 text Liver or kidney dysfunction
+					127 container
+						128 AXListMarker • 
+						129 text History of adverse reactions to similar therapies
+					130 container
+						131 AXListMarker • 
+						132 text Uncontrolled chronic medical conditions
+					133 container
+						134 AXListMarker • 
+						135 text History of adverse reactions to similar topical therapies
+					136 container
+						137 AXListMarker • 
+						138 text Planned surgery or procedures
+			139 container
+				140 button (expanded) Patient Responsibilities, Secondary Actions: Collapse
+					141 text Patient Responsibilities
+				142 text You understand and agree to:
+				143 content list
+					144 container
+						145 AXListMarker • 
+						146 text Take this medication exactly as prescribed
+					147 container
+						148 AXListMarker • 
+						149 text Stay adequately hydrated and follow safety instructions
+					150 container
+						151 AXListMarker • 
+						152 text Pause the medication during significant illness, fasting, or medical procedures if instructed
+					153 container
+						154 AXListMarker • 
+						155 text Inform your primary care provider of your use of this medication
+					156 container
+						157 AXListMarker • 
+						158 text Seek urgent or emergency care for serious or concerning symptoms
+			159 container
+				160 button (expanded) Alternatives, Secondary Actions: Collapse
+					161 text Alternatives
+				162 text Alternatives may include:
+				163 content list
+					164 container
+						165 AXListMarker • 
+						166 text Lifestyle modification (diet, exercise, sleep, stress management)
+					167 container
+						168 AXListMarker • 
+						169 text Other medications or therapies
+					170 container
+						171 AXListMarker • 
+						172 text Choosing not to pursue medication treatment
+				173 text You understand that declining treatment may result in fewer or no benefits.
+			174 container
+				175 button (expanded) Off-Label Use & Telehealth Disclosure, Secondary Actions: Collapse
+					176 text Off-Label Use & Telehealth Disclosure
+				177 text This medication may be prescribed for off-label purposes, meaning uses not specifically approved by the FDA. Treatment is provided via telehealth and does not replace in-person care or ongoing management by a primary care provider or specialist. Your provider’s recommendations are based on available evidence, clinical experience, and your individual health profile.
+			178 container
+				179 button (expanded) Compounded Medication Disclosure (if applicable), Secondary Actions: Collapse
+					180 text Compounded Medication Disclosure (if applicable)
+				181 text When compounded, this medication is prepared by a U.S.-licensed compounding pharmacy operating in compliance with applicable state and federal regulations. Compounded medications are not reviewed or approved by the FDA as finished products for quality, safety, or efficacy. Compounding may introduce additional risks, including variability in potency, sterility, stability, or absorption. Use of compounded medications should occur only with appropriate medical oversight.
+				182 text Monitoring and Follow-Up
+				183 text Your provider may recommend baseline or periodic monitoring (e.g., labs, vitals, symptom check-ins). Monitoring recommendations are individualized and may evolve over time. You understand that lack of monitoring may carry additional risk.
+				184 text You are encouraged to maintain regular care with your primary care provider and/or relevant specialists.
+				185 text Medication Use Warning
+				186 text This therapy has been prescribed specifically for you based on your individual health history and goals.
+				187 content list
+					188 container
+						189 AXListMarker • 
+						190 text Do not share, sell, or administer this therapy to others
+					191 container
+						192 AXListMarker • 
+						193 text Do not modify dosing without medical guidance
+					194 container
+						195 AXListMarker • 
+						196 text Disclose use of this therapy to all healthcare providers
+					197 container
+						198 AXListMarker • 
+						199 text Stop therapy and notify your provider if serious adverse effects occur
+			200 container
+				201 button (expanded) Updates, Secondary Actions: Collapse
+					202 text Updates
+				203 text Medical knowledge and safety information evolve. Updates to this consent may occur, and the “Last Updated” date will reflect changes. Continued use of the medication after updates indicates acknowledgment of the revised information.
+				204 text Last updated:  7/17/26
+			205 text Consent & Acknowledgment
+			206 container
+				207 text By continuing,  I understand that :
+			208 content list
+				209 container
+					210 AXListMarker • 
+					211 text I have provided a complete and accurate medical history
+				212 container
+					213 AXListMarker • 
+					214 text I have reviewed and understand the benefits, risks, and alternatives
+				215 container
+					216 AXListMarker • 
+					217 text This medication may be prescribed off-label
+				218 container
+					219 AXListMarker • 
+					220 text Telehealth care does not replace routine or urgent in-person medical care
+				221 container
+					222 AXListMarker • 
+					223 text I may stop treatment at any time by informing my provider
+				224 container
+					225 AXListMarker • 
+					226 text I may contact the AgelessRx medical team for non-urgent questions and will seek emergency care for urgent concerns
+				227 container
+					228 AXListMarker • 
+					229 text I consent to treatment based on my provider’s clinical judgment
+			230 text The above statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.
+
+The focused UI element is 1 AXWebArea AgelessRx - Product Medical Informed Consent, URL: customer.agelessrx.com/IntakeV2/MedicalInformedConsent?orderID=[omitted]

@@ -1,0 +1,16 @@
+Browser tab: 285221973, Title: "Glutathione | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glutathione?promo=DW20".
+1 AXWebArea Glutathione | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glutathione?promo=DW20
+	2 container
+		8 container questionnaire-container
+			11 container
+				15 button Back
+					16 image
+					17 text Back
+				12 image Logo
+				13 pop up button (collapsed) Secondary Actions: Expand
+					14 image
+			18 container
+				19 text entry area (settable) PRICING RESEARCH ONLY: fictional healthy study case. No current symptoms, including no fatigue, memory or concentration problems, depression/anxiety, sleep disorder or chronic pain. Other was selected only because no None option was available. This is not the account holder’s medical history. No clinician review, prescription, treatment or order is requested; we are checking an exact pre-payment quote.
+				20 button Next
+
+The focused UI element is 19 text entry area (settable) PRICING RESEARCH ONLY: fictional healthy study case. No current symptoms, including no fatigue, memory or concentration problems, depression/anxiety, sleep disorder or chronic pain. Other was selected only because no None option was available. This is not the account holder’s medical history. No clinician review, prescription, treatment or order is requested; we are checking an exact pre-payment quote.

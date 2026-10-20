@@ -1,0 +1,127 @@
+- main:
+  - heading "Online Weight Management Support" [level=1]
+  - paragraph:
+    - strong: Trusted by 2 Million+ Nationwide.
+  - list:
+    - text: Now offering
+    - link "Oral Wegovy":
+      - /url: /products/weight-care-consult
+    - listitem: Personalized weight loss treatments, including Wegovy, Saxenda, Zepbound and prescription semaglutide
+    - listitem: Clinically-backed, Wisp-exclusive metabolic support capsules
+    - listitem: Local pharmacy pick-up and FREE delivery available
+  - link "Get A Consult":
+    - /url: /products/weight-care-consult
+    - generic: Get A Consult
+  - link "Shop Treatments":
+    - /url: /shop/weight-care#weight-care-options
+    - generic: Shop Treatments
+  - img "A group of women outdoors running with motion blur"
+  - heading "Care is restricted by state. Please see full details in FAQ." [level=6]
+  - heading "How It Works" [level=2]
+  - region "Carousel":
+    - generic: Step 1
+    - heading "Initial Consult" [level=3]
+    - generic: Our licensed medical providers carefully review your medical intake form and, if you’re eligible, create a safe and effective treatment plan.
+    - generic: Step 2
+    - heading "FREE Delivery or Local Pickup" [level=3]
+    - generic: Your medication ships free in discreet packaging straight to your door, or we can send it to your local pharmacy.
+    - generic: Step 3
+    - heading "Monthly Check-Ins" [level=3]
+    - generic: Your provider will check in with you each month to track your progress and adjust your medication or dosage if needed.
+    - generic: Step 4
+    - heading "Our Doors Are Always Open" [level=3]
+    - generic: Questions or concerns? Chat with our Care Team anytime. We’ve got your back.
+  - heading "Weight Care Options" [level=3]
+  - link "A group of women jogging outdoors Weight Care Consult":
+    - /url: /products/weight-care-consult
+    - img "A group of women jogging outdoors"
+    - generic: Get Started
+    - heading "Weight Care Consult" [level=3]
+  - paragraph: $99
+  - paragraph: Prescription weight loss treatment and expert guidance to achieve your health goals safely and effectively.
+  - link "A hand holding a small white pill with a cream background Same Day Rx Metformin Prescription for PCOS":
+    - /url: /products/metformin
+    - img "A hand holding a small white pill with a cream background"
+    - generic: Get Started
+    - generic: Same Day Rx
+    - heading "Metformin Prescription for PCOS" [level=3]
+  - paragraph: Starting at $24
+  - paragraph: Prescription Metformin tablets to treat PCOS-related weight gain, irregular cycles, and more.
+  - link "A person's hand holding a dropper bottle with a cream background Compounded Sublingual Semaglutide Drops 15mL":
+    - /url: /products/compounded-sublingual-semaglutide
+    - img "A person's hand holding a dropper bottle with a cream background"
+    - generic: Get Started
+    - heading "Compounded Sublingual Semaglutide Drops 15mL" [level=3]
+  - paragraph: $225/ month
+  - paragraph: Prescription weight loss treatment and expert guidance to achieve your health goals safely and effectively.
+  - link "A bottle of Wisp Metabolic Support capsules with pills spilling out on a cream surface 50% Off Wisp Metabolic Support & GLP-1 Boost Capsules":
+    - /url: /products/metabolic-glp-support-capsules
+    - img "A bottle of Wisp Metabolic Support capsules with pills spilling out on a cream surface"
+    - generic: Get Started
+    - generic: 50% Off
+    - heading "Wisp Metabolic Support & GLP-1 Boost Capsules" [level=3]
+  - paragraph: "Starting at $73$36.50with code: BOOST50"
+  - paragraph: This custom formulated supplement includes ingredients to help you achieve your metabolic health goals.
+  - heading "Branded Injectables" [level=2]
+  - paragraph: Powerful prescription GLP-1 medication delivered by injection that can aid in weight loss and help you achieve your health goals.
+  - list:
+    - listitem: Wegovy
+    - listitem: Zepbound
+    - listitem: Saxenda
+  - link "Get Started":
+    - /url: /products/weight-care-consult
+    - generic: Get Started
+  - img "A woman giving herself an injection in her abdomen"
+  - heading "Sublingual Semaglutide" [level=2]
+  - paragraph: For those who prefer an alternative to needles, prescription semaglutide can be delivered orally under the tongue to support your weight management journey.
+  - link "Get Started":
+    - /url: /products/compounded-sublingual-semaglutide
+    - generic: Get Started
+  - img "A woman's hand holding an amber dropper bottle in front of a cream background"
+  - heading "Weight Care FAQ" [level=2]
+  - heading "Am I eligible for prescription semaglutide through Wisp?" [level=3]:
+    - button "Am I eligible for prescription semaglutide through Wisp?":
+      - text: Am I eligible for prescription semaglutide through Wisp?
+  - heading "Which states are eligible for branded injectables?" [level=3]:
+    - button "Which states are eligible for branded injectables?":
+      - text: Which states are eligible for branded injectables?
+  - heading "Which states are eligible for sublingual semaglutide?" [level=3]:
+    - button "Which states are eligible for sublingual semaglutide?":
+      - text: Which states are eligible for sublingual semaglutide?
+  - heading "Is my personal information secure?" [level=3]:
+    - button "Is my personal information secure?":
+      - text: Is my personal information secure?
+  - heading "Can I use insurance for Weight Care treatment?" [level=3]:
+    - button "Can I use insurance for Weight Care treatment?":
+      - text: Can I use insurance for Weight Care treatment?
+  - heading "When should I expect to hear from a provider?" [level=3]:
+    - button "When should I expect to hear from a provider?":
+      - text: When should I expect to hear from a provider?
+  - heading "What information do I need to provide after placing my order?" [level=3]:
+    - button "What information do I need to provide after placing my order?":
+      - text: What information do I need to provide after placing my order?
+  - heading "How much does Weight Care treatment cost?" [level=3]:
+    - button "How much does Weight Care treatment cost?":
+      - text: How much does Weight Care treatment cost?
+  - heading "Learn More" [level=2]
+  - link "Woman in a black jacket in motion blurred portrait A Beginner’s Guide to PCOS Read More":
+    - /url: /blog/beginners-guide-to-pcos
+    - img "Woman in a black jacket in motion blurred portrait"
+    - heading "A Beginner’s Guide to PCOS" [level=6]
+    - text: Read More
+  - 'link "Blurred shot of legs moving through a green field with hiking pole in hand. Zofran: Your Medicine Cabinet Must-Have Read More"':
+    - /url: /blog/zofran-the-must-have-thats-missing-from-your-medicine-cabinet
+    - img "Blurred shot of legs moving through a green field with hiking pole in hand."
+    - 'heading "Zofran: Your Medicine Cabinet Must-Have" [level=6]'
+    - text: Read More
+  - 'link "Abstract macro shot of bubbles on blue Debunking Myths: The Truth About Weight Loss and GLP-1 Medications Read More"':
+    - /url: /blog/debunking-myths-the-truth-about-weight-loss-and-glp1-medications
+    - img "Abstract macro shot of bubbles on blue"
+    - 'heading "Debunking Myths: The Truth About Weight Loss and GLP-1 Medications" [level=6]'
+    - text: Read More
+  - paragraph:
+    - text: This product has not been evaluated by the FDA. The globally sourced medications offered are not intended to diagnose, treat, cure, or prevent any disease. By purchasing, you acknowledge that you are assuming the risks of using a globally sourced, non-FDA-approved product for personal use and that custom delays may occur during shipment.
+    - text: Wegovy and Wisp Inc. are separate and non-affiliated companies.
+    - text: ERIOMIN® and ERIOMIN (AND DESIGN)® are registered trademarks of Ingredients by Nature, LLC. and is used by permission (U.S. Reg. Nos. 6,048,696 and 6,593,207). U.S. Pat. Nos. 10,596,185; 11,197,879; and 11,197,880
+    - text: "Note: Weight loss prescription product/GLP-1 medications and GLP-1 Support Capsules are not to be used together. FOR ADULTS 18 YEARS OF AGE AND OVER. Always consult with your healthcare provider before making life changes and if pregnant or nursing, taking medication, or have a medical condition. Do not use if safety seal is damaged or missing. Keep out of the reach of children. Store in a cool, dry place."
+    - text: Wisp is not affiliated and does not sponsor or endorse any company names, logos, or brands shown or mentioned. All product names, logos, brands, and other trademarks or images shown or mentioned are the property of the respective brand owners and are only used to identify the products and services of their respective owners.

@@ -1,0 +1,63 @@
+Browser tab: 285221997, Title: "NAD+ Nasal Spray | Effecty", URL: "https://go.effecty.com/start-online-visit/nad-s".
+0 AXWebArea NAD+ Nasal Spray | Effecty, URL: go.effecty.com/start-online-visit/nad-s
+	1 container
+		2 container questionnaire-container
+			3 container
+				4 button Back
+					5 image
+					6 text Back
+				7 image Logo
+				8 pop up button (collapsed) Secondary Actions: Expand
+					9 image
+			10 container
+				11 heading Review treatment, Value: 4
+					12 text Review treatment
+				13 text After this, we’ll connect you with a provider to review your information and determine if a prescription is right for you.
+				14 heading Plan, Value: 4
+					15 text Plan
+				16 container
+					17 image NAD+ Nasal Spray 15ml
+					18 heading NAD+ Nasal Spray 15ml, Value: 2
+						19 text NAD+ Nasal Spray 15ml
+					20 text 300mg/ml · Rx
+					21 button
+					22 text 1-month supply
+					23 container
+						24 text $ 180.00 /mo
+				25 heading 4
+				26 text *Only treatments that have not been shipped can be paused or canceled.
+				27 heading Due if prescribed, Value: 4
+					28 text Due if prescribed
+				29 container
+					30 text $ 180.00 /mo
+				31 heading Consult Fee, Value: 4
+					32 text Consult Fee
+				33 heading $0, Value: 4
+					34 text $0
+				35 heading Discounts, Value: 4
+					36 text Discounts
+				37 button (expanded) Description: Collapse discounts, Secondary Actions: Collapse
+				38 text field (settable)
+				39 button (disabled) Apply
+				40 heading Select payment method, Value: 4
+					41 text Select payment method
+				42 text You'll be charged once prescribed. You won't be charged if a provider determines that treatment isn't right for you.
+				43 container Secure payment input frame
+					44 AXWebArea about:blank
+				45 button Total ($0) Next
+					46 text Total
+					47 text  ($0)
+					48 text Next
+				49 container
+					50 text By making a purchase, you accept a Self Pay arrangement. You can cancel or modify your plan at any time in your patient portal.
+					51 button Learn More
+			52 container
+				53 text ©2026 Effecty LLC
+				54 link Description: (800) 597-0884, Value: tel:8005970884
+			55 image 4.5 Excellent Rating
+			56 link Description: hello@effecty.com, Value: mailto:hello@effecty.com
+			57 link Description: Instagram, Value: instagram.com/effectyhealth/
+			58 link Description: Privacy Policy, Value: go.effecty.com/policy/privacy-policy?id=4022
+			59 link Description: Terms & Conditions, Value: go.effecty.com/policy/terms-of-service?id=4022
+
+The focused UI element is 0 AXWebArea NAD+ Nasal Spray | Effecty, URL: go.effecty.com/start-online-visit/nad-s

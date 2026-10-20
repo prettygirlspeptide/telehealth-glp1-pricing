@@ -1,0 +1,63 @@
+Browser tab: 19, Title: "AgelessRx - Checkout", URL: "https://customer.agelessrx.com/IntakeV2/Checkout/[identifier omitted]".
+1 AXWebArea AgelessRx - Checkout, URL: customer.agelessrx.com/IntakeV2/Checkout/[identifier omitted]
+	2 container
+		3 progress indicator 25
+		4 container
+			5 link customer.agelessrx.com/IntakeV2/Router/Checkout/Back?orderID=[omitted]
+			6 image
+		7 container
+			8 heading Complete your visit, Value: 1
+				9 text Complete your visit
+			10 heading GSH Injection, Value: 1
+				11 text GSH Injection
+			12 container
+				13 text $169 /Monthly
+			14 content list
+				15 container
+					16 text Subscription $169
+				17 container
+					18 text Provider evaluation FREE
+				19 container
+					20 text Ongoing check-ins INCLUDED
+				21 container
+					22 text Shipping FREE
+				51 container
+					52 text Discount (GSHINJ50)
+					53 link Description: Remove, Value: customer.agelessrx.com/IntakeV2/Checkout/[identifier omitted]#, ID: remove-coupon
+					54 text -$50.00
+			23 content list
+				24 container
+					25 text TOTAL  (if prescribed)
+					55 text $119.00
+				27 container
+					28 text DUE NOW
+					29 text $0.00
+			30 button (collapsed) Apply a promo code, ID: apply-promo-code-link, Secondary Actions: Expand
+			31 heading Payment method, Value: 2, ID: payment-section-heading
+				32 text Payment method
+			33 image
+			56 AXWebArea Chargebee, URL: js.chargebee.com/assets/cbjs-2026.10.16-04.58/v2/component.html?site=AgelessRx&env=production#customer.agelessrx.com
+				57 container
+					58 container
+						59 text field (settable) Card Number
+					60 text field (settable) Expiry
+					61 text field (settable) CVV
+			34 button Submit, ID: submit-payment
+			35 text $0 Due Now - Pay Upon Medical Approval
+			36 text By clicking "Submit", you agree to the 
+			37 link Description: Terms of Service, Value: agelessrx.com/terms-services/
+			38 text  and 
+			39 link Description: Privacy Policy, Value: agelessrx.com/privacy-policy/
+			40 text . You also agree that, if prescribed, you will automatically be charged 
+			41 container disclaimer-charge-split
+				62 text $119.00
+				43 text  for your first shipment and 
+				63 text $169.00
+				45 text  monthly thereafter, until you cancel or your prescription expires.
+			46 text AgelessRx uses a third-party service to verify patient identity (see 
+			47 link Description: terms, Value: withpersona.com/legal/privacy-policy#identity-verification
+			48 text ) at checkout. Verification may happen automatically using information provided at intake; if not verified, you may be asked to submit a selfie or government-issued ID. You can pause or cancel your plan any time prior to your next shipment by logging in to your AgelessRx account and clicking "Manage" from your Orders tab.
+			49 text FSA/HSA Eligible
+			50 text  - Pay using your FSA/HSA card now or access your itemized receipt later to apply funds.
+
+The focused UI element is 1 AXWebArea AgelessRx - Checkout, URL: customer.agelessrx.com/IntakeV2/Checkout/[identifier omitted]

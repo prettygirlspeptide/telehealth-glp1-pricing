@@ -1,0 +1,73 @@
+Fitish official catalog completeness check
+Checked 2026-10-19
+Navigated homepage -> The Clinic -> its four visible treatment collections, then official on-site search for glutathione and PT-141. Product names and counts below are observations from rendered catalog/search pages; public prices were not imported. Recently viewed products excluded from the collection inventory.
+
+[
+  {
+    "source_url": "https://fitish.com/collections/wellness-1",
+    "title": "Energy",
+    "visible_products": [
+      "NAD+ Nasal Spray",
+      "NAD+",
+      "MIC B12",
+      "Sermorelin"
+    ],
+    "pagination_observed": false
+  },
+  {
+    "source_url": "https://fitish.com/collections/hormones",
+    "title": "Hormones",
+    "visible_products": [
+      "Sermorelin"
+    ],
+    "pagination_observed": false,
+    "recently_viewed_excluded": true
+  },
+  {
+    "source_url": "https://fitish.com/collections/longevity",
+    "title": "Anti-Aging",
+    "visible_products": [
+      "NAD+ Nasal Spray",
+      "NAD+"
+    ],
+    "pagination_observed": false,
+    "recently_viewed_excluded": true
+  },
+  {
+    "source_url": "https://fitish.com/collections/weight-loss",
+    "title": "Weight Loss",
+    "visible_products": [
+      "Compounded Semaglutide + B6",
+      "Compounded Tirzepatide",
+      "Oral Tirzepatide Tablets",
+      "The GLP-1 Microdosing Program"
+    ],
+    "pagination_observed": false,
+    "recently_viewed_excluded": true
+  },
+  {
+    "source_url": "https://fitish.com/search?q=glutathione&type=product%2Carticle%2Cpage%2Ccollection&options%5Bprefix%5D=last",
+    "title": "Official search: glutathione",
+    "visible_result_count": 7,
+    "visible_products": [
+      "Clear Winner",
+      "The Best Sellers Set",
+      "Hair Plumping Serum",
+      "Gentle Face Cleanser",
+      "Dewing It",
+      "GHK-Cu Oral Tablets",
+      "Mini League"
+    ],
+    "matching_prescription_glutathione_offer_established": false,
+    "recently_viewed_excluded": true
+  },
+  {
+    "source_url": "https://fitish.com/search?q=PT-141&type=product%2Carticle%2Cpage%2Ccollection&options%5Bprefix%5D=last",
+    "title": "Official search: PT-141",
+    "visible_result_count": 0,
+    "visible_products": [],
+    "matching_prescription_pt_141_offer_established": false
+  }
+]
+
+No matching prescription glutathione or PT-141 treatment flow was established in this bounded inspection. This is not proof that a product is permanently unavailable. Existing18 selected Fitish observations are unchanged.

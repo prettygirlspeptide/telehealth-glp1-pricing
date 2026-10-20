@@ -1,0 +1,4 @@
+Official flow: https://agelessrx.com/treatments/
+Current visible prompt: I understand a Personalized Compounded Semaglutide + Glycine subscription enrolls me into an automated titration schedule
+Visible answer: Yes
+No selection made; specific acknowledgment pending.

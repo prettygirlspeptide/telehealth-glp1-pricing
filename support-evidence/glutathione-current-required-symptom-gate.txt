@@ -1,0 +1,31 @@
+CURRENT AUTHENTICATED ENTRY; NO NEW CLINICAL ANSWER ENTERED.
+Source entry: https://portal.goodlifemeds.com/shop/product/12276
+Questionnaire: https://app.goodlifemeds.com/start-online-visit/glutathione
+Healthy scenario: no symptom may be invented. No None option was displayed. No symptom, Other or Next selected this round. This restored a prior incomplete stage; earlier scenario application is historical, not freshly revalidated.
+
+Browser tab: 285221947, Title: "Glutathione | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glutathione
+1 AXWebArea Glutathione | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glutathione
+	2 container
+		3 container questionnaire-container
+			4 container
+				5 button Back
+					6 image
+					7 text Back
+				8 image Logo
+				9 pop up button (collapsed) Secondary Actions: Expand
+					10 image
+			11 container
+				12 heading Are you currently experiencing any of the following?, Value: 4
+					13 text Are you currently experiencing any of the following?
+				14 content list
+					15 button Fatigue or Low Energy
+					16 button Memory Issues
+					17 button Difficulty Concentrating
+					18 button Depression or Anxiety
+					19 button Sleep Disorders
+					20 button Chronic Pain
+					21 button Other
+				22 button Next
+		25 text Glutathione | Good Life Meds
+
+The focused UI element is 3 container questionnaire-container

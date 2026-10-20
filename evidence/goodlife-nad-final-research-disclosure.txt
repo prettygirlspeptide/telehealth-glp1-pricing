@@ -1,0 +1,18 @@
+Browser tab: 285221978, Title: "NAD+ Nasal Spray | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/nad-nasal-spray?promo=DW20".
+0 AXWebArea NAD+ Nasal Spray | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/nad-nasal-spray?promo=DW20
+	1 container
+		2 container questionnaire-container
+			5 container
+				9 button Back
+					10 image
+					11 text Back
+				6 image Logo
+				7 pop up button (collapsed) Secondary Actions: Expand
+					8 image
+			12 container
+				13 heading Please provide addtional details, Value: 4
+					14 text Please provide addtional details
+				15 text entry area (settable) PRICING RESEARCH ONLY. This is a fictional healthy study case, not the account holder’s medical history: female, age 35, California, 5 ft 4 in, 172 lb, goal 145 lb, somewhat active; no known conditions, medications or allergies; never used any study treatments; not pregnant or breastfeeding. No current symptoms. We request only an exact pre-payment quote. No clinician review, prescription, treatment or order is requested.
+				16 button Next
+
+The focused UI element is 15 text entry area (settable) PRICING RESEARCH ONLY. This is a fictional healthy study case, not the account holder’s medical history: female, age 35, California, 5 ft 4 in, 172 lb, goal 145 lb, somewhat active; no known conditions, medications or allergies; never used any study treatments; not pregnant or breastfeeding. No current symptoms. We request only an exact pre-payment quote. No clinician review, prescription, treatment or order is requested.

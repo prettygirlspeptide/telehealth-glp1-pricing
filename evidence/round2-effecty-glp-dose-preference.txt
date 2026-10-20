@@ -1,0 +1,15 @@
+Browser tab: 285221924, Title: "Start your weight loss visit · Effecty", URL: "https://start.effecty.com/weight-loss/speed?promo=SAVEMORE".
+0 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/speed?promo=SAVEMORE
+	1 container
+		2 button Back
+			3 image
+			4 text Back
+		5 image Effecty
+		6 heading How quickly would you like to increase your dose?, Value: 1
+			7 text How quickly would you like to increase your dose?
+		8 text Most people move up a dose every 4 weeks. Your provider makes the final call.
+		9 radio button Standard pace (most common) Increase every 4 weeks, one injection a week., Value: 0
+		10 radio button Value: 0, Faster pace Increase every 2 weeks to reach your target dose sooner. Side effects can be more likely.
+		11 radio button Not sure. Let my provider decide., Value: 1
+
+The focused UI element is 0 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/speed?promo=SAVEMORE

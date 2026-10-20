@@ -1,0 +1,24 @@
+Browser tab: 285221924, Title: "Start your weight loss visit · Effecty", URL: "https://start.effecty.com/weight-loss/oral_link?promo=SAVEMORE".
+0 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/oral_link?promo=SAVEMORE
+	1 container
+		2 button Back
+			3 image
+			4 text Back
+		5 image Effecty
+		6 heading Oral GLP-1 may be a good option for you, Value: 1
+			7 text Oral GLP-1 may be a good option for you
+		8 text Oral semaglutide drops are offered through our standard intake. It takes a couple of minutes and the same provider team reviews it.
+		9 button Continue to oral GLP-1 intake
+			10 text Continue to oral GLP-1 intake
+			11 image
+		12 button Go back and change my answer
+		13 container Rated Excellent, 4.5 out of 5 on Trustpilot. 20,000+ patients
+			14 text Excellent 20,000+ patients
+		15 text AS SEEN IN
+		16 image Forbes
+		17 image Us Weekly
+		18 image New York Post
+		19 image Daily Mail
+		20 image The Daily Beast
+
+The focused UI element is 0 AXWebArea Start your weight loss visit · Effecty, URL: start.effecty.com/weight-loss/oral_link?promo=SAVEMORE

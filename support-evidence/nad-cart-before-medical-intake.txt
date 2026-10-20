@@ -1,0 +1,42 @@
+- main:
+  - generic: Items for delivery
+  - link "A person's hand holding a white nasal spray bottle with a cream background":
+    - /url: /products/nad-nasal-spray
+    - img "A person's hand holding a white nasal spray bottle with a cream background"
+  - link "NAD+ Nasal Spray":
+    - /url: /products/nad-nasal-spray
+  - generic: $150.00
+  - generic: 1-Month Subscription
+  - button "Remove NAD+ Nasal Spray from cart":
+    - generic: Remove NAD+ Nasal Spray from cart
+  - heading "Order Summary" [level=3]
+  - separator
+  - generic: NAD+ Nasal Spray
+  - generic: $150.00
+  - generic: 1-Month Subscription
+  - generic: Delivery
+  - generic: Pay Later
+  - generic: Prescription
+  - generic: TBD
+  - paragraph: If prescribed, medication costs will apply at your local pharmacy unless home delivery is selected. Your one-time consult fee covers your virtual visit and unlimited Care Team messaging. If you cannot be prescribed any treatment, you will be charged a fee of up to $25 instead of the full consult price in order to cover your provider's review.
+  - separator
+  - textbox "Enter coupon code"
+  - button "Apply" [disabled]
+  - separator
+  - generic: Sub-total (1 item)
+  - generic: $150.00
+  - text: Shipping
+  - generic: Free
+  - text: Tax
+  - generic: Calculated at checkout
+  - separator
+  - generic: To Pay Today
+  - generic: $150.00
+  - note:
+    - paragraph:
+      - text: For subscription items, you will be billed
+      - strong: $150.00 every 1 month
+      - text: .
+  - link "Checkout":
+    - /url: /checkout
+    - generic: Checkout

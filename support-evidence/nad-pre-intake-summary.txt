@@ -1,0 +1,18 @@
+  - dialog "Order Summary":
+    - heading "Order Summary" [level=2]
+    - button "Back":
+      - generic: Back
+    - heading "Order Summary" [level=2]
+    - progressbar "Consultation progress"
+    - paragraph: NAD+ Nasal Spray
+    - button "Remove"
+    - paragraph: $150.00
+    - paragraph: To pay today
+    - paragraph: $150.00
+    - button "Add to Cart ($150.00)":
+      - generic: Add to Cart ($150.00)
+    - paragraph:
+      - text: Need to start over? Click
+      - button "here"
+    - button "Previous":
+      - generic: Previous
