@@ -1,0 +1,64 @@
+Browser tab: 285221688, Title: "Checkout | Arbor", URL: "https://startarbor.com/checkout?productId=prod_semaglutide_injection&billingPeriod=3-month&questionnaireDraftRef=[omitted]".
+0 AXWebArea Checkout | Arbor, URL: startarbor.com/checkout?productId=prod_semaglutide_injection&billingPeriod=3-month&questionnaireDraftRef=[omitted]
+	1 container
+		2 button Go back to select program
+		3 image Arbor
+		4 link Description: Text Arbor with questions, Value: sms:+13322059094?body=Hi%2C%20I%27m%20on%20the%20Arbor%20website%20and%20want%20to%20learn%20more%20before%20I%20sign%20up.%20Is%20someone%20available%3F
+		5 text SECURE PAYMENT
+		6 container
+			7 text SHIPPING DETAILS
+			8 button Edit
+			9 container
+				10 text [private value omitted] [private value omitted]
+			11 text [private value omitted]
+			12 text +1[private value omitted]
+			13 text [private value omitted]
+			14 text Los Angeles, California [private value omitted]
+			15 heading Payment method, Value: 1
+				16 text Payment method
+			17 text Full refund if clinically ineligible.
+			18 container Payment options
+				19 text Payment options
+				20 container
+					21 radio button (settable, integer) Description: Card & Wallets Apple Pay Google Pay, Value: 1
+					22 text Card & Wallets
+					23 image Apple Pay
+					24 image Google Pay
+				25 container
+					26 radio button (settable, integer) Description: Buy Now, Pay Later Affirm Afterpay Klarna, Value: 0
+					27 text Buy Now, Pay Later
+					28 image Affirm
+					29 image Afterpay
+					30 image Klarna
+			31 container Secure payment input frame
+				32 AXWebArea about:blank
+			33 button Complete Payment Backed by Arbor Guarantee+
+				34 text Complete Payment
+				35 text Backed by Arbor Guarantee+
+			36 text Full refund if clinically ineligible.
+			37 image 12 Month Money Back Guarantee
+			38 heading Weight Loss Guarantee+, Value: 3
+				39 text Weight Loss Guarantee+
+			40 text If you complete the program requirements and do not lose the 27  lbs , you'll be eligible to request a refund under the
+			41 button Weight-Loss Guarantee terms
+			42 text . BACKED BY RESEARCH FROM
+			43 image Backed by research from Mayo Clinic, Stanford Medicine, WebMD, Harvard, and NIH
+			44 text 256-bit SSL
+			45 link Description: Powered by Stripe, Value: stripe.com/
+		46 image Semaglutide Program vial
+		47 heading Semaglutide Program (GLP-1), Value: 2
+			48 text Semaglutide Program (GLP-1)
+		49 text MOST AFFORDABLE
+		50 content list
+			51 text Free dosage increases
+			52 text Free injection kit and supplies
+			53 text Unlimited clinician access
+			54 text Cancel anytime
+		55 text Delivery Plan 3 Months Total Savings $90 Express Shipping FREE Guarantee+ Protection Activated Monthly price $149 $119 Total today $447 $357
+		56 container
+			57 text Your savings are reserved for 5 : 47
+		58 text Price locked at $119 /mo . No price increases.
+		59 image FedEx Express
+		60 text Est. Delivery:  Within 48 Hours
+
+The focused UI element is 0 AXWebArea Checkout | Arbor, URL: startarbor.com/checkout?productId=prod_semaglutide_injection&billingPeriod=3-month&questionnaireDraftRef=[omitted]

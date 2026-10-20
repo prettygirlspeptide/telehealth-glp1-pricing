@@ -1,0 +1,24 @@
+Actual current Arbor glutathione selector, reached after the approved synthetic questionnaire and revisited from each selected checkout.
+Source: https://startarbor.com/glutathione/quiz
+Captured UTC: 2026-10-20T02:01:58.849Z
+			12 heading Monthly Plan, Value: 3
+			14 text Your Glutathione, delivered to your door monthly
+			15 text 1-Month Supply
+			17 button Select Plan · $139/mo
+				18 text Select Plan · $
+			21 heading 3-Month Plan, Value: 3
+			23 text Your 3-month supply in a single shipment.
+			24 text Most Popular 3-Month Supply
+			32 button Select Plan · $119/mo
+				33 text Select Plan · $
+			36 heading 6-Month Plan, Value: 3
+			38 text Stay consistent with a 6-month supply.
+			39 text 6-Month Supply
+			47 button Select Plan · $109/mo
+				48 text Select Plan · $
+			51 heading 12-Month Plan, Value: 3
+			54 text Best Deal 12-Month Supply
+			62 button Select Plan · $89/mo
+				63 text Select Plan · $
+			70 text Glutathione medication Complete injection kit and supplies Unlimited clinician access Free dosage adjustments Easy treatment switches, anytime! Anytime automatic refills with free shipping 24/7 U.S.-based support
+Exact days, concentration and vial count were not shown. These native month labels are not normalized to4-week units. No financing option was selected.

@@ -1,0 +1,54 @@
+Browser tab: 285221764, Title: "Intake - Amble", URL: "https://intake.joinamble.com/glutathione/plan".
+0 AXWebArea Intake - Amble, URL: intake.joinamble.com/glutathione/plan
+	1 container
+		2 container
+			3 image Company Logo
+			4 button Go back
+			5 progress indicator Description: Intake progress, step 8 of 10, Value: 80
+			6 text 8
+			7 text of
+			8 text 10
+		14 heading You’re pre-approved, Pricing. Pick your plan., Value: 1
+			15 text You’re pre-approved, Pricing. Pick your plan.
+		16 text Choose how often you want to pay.
+		17 container
+			18 container
+				19 heading Glutathione (200mg/ml - 2000mg/vial), Value: 3, ID: plan-treatment-heading-injectable
+					20 text Glutathione (200mg/ml - 2000mg/vial)
+				21 text Supports cellular energy, metabolism, and healthy aging.
+			22 Glutathione (200mg/ml - 2000mg/vial)
+				23 radio button 1-month plan $100 /mo, Value: 0, ID: plan-term-radio-injectable-monthly
+					24 text 1-month plan
+					25 text $100
+					26 text /mo
+				27 radio button 3-month plan $92 /mo, Value: 0, ID: plan-term-radio-injectable-3-month
+					28 text 3-month plan
+					29 text $92
+					30 text /mo
+				31 radio button 6-month plan $83 /mo, Value: 1, ID: plan-term-radio-injectable-6-month
+					32 text 6-month plan
+					33 text $83
+					34 text /mo
+			35 text Due if prescribed $500 Billed every 6 months Shipped every 6 months
+			36 button Continue with Glutathione
+		37 content list Plan benefits
+			38 text No hidden fees
+			39 text No membership fee
+			40 text Cancel anytime
+		41 heading Value: 3, ID: beam-SelectNonprofit-title
+		42 text At no extra cost, select a nonprofit and 1% will be donated for you
+		43 radio button Description: Community Health, Value: 0
+		44 radio button Description: Nutrition, Value: 0
+		45 radio button Description: Mental Health, Value: 0
+		46 radio button Description: Cancer Support, Value: 0
+		47 heading What’s included?, Value: 3
+			48 button (collapsed) What’s included?, ID: radix-_r_1j_, Secondary Actions: Expand
+		49 heading How does billing work?, Value: 3
+			50 button (collapsed) How does billing work?, ID: radix-_r_1l_, Secondary Actions: Expand
+		9 container Legal
+			10 link Description: Privacy Policy, Value: joinamble.com/policies/privacy-policy#notice-at-collection
+			11 link Description: Your Privacy Choices, Value: intake.joinamble.com/policies/your-privacy-choices
+			12 link Description: Terms Of Service, Value: joinamble.com/terms-of-service
+		13 container Notifications alt+T
+
+The focused UI element is 31 radio button 6-month plan $83 /mo, Value: 1, ID: plan-term-radio-injectable-6-month

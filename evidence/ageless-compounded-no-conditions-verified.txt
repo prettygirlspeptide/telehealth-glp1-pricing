@@ -1,0 +1,54 @@
+Browser tab: 26, Title: "AgelessRx - Intake", URL: [private intake URL omitted]
+0 AXWebArea AgelessRx - Intake, URL: [private intake URL omitted]
+	1 container
+		2 container app
+			3 progress indicator 70
+			4 heading Do you have any one of the following Medical Conditions? (Check all that apply), Value: 1
+				5 text Do you have any one of the following Medical Conditions? (Check all that apply)
+			6 content list
+				7 container
+					8 checkbox (settable, integer) Description: No Medical Problems/Conditions, Value: 1, ID: multi-select_1727b60e-815f-4e6e-b090-cc2b63ff4671_0
+					9 text No Medical Problems/Conditions
+				10 container
+					11 checkbox (settable, integer) Description: Diabetes, Value: 0, ID: multi-select_1727b60e-815f-4e6e-b090-cc2b63ff4671_1
+					12 text Diabetes
+				13 container
+					14 checkbox (settable, integer) Description: Hypertension (high blood pressure), Value: 0, ID: multi-select_1727b60e-815f-4e6e-b090-cc2b63ff4671_2
+					15 text Hypertension (high blood pressure)
+				16 container
+					17 checkbox (settable, integer) Description: Heart disease, Value: 0, ID: multi-select_1727b60e-815f-4e6e-b090-cc2b63ff4671_3
+					18 text Heart disease
+				19 container
+					20 checkbox (settable, integer) Description: Thyroid condition (noncancerous, no family history), Value: 0, ID: multi-select_1727b60e-815f-4e6e-b090-cc2b63ff4671_4
+					21 text Thyroid condition (noncancerous, no family history)
+				22 container
+					23 checkbox (settable, integer) Description: Thyroid condition (cancer or family history of cancer), Value: 0, ID: multi-select_1727b60e-815f-4e6e-b090-cc2b63ff4671_5
+					24 text Thyroid condition (cancer or family history of cancer)
+				25 container
+					26 checkbox (settable, integer) Description: Asthma or COPD, Value: 0, ID: multi-select_1727b60e-815f-4e6e-b090-cc2b63ff4671_6
+					27 text Asthma or COPD
+				28 container
+					29 checkbox (settable, integer) Description: Anxiety or depression, Value: 0, ID: multi-select_1727b60e-815f-4e6e-b090-cc2b63ff4671_7
+					30 text Anxiety or depression
+				31 container
+					32 checkbox (settable, integer) Description: HIV or AIDS, Value: 0, ID: multi-select_1727b60e-815f-4e6e-b090-cc2b63ff4671_8
+					33 text HIV or AIDS
+				34 container
+					35 checkbox (settable, integer) Description: Kidney disease, Value: 0, ID: multi-select_1727b60e-815f-4e6e-b090-cc2b63ff4671_9
+					36 text Kidney disease
+				37 container
+					38 checkbox (settable, integer) Description: Cancer, Value: 0, ID: multi-select_1727b60e-815f-4e6e-b090-cc2b63ff4671_10
+					39 text Cancer
+				40 container
+					41 checkbox (settable, integer) Description: Irregular heart beat, Value: 0, ID: multi-select_1727b60e-815f-4e6e-b090-cc2b63ff4671_11
+					42 text Irregular heart beat
+				43 container
+					44 checkbox (settable, integer) Description: Vascular disease (stroke, blood clots, etc), Value: 0, ID: multi-select_1727b60e-815f-4e6e-b090-cc2b63ff4671_12
+					45 text Vascular disease (stroke, blood clots, etc)
+				46 container
+					47 checkbox (settable, integer) Description: Other, Value: 0, ID: multi-select_1727b60e-815f-4e6e-b090-cc2b63ff4671_13
+					48 text Other
+			49 button Save and continue
+			50 button Cancel
+
+The focused UI element is 0 AXWebArea AgelessRx - Intake, URL: [private intake URL omitted]

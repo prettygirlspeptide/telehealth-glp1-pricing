@@ -1,0 +1,28 @@
+Actual selected checkout summary
+Captured UTC: 2026-10-20T02:00:32.057Z
+Source: https://startarbor.com/checkout?funnel=glutathione&productId=prod_glutathione_injection&billingPeriod=6-month
+Glutathione Peptide Program
+
+PERSONALIZED PROTOCOL
+
+Free dosage adjustments
+Free injection kit and supplies
+Unlimited clinician access
+Cancel anytime
+Delivery Plan
+6 Months
+Total Savings
+$180
+Express Shipping
+FREE
+Monthly price
+$139
+$109
+Total today
+$834
+$654
+
+Your savings are reserved for 12:29
+
+Price locked at $109/mo. No price increases.
+Payment context: Card & Wallets selected by default; no card entered; Complete Payment not pressed; Full refund if clinically ineligible.

@@ -1,0 +1,522 @@
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 5.384615421295166
+			5 heading What is your primary reason for requesting Zepbound?, Value: 1
+				6 text What is your primary reason for requesting Zepbound?
+			7 content list
+				8 text Weight loss of 10 pounds or less
+				9 text Weight loss of 11-25 pounds
+				10 text Weight loss of 26-50 pounds
+				11 text Weight loss of more than 50 pounds
+				12 text Regulate Appetite
+				13 text Lower Blood Pressure and/or Cholesterol
+				14 text Other
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 8.076923370361328
+			5 heading Are you currently on Zepbound (Tirzepatide) or other similar medication (ex: Semaglutide, etc)?, Value: 1
+				6 text Are you currently on Zepbound (Tirzepatide) or other similar medication (ex: Semaglutide, etc)?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 29.615385055541992
+			5 heading Have you tried any other weight loss programs in the past?, Value: 1
+				6 text Have you tried any other weight loss programs in the past?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 32.30769348144531
+			5 heading Value: 1, Have you ever been diagnosed or struggled with Anorexia Nervosa, Bulimia Nervosa, or other eating concerns (e.g. compulsive restriction, purging, laxative use)?
+				6 text Have you ever been diagnosed or struggled with Anorexia Nervosa, Bulimia Nervosa, or other eating concerns (e.g. compulsive restriction, purging, laxative use)?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 35
+			5 heading Have you ever given yourself an injection?, Value: 1
+				6 text Have you ever given yourself an injection?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 35
+			5 heading Have you ever given yourself an injection?, Value: 1
+				6 text Have you ever given yourself an injection?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 37.69230651855469
+			5 heading Have you ever had problems using injections of any kind?, Value: 1
+				6 text Have you ever had problems using injections of any kind?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 37.69230651855469
+			5 heading Have you ever had problems using injections of any kind?, Value: 1
+				6 text Have you ever had problems using injections of any kind?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 40.38461685180664
+			5 heading Do you feel comfortable self administering a subcutaneous injection?, Value: 1
+				6 text Do you feel comfortable self administering a subcutaneous injection?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 40.38461685180664
+			5 heading Do you feel comfortable self administering a subcutaneous injection?, Value: 1
+				6 text Do you feel comfortable self administering a subcutaneous injection?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 43.07692337036133
+			5 heading Which of the following apply to your reproductive status?, Value: 1
+				6 text Which of the following apply to your reproductive status?
+			7 content list
+				8 text I am premenopausal (menstruating)
+				9 text I am perimenopausal
+				10 text I am menopausal
+				11 text I am postmenopausal or have had a hysterectomy
+				12 text I am pregnant or breastfeeding
+				13 text I intend to become pregnant in the next 6 months
+				14 text I am a male
+				15 text I am unsure if I am pregnant
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 43.07692337036133
+			5 heading Which of the following apply to your reproductive status?, Value: 1
+				6 text Which of the following apply to your reproductive status?
+			7 content list
+				8 text I am premenopausal (menstruating)
+				9 text I am perimenopausal
+				10 text I am menopausal
+				11 text I am postmenopausal or have had a hysterectomy
+				12 text I am pregnant or breastfeeding
+				13 text I intend to become pregnant in the next 6 months
+				14 text I am a male
+				15 text I am unsure if I am pregnant
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 48.46154022216797
+			5 heading How would you describe your diet?, Value: 1
+				6 text How would you describe your diet?
+			7 content list
+				8 text Vegetarian
+				9 text Vegan
+				10 text Paleo
+				11 text Keto
+				12 text Pescatarian
+				13 text No specific diet
+				14 text Other
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 48.46154022216797
+			5 heading How would you describe your diet?, Value: 1
+				6 text How would you describe your diet?
+			7 content list
+				8 text Vegetarian
+				9 text Vegan
+				10 text Paleo
+				11 text Keto
+				12 text Pescatarian
+				13 text No specific diet
+				14 text Other
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 51.153846740722656
+			5 heading Value: 1, Have you ever been hospitalized for mood related issues, such as depression, bipolar disorder, or schizophrenia?
+				6 text Have you ever been hospitalized for mood related issues, such as depression, bipolar disorder, or schizophrenia?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 51.153846740722656
+			5 heading Value: 1, Have you ever been hospitalized for mood related issues, such as depression, bipolar disorder, or schizophrenia?
+				6 text Have you ever been hospitalized for mood related issues, such as depression, bipolar disorder, or schizophrenia?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 53.846153259277344
+			5 heading Value: 1, Do you have any personal or family history with any of the following medical conditions? (Check all that apply)
+				6 text Do you have any personal or family history with any of the following medical conditions? (Check all that apply)
+			7 content list
+				8 container
+					9 checkbox (settable, integer) Description: MEN2 (multiple endocrine neoplasia type 2), Value: 0, ID: multi-select_cdb561de-ca8c-40fb-9789-b2c801324d9d_0
+					10 text MEN2 (multiple endocrine neoplasia type 2)
+				11 container
+					12 checkbox (settable, integer) Description: Thyroid cancer, Value: 0, ID: multi-select_cdb561de-ca8c-40fb-9789-b2c801324d9d_1
+					13 text Thyroid cancer
+				14 container
+					15 checkbox (settable, integer) Description: Pancreatitis, Value: 0, ID: multi-select_cdb561de-ca8c-40fb-9789-b2c801324d9d_2
+					16 text Pancreatitis
+				17 container
+					18 checkbox (settable, integer) Description: History of Long QT syndrome or other issues with heart rhythm, Value: 0, ID: multi-select_cdb561de-ca8c-40fb-9789-b2c801324d9d_3
+					19 text History of Long QT syndrome or other issues with heart rhythm
+				20 container
+					21 checkbox (settable, integer) Description: None of the above, Value: 0, ID: multi-select_cdb561de-ca8c-40fb-9789-b2c801324d9d_4
+					22 text None of the above
+			23 button Continue
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 53.846153259277344
+			5 heading Value: 1, Do you have any personal or family history with any of the following medical conditions? (Check all that apply)
+				6 text Do you have any personal or family history with any of the following medical conditions? (Check all that apply)
+			7 content list
+				8 container
+					9 checkbox (settable, integer) Description: MEN2 (multiple endocrine neoplasia type 2), Value: 0, ID: multi-select_cdb561de-ca8c-40fb-9789-b2c801324d9d_0
+					10 text MEN2 (multiple endocrine neoplasia type 2)
+				11 container
+					12 checkbox (settable, integer) Description: Thyroid cancer, Value: 0, ID: multi-select_cdb561de-ca8c-40fb-9789-b2c801324d9d_1
+					13 text Thyroid cancer
+				14 container
+					15 checkbox (settable, integer) Description: Pancreatitis, Value: 0, ID: multi-select_cdb561de-ca8c-40fb-9789-b2c801324d9d_2
+					16 text Pancreatitis
+				17 container
+					18 checkbox (settable, integer) Description: History of Long QT syndrome or other issues with heart rhythm, Value: 0, ID: multi-select_cdb561de-ca8c-40fb-9789-b2c801324d9d_3
+					19 text History of Long QT syndrome or other issues with heart rhythm
+				20 container
+					21 checkbox (settable, integer) Description: None of the above, Value: 1, ID: multi-select_cdb561de-ca8c-40fb-9789-b2c801324d9d_4
+					22 text None of the above
+			23 button (disabled) Continue
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 56.53845977783203
+			5 heading Do you have any history of suicidal thoughts?, Value: 1
+				6 text Do you have any history of suicidal thoughts?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 56.53845977783203
+			5 heading Do you have any history of suicidal thoughts?, Value: 1
+				6 text Do you have any history of suicidal thoughts?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 59.230770111083984
+			5 heading Do you have any history of thyroid cancer?, Value: 1
+				6 text Do you have any history of thyroid cancer?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 59.230770111083984
+			5 heading Do you have any history of thyroid cancer?, Value: 1
+				6 text Do you have any history of thyroid cancer?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 61.92307662963867
+			5 heading Do you have any history of pancreatitis?, Value: 1
+				6 text Do you have any history of pancreatitis?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 61.92307662963867
+			5 heading Do you have any history of pancreatitis?, Value: 1
+				6 text Do you have any history of pancreatitis?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 64.61538696289062
+			5 heading Is there anything else you want your prescriber to know about your condition or health?, Value: 1
+				6 text Is there anything else you want your prescriber to know about your condition or health?
+			7 content list
+				8 text Yes
+				9 text No
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 64.61538696289062
+			5 heading Is there anything else you want your prescriber to know about your condition or health?, Value: 1
+				6 text Is there anything else you want your prescriber to know about your condition or health?
+			7 content list
+				8 text Yes
+				9 text No
+			10 content list
+				11 container
+					12 text Please explain.
+					13 text entry area (settable)
+			14 button Continue
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 64.61538696289062
+			5 heading Is there anything else you want your prescriber to know about your condition or health?, Value: 1
+				6 text Is there anything else you want your prescriber to know about your condition or health?
+			7 content list
+				8 text Yes
+				9 text No
+			10 content list
+				11 container
+					12 text Please explain.
+					13 text entry area (settable) PRICING RESEARCH ONLY. This is an authorized fictional study case, not the account holder’s medical history. We are comparing exact pre-payment quotes only. No clinician review, prescription, treatment or order is requested.
+			14 button (disabled) Continue
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 container app
+			4 progress indicator 67.30769348144531
+			5 heading Value: 1, I understand a Zepbound Access and Monitoring subscription enrolls me into an automated titration schedule
+				6 text I understand a Zepbound Access and Monitoring subscription enrolls me into an automated titration schedule
+			7 content list
+				8 text Yes
+
+The focused UI element is 1 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+0 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	1 container
+		2 container app
+			3 progress indicator 67.30769348144531
+			4 heading Value: 1, I understand a Zepbound Access and Monitoring subscription enrolls me into an automated titration schedule
+				5 text I understand a Zepbound Access and Monitoring subscription enrolls me into an automated titration schedule
+			6 content list
+				7 text Yes
+
+The focused UI element is 0 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+0 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	1 container
+		2 container app
+			3 progress indicator 70
+			4 heading Value: 1, GLP1 medications are primarily for patients with a BMI of 30 or more. Your BMI is lower than 30 but falls within the acceptable range for what is considered off label usage. Are you still interested in GLP1 medications?
+				5 text GLP1 medications are primarily for patients with a BMI of 30 or more. Your BMI is lower than 30 but falls within the acceptable range for what is considered off label usage. Are you still interested in GLP1 medications?
+			6 content list
+				7 text Yes
+
+The focused UI element is 0 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Order Form", URL: "https://customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]".
+0 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+	1 container
+		2 container app
+			3 progress indicator 70
+			4 heading Value: 1, GLP1 medications are primarily for patients with a BMI of 30 or more. Your BMI is lower than 30 but falls within the acceptable range for what is considered off label usage. Are you still interested in GLP1 medications?
+				5 text GLP1 medications are primarily for patients with a BMI of 30 or more. Your BMI is lower than 30 but falls within the acceptable range for what is considered off label usage. Are you still interested in GLP1 medications?
+			6 content list
+				7 text Yes
+
+The focused UI element is 0 AXWebArea AgelessRx - Order Form, URL: customer.agelessrx.com/IntakeV2/IntakeFormQuestionnaire/[REDACTED_RESEARCH_DRAFT_ID]
+
+Browser tab: 24, Title: "AgelessRx - Checkout", URL: "https://customer.agelessrx.com/IntakeV2/Checkout/[REDACTED_RESEARCH_DRAFT_ID]".
+1 AXWebArea AgelessRx - Checkout, URL: customer.agelessrx.com/IntakeV2/Checkout/[REDACTED_RESEARCH_DRAFT_ID]
+	2 container
+		3 progress indicator 25
+		4 container
+			5 link customer.agelessrx.com/IntakeV2/Router/Checkout/Back?orderID=[REDACTED_RESEARCH_DRAFT_ID]
+			6 image
+		7 container
+			8 heading Complete your visit, Value: 1
+				9 text Complete your visit
+			10 heading Zepbound® Access & Monitoring, Value: 1
+				11 text Zepbound® Access & Monitoring
+			12 container
+				13 text $65 /Monthly
+			14 content list
+				15 container
+					16 text Subscription $65
+				17 container
+					18 text Provider evaluation FREE
+				19 container
+					20 text Ongoing check-ins INCLUDED
+				21 container
+					22 text Shipping FREE
+			23 content list
+				24 container
+					25 text TOTAL  (if prescribed)
+					26 text $65.00
+				27 container
+					28 text DUE NOW
+					29 text $0.00
+			30 button (collapsed) Apply a promo code, ID: apply-promo-code-link, Secondary Actions: Expand
+			31 heading Payment method, Value: 2, ID: payment-section-heading
+				32 text Payment method
+			33 image
+			34 AXWebArea Chargebee, URL: js.chargebee.com/assets/cbjs-2026.10.16-04.58/v2/component.html?site=AgelessRx&env=production#customer.agelessrx.com
+				35 container
+					36 container
+						37 text field (settable) Card Number
+					38 text field (settable) Expiry
+					39 text field (settable) CVV
+			40 button Submit, ID: submit-payment
+			41 text $0 Due Now - Pay Upon Medical Approval
+			42 text By clicking "Submit", you agree to the 
+			43 link Description: Terms of Service, Value: agelessrx.com/terms-services/
+			44 text  and 
+			45 link Description: Privacy Policy, Value: agelessrx.com/privacy-policy/
+			46 text . You also agree that, if prescribed, you will automatically be charged 
+			47 container disclaimer-charge-single
+				48 text $65.00
+				49 text  for your first shipment and monthly thereafter, until you cancel or your prescription expires.
+			50 text AgelessRx uses a third-party service to verify patient identity (see 
+			51 link Description: terms, Value: withpersona.com/legal/privacy-policy#identity-verification
+			52 text ) at checkout. Verification may happen automatically using information provided at intake; if not verified, you may be asked to submit a selfie or government-issued ID. You can pause or cancel your plan any time prior to your next shipment by logging in to your AgelessRx account and clicking "Manage" from your Orders tab.
+			53 text FSA/HSA Eligible
+			54 text  - Pay using your FSA/HSA card now or access your itemized receipt later to apply funds.
+
+The focused UI element is 1 AXWebArea AgelessRx - Checkout, URL: customer.agelessrx.com/IntakeV2/Checkout/[REDACTED_RESEARCH_DRAFT_ID]
+

@@ -1,0 +1,42 @@
+{
+  "provider": "Amble",
+  "observed_on": "2026-10-19",
+  "source_url": "https://intake.joinamble.com/glutathione/plan",
+  "method": "Compiled factual notes from the selected plan summaries and the live What is included/How billing works accordions; original prices have separate screenshots.",
+  "product_class": "Provider expressly describes the selected glutathione medication as compounded.",
+  "inclusions": [
+    "Compounded medication",
+    "Unlimited clinician messaging",
+    "Free discreet shipping"
+  ],
+  "membership_fee_monthly_usd": 0,
+  "conditional_charge": "Billing FAQ says the customer is charged only if a clinician prescribes.",
+  "plans": [
+    {
+      "term_months": 1,
+      "selected_total_usd": 100,
+      "displayed_monthly_usd": 100,
+      "supply_days": 28,
+      "billing_interval_days": 28
+    },
+    {
+      "term_months": 3,
+      "selected_total_usd": 275,
+      "displayed_monthly_usd": 92,
+      "supply_days": 84,
+      "billing_interval_months": 3,
+      "full_supply_paid_upfront": true,
+      "shipping": "One shipment"
+    },
+    {
+      "term_months": 6,
+      "selected_total_usd": 500,
+      "displayed_monthly_usd": 83,
+      "supply_days": 168,
+      "billing_interval_months": 6,
+      "full_supply_paid_upfront": true,
+      "shipping": "Every six months"
+    }
+  ],
+  "limits": "No card, order, prescription, final tax calculation or payment authorized; no dispensing pharmacy name observed."
+}

@@ -1,0 +1,107 @@
+Browser tab: 285221688, Title: "Get Started | Arbor", URL: "https://startarbor.com/quiz?program=tirzepatide".
+0 AXWebArea Get Started | Arbor, URL: startarbor.com/quiz?program=tirzepatide
+	1 image Arbor
+	2 container
+		3 heading Same Price. All Dosage Levels., Value: 1
+			4 text Same Price. All Dosage Levels.
+		5 text No Hidden Fees. Everything Included. Step 1 Select Your Program
+		6 button Tirzepatide vial Tirzepatide Faster results, dual-action, but more expensive. Fastest Results 384 patients chose this today
+			7 image Tirzepatide vial
+			8 heading Tirzepatide, Value: 3
+				9 text Tirzepatide
+			10 text Faster results, dual-action, but more expensive.
+			11 text Fastest Results
+			12 text 384
+			13 text  patients chose this today
+		14 button Semaglutide vial Semaglutide Proven, effective, more affordable. More Affordable 324 patients chose this today
+			15 image Semaglutide vial
+			16 heading Semaglutide, Value: 3
+				17 text Semaglutide
+			18 text Proven, effective, more affordable.
+			19 text More Affordable
+			20 text 324
+			21 text  patients chose this today
+		22 container step-two-section
+			23 text Step 2 Select Your Plan
+		24 text Lock in your savings without a big upfront payment - use free financing or pay in full with your card.
+		25 button Monthly Plan The new you, delivered to your door monthly 4 Week Supply Flexible month-to-month Select Plan · $249/mo
+			26 heading Monthly Plan, Value: 3
+				27 text Monthly Plan
+			28 text The new you, delivered to your door monthly
+			29 text 4 Week Supply
+			30 text Flexible month-to-month
+			31 container
+				32 text Select Plan · $ 249 /mo
+		33 button 3-Month Plan Receive your 3 month supply in a single shipment Most Popular 12 Week Supply Easy 0% Installments Spread payments over 12 months. Affirm Klarna Afterpay You are saving $180 Select Plan · $189/mo
+			34 heading 3-Month Plan, Value: 3
+				35 text 3-Month Plan
+			36 text Receive your 3 month supply in a single shipment
+			37 text Most Popular
+			38 text 12 Week Supply
+			39 text Easy 0% Installments
+			40 text Spread payments over 12 months.
+			41 image Affirm
+			42 image Klarna
+			43 image Afterpay
+			44 container
+				45 text You are saving $ 180
+			46 container
+				47 text Select Plan · $ 189 /mo
+		48 button 6-Month Plan Your ultimate plan to guarantee success and your consistency 24 Week Supply Easy 0% Installments Spread payments over 12 months. Affirm Klarna Afterpay You are saving $480 Select Plan · $169/mo
+			49 heading 6-Month Plan, Value: 3
+				50 text 6-Month Plan
+			51 text Your ultimate plan to guarantee success and your consistency
+			52 text 24 Week Supply
+			53 text Easy 0% Installments
+			54 text Spread payments over 12 months.
+			55 image Affirm
+			56 image Klarna
+			57 image Afterpay
+			58 container
+				59 text You are saving $ 480
+			60 container
+				61 text Select Plan · $ 169 /mo
+		62 button 12-Month Plan Commit to a year of progress and save on your new self Best Deal 52 Week Supply Easy 0% Installments Spread payments over 12 months. Affirm Klarna Afterpay You are saving $1,200 Select Plan · $149/mo
+			63 heading 12-Month Plan, Value: 3
+				64 text 12-Month Plan
+			65 text Commit to a year of progress and save on your new self
+			66 text Best Deal
+			67 text 52 Week Supply
+			68 text Easy 0% Installments
+			69 text Spread payments over 12 months.
+			70 image Affirm
+			71 image Klarna
+			72 image Afterpay
+			73 container
+				74 text You are saving $ 1,200
+			75 container
+				76 text Select Plan · $ 149 /mo
+		77 image 12 Month Money Back Guarantee
+		78 heading Weight Loss Guarantee+, Value: 3
+			79 text Weight Loss Guarantee+
+		80 text If you complete the program requirements and do not lose the 27  lbs , you'll be eligible to request a refund under the
+		81 button Weight-Loss Guarantee terms
+		82 text . BACKED BY RESEARCH FROM
+		83 image Backed by research from Mayo Clinic, Stanford Medicine, WebMD, Harvard, and NIH
+		84 heading Your plan includes, Value: 3
+			85 text Your plan includes
+		86 text GLP-1 medication Complete injection kit and supplies Unlimited clinician access Free dosage increases Easy treatment switches, anytime! Automatic refills with free 48-hour shipping 24/7 U.S. based support
+		87 heading How it works, Value: 3
+			88 text How it works
+		89 text 1 Complete your plan and checkout, get approved by a licensed clinician, and receive your medication within 48 hours. 2 You'll inject once weekly, starting at a low dose that gradually increases to optimize results while minimizing side effects. 3 Your care team monitors your progress and adjusts your treatment as needed - all from home. *If you're already on GLP-1s, we'll start you at your current dose.
+		90 heading All major credit cards accepted, Value: 3
+			91 text All major credit cards accepted
+		92 image Visa
+		93 image Mastercard
+		94 image American Express
+		95 image Discover
+		96 image Apple Pay
+		97 image Google Pay
+		98 image HSA/FSA Eligible
+		99 heading Buy Now, Pay Later, Value: 3
+			100 text Buy Now, Pay Later
+		101 image Affirm
+		102 image Afterpay
+		103 image Klarna
+
+The focused UI element is 0 AXWebArea Get Started | Arbor, URL: startarbor.com/quiz?program=tirzepatide

@@ -1,0 +1,98 @@
+Browser tab: 285221774, Title: "Intake - Amble", URL: "https://intake.joinamble.com/wl/plan".
+0 AXWebArea Intake - Amble, URL: intake.joinamble.com/wl/plan
+	1 container
+		7 container
+			8 image Company Logo
+			9 button Go back
+			10 progress indicator Description: Intake progress, step 11 of 13, Value: 85
+			11 text 11
+			12 text of
+			13 text 13
+		21 heading Pricing, which medication do you want?, Value: 1
+			22 text Pricing, which medication do you want?
+		23 text A longer plan costs less per month.
+		24 container
+			25 container
+				26 heading Semaglutide injections, Value: 3, ID: plan-treatment-heading-semaglutide
+					27 text Semaglutide injections
+				28 text Most affordable. A common start if you are new to GLP-1s.
+			29 Semaglutide injections
+				30 radio button 1-month plan $179 /mo, Value: 0, ID: plan-term-radio-semaglutide-monthly
+					31 text 1-month plan
+					32 text $179
+					33 text /mo
+				34 radio button 3-month plan $160 /mo, Value: 0, ID: plan-term-radio-semaglutide-3-month
+					35 text 3-month plan
+					36 text $160
+					37 text /mo
+				38 radio button 6-month plan $135 /mo, Value: 0, ID: plan-term-radio-semaglutide-6-month
+					39 text 6-month plan
+					40 text $135
+					41 text /mo
+		44 container
+			45 container
+				46 heading Tirzepatide injections, Value: 3, ID: plan-treatment-heading-tirzepatide
+					47 text Tirzepatide injections
+				48 text Most popular. Patients tend to report slightly more weight loss.
+			49 Tirzepatide injections
+				50 radio button 1-month plan $329 /mo, Value: 1, ID: plan-term-radio-tirzepatide-monthly
+					51 text 1-month plan
+					52 text $329
+					53 text /mo
+				54 radio button 3-month plan $255 /mo, Value: 0, ID: plan-term-radio-tirzepatide-3-month
+					55 text 3-month plan
+					56 text $255
+					57 text /mo
+				58 radio button 6-month plan $235 /mo, Value: 0, ID: plan-term-radio-tirzepatide-6-month
+					59 text 6-month plan
+					60 text $235
+					61 text /mo
+			112 text Due if prescribed $329 Billed every 28 days A 4-week supply each time Estimated delivery Thu, Oct 22
+			113 button Continue with Tirzepatide
+		62 content list Plan benefits
+			63 text Same price at every dose
+			64 text No hidden fees
+			65 text No membership fee
+			66 text Cancel anytime
+			67 text HSA & FSA
+		68 heading Value: 3, ID: beam-SelectNonprofit-title
+		69 text At no extra cost, select a nonprofit and 1% will be donated for you
+		70 radio button Description: Community Health, Value: 0
+		71 radio button Description: Nutrition, Value: 0
+		72 radio button Description: Mental Health, Value: 0
+		73 radio button Description: Cancer Support, Value: 0
+		74 heading What are the possible side effects?, Value: 3
+			75 button (collapsed) What are the possible side effects?, ID: radix-_r_2h_, Secondary Actions: Expand
+		76 heading Are the injections painful?, Value: 3
+			77 button (collapsed) Are the injections painful?, ID: radix-_r_2j_, Secondary Actions: Expand
+		78 heading Will this actually work for me?, Value: 3
+			79 button (collapsed) Will this actually work for me?, ID: radix-_r_2l_, Secondary Actions: Expand
+		80 heading Can I pay over time?, Value: 3
+			81 button (collapsed) Can I pay over time?, ID: radix-_r_2n_, Secondary Actions: Expand
+		82 heading Will my price go up as my dose increases?, Value: 3
+			83 button (collapsed) Will my price go up as my dose increases?, ID: radix-_r_2p_, Secondary Actions: Expand
+		84 heading What’s included in the price? Are there any hidden fees?, Value: 3
+			85 button (expanded) What’s included in the price? Are there any hidden fees?, ID: radix-_r_2r_, Secondary Actions: Collapse
+		117 container What’s included in the price? Are there any hidden fees?, ID: radix-_r_2s_
+			118 text No hidden fees. One price covers a 4-week supply, shipped every 28 days of compounded medication, all injection supplies, unlimited clinician messaging, and free discreet shipping. No membership fees and no consultation fees.
+		86 heading Is this a scam? Where does the medication come from?, Value: 3
+			87 button (collapsed) Is this a scam? Where does the medication come from?, ID: radix-_r_2t_, Secondary Actions: Expand
+		88 heading When am I charged, and how does billing work?, Value: 3
+			89 button (collapsed) When am I charged, and how does billing work?, ID: radix-_r_2v_, Secondary Actions: Expand
+		90 heading How soon will it ship?, Value: 3
+			91 button (collapsed) How soon will it ship?, ID: radix-_r_31_, Secondary Actions: Expand
+		92 heading How does the dose schedule work?, Value: 3
+			93 button (collapsed) How does the dose schedule work?, ID: radix-_r_33_, Secondary Actions: Expand
+		94 heading How does this actually work?, Value: 3
+			95 button (collapsed) How does this actually work?, ID: radix-_r_35_, Secondary Actions: Expand
+		114 container
+			115 text 1-month plan ·  $329  billed every 28 days
+			116 button Continue with Tirzepatide
+		20 pop up button (collapsed) Ask a question, Secondary Actions: Expand
+		2 container Legal
+			3 link Description: Privacy Policy, Value: joinamble.com/policies/privacy-policy#notice-at-collection
+			4 link Description: Your Privacy Choices, Value: intake.joinamble.com/policies/your-privacy-choices
+			5 link Description: Terms Of Service, Value: joinamble.com/terms-of-service
+		6 container Notifications alt+T
+
+The focused UI element is 85 button (expanded) What’s included in the price? Are there any hidden fees?, ID: radix-_r_2r_, Secondary Actions: Collapse

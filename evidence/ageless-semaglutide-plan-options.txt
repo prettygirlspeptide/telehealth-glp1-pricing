@@ -1,0 +1,64 @@
+Browser tab: 26, Title: "AgelessRx - Select Plan", URL: "[private provider-session URL omitted]
+1 AXWebArea AgelessRx - Select Plan, URL: [private provider-session URL omitted]
+	2 container
+		3 container
+			4 progress indicator 93
+			5 link [private provider-session URL omitted]
+			6 heading Select your plan, Value: 1
+				7 text Select your plan
+			8 image product image for Compounded Semaglutide + Glycine
+			9 heading Compounded Semaglutide + Glycine, Value: 2
+				10 text Compounded Semaglutide + Glycine
+			11 content list
+				12 text HSA/FSA Eligible
+				13 container
+					14 text • In Stock
+			15 content list
+				16 text Free provider evaluation, 100% online
+				17 text Ongoing support & regular check-ins
+				18 text HSA/FSA eligible & free shipping
+			19 container productPlanSelector
+				20 container
+					21 text 4-month
+					22 content list
+						23 text Best Value
+					24 text $139 / first mo
+					25 content list
+						26 container
+							27 AXListMarker • 
+							28 text Billed  $856 first order,  then  $956/every 4 months.
+						29 container
+							30 AXListMarker • 
+							31 text Equivalent to paying $139 for your first month, then $239/mo after
+						32 container
+							33 AXListMarker • 
+							34 text Medication & supplies ship every 2 months
+						35 container
+							36 AXListMarker • 
+							37 text Longer plans support better outcomes
+					38 text Save $100 on your first order Pause or cancel anytime.
+				39 container
+					40 text 2-month $259 /Month
+					41 content list
+						42 container
+							43 AXListMarker • 
+							44 text Billed $518 in full every 2 months,  equivalent to paying $259/mo
+						45 container
+							46 AXListMarker • 
+							47 text Medication & supplies ship every 2 months
+				48 container
+					49 text Monthly $279 /Month
+					50 content list
+						51 container
+							52 AXListMarker • 
+							53 text Billed $279 monthly.
+						54 container
+							55 AXListMarker • 
+							56 text Medication & supplies ship monthly
+			57 text Billed
+			58 text  (If prescribed)
+			59 text $956
+			60 text $856
+			61 button Continue to checkout
+
+The focused UI element is 1 AXWebArea AgelessRx - Select Plan, URL: [private provider-session URL omitted]
