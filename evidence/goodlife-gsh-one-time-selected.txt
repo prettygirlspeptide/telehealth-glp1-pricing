@@ -1,0 +1,66 @@
+Browser tab: 285221973, Title: "Glutathione | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glutathione?promo=DW20".
+0 AXWebArea Glutathione | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glutathione?promo=DW20
+	1 container
+		2 container questionnaire-container
+			3 container
+				4 button Back
+					5 image
+					6 text Back
+				7 image Logo
+				8 pop up button (collapsed) Secondary Actions: Expand
+					9 image
+			10 container
+				11 heading Review treatment, Value: 4
+					12 text Review treatment
+				13 text One-time payment (no subscription or recurring billing) for a treatment described below. The bundle includes medication plus all supplies and expedited shipping.
+				14 heading Plan, Value: 4
+					15 text Plan
+				16 container
+					17 image Glutathione 200mg/ml - (one-time purchase)
+					18 heading Glutathione 200mg/ml - (one-time purchase), Value: 2
+						19 text Glutathione 200mg/ml - (one-time purchase)
+					20 text 1-month supply
+					21 container
+						22 text $ 179.00
+				23 container
+					24 text Daily Wellness 20% Promo -$ 35.80
+				25 heading Due if prescribed, Value: 4
+					26 text Due if prescribed
+				27 container
+					28 text $179.00 $ 143.20
+				29 container
+					30 text You're saving 20%
+				31 heading Consult Fee, Value: 4
+					32 text Consult Fee
+				33 heading $0, Value: 4
+					34 text $0
+				35 heading Discounts, Value: 4
+					36 text Discounts
+				37 button (collapsed) Description: Expand discounts, Secondary Actions: Expand
+				38 container
+					39 text field (disabled) DW20
+					40 button (disabled) Apply
+				41 text Daily Wellness 20% Promo
+				42 button Remove coupon: Daily Wellness 20% Promo
+				43 heading Select payment method, Value: 4
+					44 text Select payment method
+				45 text You'll be charged once prescribed. You won't be charged if a provider determines that treatment isn't right for you.
+				46 container
+					47 button Card
+						48 heading Card, Value: 4
+							49 text Card
+[payment-frame URL omitted]
+							51 text field (settable)
+[payment-frame URL omitted]
+							53 text field (settable)
+[payment-frame URL omitted]
+							55 text field (settable)
+					56 button Total ($0) Next
+						57 text Total
+						58 text  ($0)
+						59 text Next
+				60 container
+					61 text By clicking ‘Submit’ you agree to our Terms of Service and Privacy Policy. In addition, you agree that, if prescribed, you will be charged the amount shown above, less any credits available in your account at the time your payment method is charged for your order. Packaging shown may be different from what you receive. By clicking submit, I agree to review and attest that the information I have provided and will provide is true to the best of my knowledge. I understand that it is critical to my health to share complete health information with my doctor. I will not hold the doctor or affiliated medical practice responsible for any oversights or omissions, whether intentional or not, in the information that I provided above.
+					62 button Learn More
+
+The focused UI element is 0 AXWebArea Glutathione | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glutathione?promo=DW20

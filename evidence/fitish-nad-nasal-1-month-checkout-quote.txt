@@ -1,0 +1,11 @@
+- heading "Complete Your Order" [level=1]
+- heading "Select Your Treatment Plan" [level=3]
+- 'button "1 Month Supply $149.00 $149.00 upfront Includes: Free expedited shipping Provider oversight and support" [pressed]':
+- button "Save 10% 3 Month Supply $405.00 Just $135/mo - Save $42/month vs monthly Billed $405.00 upfront at once":
+- button "Get 1 Month Free! 6 Month Supply $714.00 $180 in Savings - Over 1 Month Free! Billed $714.00 upfront at once":
+- heading "Order Summary" [level=3]
+- generic: 1 Month Supply Plan
+- generic: 1 Month Supply
+- generic: $149 billed on approval
+- generic: Due Today
+- generic: $149

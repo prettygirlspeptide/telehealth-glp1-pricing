@@ -1,0 +1,18 @@
+Browser tab: 285221973, Title: "Glutathione | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glutathione?promo=DW20".
+0 AXWebArea Glutathione | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glutathione?promo=DW20
+	1 container
+		2 container questionnaire-container
+			3 container
+				4 button Back
+					5 image
+					6 text Back
+				7 image Logo
+				8 pop up button (collapsed) Secondary Actions: Expand
+					9 image
+			10 container
+				11 heading Please provide addtional details, Value: 4
+					12 text Please provide addtional details
+				13 text entry area (settable) PRICING RESEARCH ONLY. This is a fictional healthy study case, not the account holder’s medical history: female, age 35, California, 5 ft 4 in, 172 lb, goal 145 lb, somewhat active; no known conditions, medications or allergies; never used any study treatments; not pregnant or breastfeeding. No current symptoms. We request only an exact pre-payment quote. No clinician review, prescription, treatment or order is requested.
+				14 button Next
+
+The focused UI element is 13 text entry area (settable) PRICING RESEARCH ONLY. This is a fictional healthy study case, not the account holder’s medical history: female, age 35, California, 5 ft 4 in, 172 lb, goal 145 lb, somewhat active; no known conditions, medications or allergies; never used any study treatments; not pregnant or breastfeeding. No current symptoms. We request only an exact pre-payment quote. No clinician review, prescription, treatment or order is requested.

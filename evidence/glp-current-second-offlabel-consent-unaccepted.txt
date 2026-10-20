@@ -1,0 +1,32 @@
+CURRENT SECOND REQUIRED ACKNOWLEDGMENT, UNCHECKED.
+Source: https://app.goodlifemeds.com/start-online-visit/glp-promo
+Scope: shared GLP questionnaire after newly entered172lb5ft4 and provider-calculated BMI29.5; before doctor-information question and actual medication selector.
+Exact checkbox: By checking this box, you acknowledge the above information.
+Inline Consent information button only; no external document URLs exposed. No dedicated medical-truth certification, clinician submission, order or payment on this screen. This is a distinct control from the already human-approved General Guidelines acknowledgment.
+
+Browser tab: 285221951, Title: "GLP Intake - Promo | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glp-promo".
+0 AXWebArea GLP Intake - Promo | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-promo
+	1 container
+		2 container questionnaire-container
+			3 container
+				4 button Back
+					5 image
+					6 text Back
+				7 image Logo
+				8 pop up button (collapsed) Secondary Actions: Expand
+					9 image
+			10 container
+				11 heading Important information about this product, Value: 4
+					12 text Important information about this product
+				13 text Read the following for more information about this product and it's potential side effects.
+				14 button Consent information
+					15 heading Consent information, Value: 2
+						16 text Consent information
+					17 image
+				18 text The traditional use of weight loss medications is for individuals with a BMI of 30 and above or to those who are overweight who have associated health conditions. Using it for someone with a BMI range (27-29) without an accompanying health condition is termed "off-label." Using a medication "off-label" refers to the practice of prescribing a drug for a purpose, age group, dosage, or form of administration that is not included in the approved labeling by regulatory agencies like the U.S. Food and Drug Administration (FDA). While a medication undergoes rigorous testing for specific uses before receiving approval, healthcare providers may discover through clinical experience or research that it can be effective for treating other conditions. There may be benefits such as weight reduction for individuals within your range. If you agree to this off-label use, it's crucial to follow the prescribed regimen and report any concerns. Please discuss any questions with us.
+				19 container headlessui-label-_r_3v_
+					20 switch Description: By checking this box, you acknowledge the above information, Value: 0, ID: headlessui-switch-_r_40_
+					21 text By checking this box, you acknowledge the above information
+				22 button (disabled) Next
+
+The focused UI element is 0 AXWebArea GLP Intake - Promo | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-promo

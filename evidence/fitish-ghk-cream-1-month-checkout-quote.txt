@@ -1,0 +1,12 @@
+- heading "Complete Your Order" [level=1]
+- heading "Select Your Treatment Plan" [level=3]
+- 'button "1 Month Supply $150.00 $150.00 upfront Includes: Free expedited shipping Provider oversight and support" [pressed]':
+- button "3 Month Supply $405.00 $405.00 upfront":
+- button "6 Month Supply $720.00 $720.00 upfront":
+- checkbox "I understand this is a recurring subscription and I will be charged automatically"
+- heading "Order Summary" [level=3]
+- generic: 1 Month Supply Plan
+- generic: 1 Month Supply
+- generic: $150 billed on approval
+- generic: Due Today
+- generic: $150

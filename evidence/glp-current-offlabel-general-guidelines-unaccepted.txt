@@ -1,0 +1,32 @@
+CURRENT REQUIRED ACKNOWLEDGMENT; UNCHECKED; NO NEXT ACTION.
+Official source: https://app.goodlifemeds.com/start-online-visit/glp-promo
+Scope: shared Good Life GLP questionnaire before medication selector (Tirzepatide/Semaglutide options), after current/past-conditions screen and before recent-gastric-bypass question. No external legal-document URL was exposed on this screen; General Guidelines is an inline button.
+Current exact control: By checking this box, you acknowledge the above information.
+No dedicated clinical-truth certification, clinician-submit, order or payment action is on this screen. Acknowledgment could record agreement to described off-label use; held for current human approval.
+
+Browser tab: 285221951, Title: "GLP Intake - Promo | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glp-promo".
+0 AXWebArea GLP Intake - Promo | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-promo
+	1 container
+		2 container questionnaire-container
+			5 container
+				9 button Back
+					10 image
+					11 text Back
+				6 image Logo
+				7 pop up button (collapsed) Secondary Actions: Expand
+					8 image
+			12 container
+				13 heading What you should know, Value: 4
+					14 text What you should know
+				15 text Read the following for more information about this product and it's potential side effects.
+				16 button General Guidelines
+					17 heading General Guidelines, Value: 2
+						18 text General Guidelines
+					19 image
+				20 text The traditional use of weight loss medications is for individuals with a BMI of 30 and above or to those who are overweight who have associated health conditions. Using it for someone in your BMI range (27-29) without an accompanying health condition is termed "off-label." Using a medication "off-label" refers to the practice of prescribing a drug for a purpose, age group, dosage, or form of administration that is not included in the approved labeling by regulatory agencies like the U.S. Food and Drug Administration (FDA). While a medication undergoes rigorous testing for specific uses before receiving approval, healthcare providers may discover through clinical experience or research that it can be effective for treating other conditions. There may be benefits such as weight reduction for individuals within your range. If you agree to this off-label use, it's crucial to follow the prescribed regimen and report any concerns. Please discuss any questions with us.
+				21 container headlessui-label-_r_3h_
+					22 switch Description: By checking this box, you acknowledge the above information, Value: 0, ID: headlessui-switch-_r_3i_
+					23 text By checking this box, you acknowledge the above information
+				24 button (disabled) Next
+
+The focused UI element is 16 button General Guidelines

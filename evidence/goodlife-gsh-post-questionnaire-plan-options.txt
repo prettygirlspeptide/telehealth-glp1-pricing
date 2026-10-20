@@ -1,0 +1,59 @@
+Browser tab: 285221973, Title: "Glutathione | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glutathione?promo=DW20".
+0 AXWebArea Glutathione | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glutathione?promo=DW20
+	1 container
+		2 container questionnaire-container
+			3 container
+				4 button Back
+					5 image
+					6 text Back
+				7 image Logo
+				8 pop up button (collapsed) Secondary Actions: Expand
+					9 image
+			10 container
+				11 heading [research account name redacted] - Select your Glutathione subscription type, Value: 4
+					12 text [research account name redacted] -  Select your Glutathione subscription type
+				13 text Choose between a One-Time Payment, Monthly or Quarterly Subscription
+				14 image
+				15 text You can cancel or change your plan any time directly in your patient portal. No long-term commitments, or membership fees.
+				16 button Placeholder Glutathione Injection - Monthly Monthly 1 Month Supply - Billed and shipped monthly $179.00 $99
+					17 container
+						18 image Placeholder
+						19 heading Glutathione Injection - Monthly, Value: 1
+							20 text Glutathione Injection - Monthly
+						21 text Monthly
+						22 heading 1 Month Supply - Billed and shipped monthly, Value: 5
+							23 text 1 Month Supply - Billed and shipped monthly
+						24 heading $179.00, Value: 1
+							25 text $179.00
+						26 heading $99, Value: 1
+							27 text $ 99
+						28 heading 4
+				29 button Placeholder Glutathione Injection - Quarterly Quarterly 3 Month Supply - Billed and shipped quarterly $297.00 $199
+					30 container
+						31 image Placeholder
+						32 heading Glutathione Injection - Quarterly, Value: 1
+							33 text Glutathione Injection - Quarterly
+						34 text Quarterly
+						35 heading 3 Month Supply - Billed and shipped quarterly, Value: 5
+							36 text 3 Month Supply - Billed and shipped quarterly
+						37 heading $297.00, Value: 1
+							38 text $297.00
+						39 heading $199, Value: 1
+							40 text $ 199
+						41 heading 4
+				42 button Placeholder Glutathione Injection - One-Time One-Time Order 1 Month Supply - Billed and shipped one-time $199.00 $179.00
+					43 container
+						44 image Placeholder
+						45 heading Glutathione Injection - One-Time, Value: 1
+							46 text Glutathione Injection - One-Time
+						47 text One-Time Order
+						48 heading 1 Month Supply - Billed and shipped one-time, Value: 5
+							49 text 1 Month Supply - Billed and shipped one-time
+						50 heading $199.00, Value: 1
+							51 text $199.00
+						52 heading $179.00, Value: 1
+							53 text $ 179.00
+						54 heading 4
+				55 button Continue
+
+The focused UI element is 4 button Back

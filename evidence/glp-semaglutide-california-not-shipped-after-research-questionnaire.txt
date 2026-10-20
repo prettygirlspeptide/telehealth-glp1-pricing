@@ -1,0 +1,94 @@
+CURRENT ACTUAL POST-QUESTIONNAIRE AVAILABILITY RESULT; NOT A PRICE.
+Source: https://app.goodlifemeds.com/start-online-visit/glp-promo
+Selected Compounded Semaglutide, after current research-case clinical questions, two separately approved off-label acknowledgments and provider-facing fictional-research disclosure. Specific human-approved existing matching address was confirmed for Good Life; no address field value was changed. Saved-card Continue did not advance; Enter New Address exposed identical prefilled form, whose Continue produced: We do not ship to California.
+State remained California. No location or clinical answer changed to force access. No order, card or clinical-final Submit.
+
+Browser tab: 285221951, Title: "GLP Intake - Promo | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glp-promo".
+0 AXWebArea GLP Intake - Promo | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-promo
+	1 container
+		2 container questionnaire-container
+			3 container
+				4 button Back
+					5 image
+					6 text Back
+				7 image Logo
+				8 pop up button (collapsed) Secondary Actions: Expand
+					9 image
+			10 container
+				11 heading Shipping Address, Value: 4
+					12 text Shipping Address
+				13 text If prescribed, we need your current home address on file.
+				14 heading Shipping Address, Value: 4
+					15 text Shipping Address
+				23 text Address Line 1
+				25 container
+					26 text Address Line 2
+					27 text field (settable)
+				28 container
+					29 text City
+					30 text field (settable) Value: Los Angeles, ID: city
+				31 container
+					32 text State
+					33 pop up button (collapsed, settable) Value: California, ID: state, Secondary Actions: Expand
+						34 menu
+							35 Select State
+							36 Alabama
+							37 Alaska
+							38 Arizona
+							39 Arkansas
+							40 (selected) California
+							41 Colorado
+							42 Connecticut
+							43 Delaware
+							44 District of Columbia
+							45 Florida
+							46 Georgia
+							47 Hawaii
+							48 Idaho
+							49 Illinois
+							50 Indiana
+							51 Iowa
+							52 Kansas
+							53 Kentucky
+							54 Louisiana
+							55 Maine
+							56 Maryland
+							57 Massachusetts
+							58 Michigan
+							59 Minnesota
+							60 Mississippi
+							61 Missouri
+							62 Montana
+							63 Nebraska
+							64 Nevada
+							65 New Hampshire
+							66 New Jersey
+							67 New Mexico
+							68 New York
+							69 North Carolina
+							70 North Dakota
+							71 Ohio
+							72 Oklahoma
+							73 Oregon
+							74 Pennsylvania
+							75 Puerto Rico
+							76 Rhode Island
+							77 South Carolina
+							78 South Dakota
+							79 Tennessee
+							80 Texas
+							81 Utah
+							82 Vermont
+							83 Virginia
+							84 Washington
+							85 West Virginia
+							86 Wisconsin
+							87 Wyoming
+					88 image
+				89 container
+					90 text Zip Code
+				22 button Continue, ID: continue
+		92 container
+			93 text We do not ship to California
+
+The focused UI element is 22 button Continue, ID: continue

@@ -1,0 +1,7 @@
+CURRENT SAVED ADDRESS CONFIRMATION GATE; UNCONFIRMED.
+Official source: https://app.goodlifemeds.com/start-online-visit/glp-promo
+Actual selected medication immediately before this gate: Compounded Semaglutide.
+After current research clinical questions and both separately human-approved off-label acknowledgments, Shipping Address requires confirmation of an existing saved address. Its exact private street/postal values are deliberately excluded. Los Angeles, California is the coarse locality. No address was selected, entered, changed or confirmed in this run.
+Wording: Shipping Address. If prescribed, we need your current home address on file.
+Controls: saved address radio, Enter New Address, Continue.
+No visible order/clinician-submit/payment agreement on this screen. Continue is held for specific Good Life address-disclosure approval. Cropped screenshots show heading/instruction and controls, excluding the actual address card, based on visible DOM bounds.

@@ -1,0 +1,6 @@
+Observed 2026-10-19. Existing-account selected checkout; identity/contact lines omitted. Not standardized hypothetical-profile intake. Product: Microdose Semaglutide (Monthly), not tirzepatide.
+Selected card: Microdose Semaglutide Monthly; $124.00/mo; 1 Month Supply. Each provider-labelled month includes 4 weeks of injections. Free overnight delivery and same price at every dose stated.
+Selected summary label: Total if prescribed. Crossed-out reference: $124.00. Current conditional total: $99.20. Disabled discount code: DW20; Daily Wellness 20% Promo.
+Payment only after prescription; no charge if provider determines treatment inappropriate. Future Submit to provider would accept automatic renewal; no submission, agreement, payment or clinical-history confirmation performed. Exact future renewal amount not separately established.
+Screenshot shows selected card and conditional summary, not entire checkout.
+Source: https://app.goodlifemeds.com/start-online-visit/glp-microdosing?promo=DW20&promo-source=coupon

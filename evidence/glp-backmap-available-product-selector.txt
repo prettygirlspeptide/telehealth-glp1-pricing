@@ -1,0 +1,100 @@
+READ-ONLY BACK NAVIGATION; NO PRODUCT SELECTED OR NEW CLINICAL ANSWER ENTERED.
+Source: https://app.goodlifemeds.com/start-online-visit/glp-promo
+Observed sequence: restored Shipping Address -> Back -> selected Tirzepatide confirmation -> Back -> medication selector with both Compounded Tirzepatide and Compounded Semaglutide.
+Starting-at selector prices are excluded from observations. This corrects the earlier bounded claim that no product selector was exposed.
+
+Browser tab: 285221951, Title: "GLP Intake - Promo | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glp-promo".
+0 AXWebArea GLP Intake - Promo | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-promo
+	1 container
+		2 container questionnaire-container
+			5 container
+				9 button Back
+					10 image
+					11 text Back
+				6 image Logo
+				7 pop up button (collapsed) Secondary Actions: Expand
+					8 image
+			12 container
+				13 heading Choose the Weight-Loss Medication That’s Right for You, Value: 4
+					14 text Choose the Weight-Loss Medication That’s Right for You
+				15 text Disclaimer:  All medications require medical approval. Selecting your preferred option does not guarantee that it will be prescribed. A licensed provider will review your medical information to determine whether the selected medication is appropriate and safe for you based on your health history and treatment goals.
+				16 text The FDA  does not  approve compounded drugs or monitor them for safety, effectiveness, or quality.
+				17 image
+				18 text Important:  Promotional pricing is applied at the final checkout pages and  may not  be reflected in the pricing listed below. This includes any limited-time promotional offers as well as multi-month discounts.
+				19 button Placeholder Compounded Tirzepatide STARTING AT $129 / MONTH Same Price at Every Dose Same active ingredient found in Zepbound® and Mounjaro® Sourced from US-based and FDA-licensed Pharmacies Multi-month discounts available at check-out
+					20 container
+						21 image Placeholder
+						22 heading Compounded Tirzepatide, Value: 1
+							23 text Compounded Tirzepatide
+						24 text STARTING AT $129 / MONTH
+						25 heading Same Price at Every Dose, Value: 5
+							26 text Same Price at Every Dose
+						27 heading 4
+						28 text Same active ingredient found in Zepbound® and Mounjaro®
+						29 text Sourced from US-based and FDA-licensed Pharmacies
+						30 text Multi-month discounts available at check-out
+				31 button Placeholder Compounded Semaglutide STARTING AT $99 / MONTH Same Price at Every Dose Same active ingredient found in Wegovy® and Ozempic® Sourced from US-based and FDA-licensed Pharmacies Multi-month discounts available at check-out
+					32 container
+						33 image Placeholder
+						34 heading Compounded Semaglutide, Value: 1
+							35 text Compounded Semaglutide
+						36 text STARTING AT $99 / MONTH
+						37 heading Same Price at Every Dose, Value: 5
+							38 text Same Price at Every Dose
+						39 heading 4
+						40 text Same active ingredient found in Wegovy® and Ozempic®
+						41 text Sourced from US-based and FDA-licensed Pharmacies
+						42 text Multi-month discounts available at check-out
+				43 button Placeholder Ozempic® FDA-approved for type 2 diabetes, improving glycemic control, helping control hunger and cravings. $649.00 FDA-approved for the treatment of type 2 diabetes and improved glycemic control. Taken weekly with convenient, pre-measured auto-injector pens. Same price at every dose.
+					44 container
+						45 image Placeholder
+						46 heading Ozempic®, Value: 1
+							47 text Ozempic®
+						48 heading FDA-approved for type 2 diabetes, improving glycemic control, helping control hunger and cravings., Value: 5
+							49 text FDA-approved for type 2 diabetes, improving glycemic control, helping control hunger and cravings.
+						50 heading $649.00, Value: 1
+							51 text $ 649.00
+						52 heading 4
+						53 text FDA-approved for the treatment of type 2 diabetes and improved glycemic control.
+						54 text Taken weekly with convenient, pre-measured auto-injector pens.
+						55 text Same price at every dose.
+				56 button Placeholder Wegovy® FDA-approved for weight loss and may improve cardiovascular health. $499.00 FDA-approved for weight loss. Taken weekly with convenient, pre-measured auto-injector pens. Same price at every dose.
+					57 container
+						58 image Placeholder
+						59 heading Wegovy®, Value: 1
+							60 text Wegovy®
+						61 heading FDA-approved for weight loss and may improve cardiovascular health., Value: 5
+							62 text FDA-approved for weight loss and may improve cardiovascular health.
+						63 heading $499.00, Value: 1
+							64 text $ 499.00
+						65 heading 4
+						66 text FDA-approved for weight loss.
+						67 text Taken weekly with convenient, pre-measured auto-injector pens.
+						68 text Same price at every dose.
+				69 button Placeholder Zepbound® FDA-approved option for weight management. $1299.00 Taken weekly with convenient, pre-measured auto-injector pens. No membership fees. Same price at every dose.
+					70 container
+						71 image Placeholder
+						72 heading Zepbound®, Value: 1
+							73 text Zepbound®
+						74 heading FDA-approved option for weight management., Value: 5
+							75 text FDA-approved option for weight management.
+						76 heading $1299.00, Value: 1
+							77 text $ 1299.00
+						78 heading 4
+						79 text Taken weekly with convenient, pre-measured auto-injector pens.
+						80 text No membership fees. Same price at every dose.
+				81 button Placeholder Mounjaro® FDA-approved weekly injectable medication for type 2 diabetes and improved glycemic control. $1099.00 Taken weekly with convenient, pre-measured auto-injector pens. No membership fees. Same price at every dose.
+					82 container
+						83 image Placeholder
+						84 heading Mounjaro®, Value: 1
+							85 text Mounjaro®
+						86 heading FDA-approved weekly injectable medication for type 2 diabetes and improved glycemic control., Value: 5
+							87 text FDA-approved weekly injectable medication for type 2 diabetes and improved glycemic control.
+						88 heading $1099.00, Value: 1
+							89 text $ 1099.00
+						90 heading 4
+						91 text Taken weekly with convenient, pre-measured auto-injector pens.
+						92 text No membership fees. Same price at every dose.
+				93 button Continue
+
+The focused UI element is 9 button Back

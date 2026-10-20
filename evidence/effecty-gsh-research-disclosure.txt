@@ -1,0 +1,19 @@
+Browser tab: 285221972, Title: "Glutathione - Membership | Effecty", URL: "https://go.effecty.com/start-online-visit/glut?utm_source=bask_patient_portal".
+1 AXWebArea Glutathione - Membership | Effecty, URL: go.effecty.com/start-online-visit/glut?utm_source=bask_patient_portal
+	2 container
+		3 container questionnaire-container
+			4 container
+				5 button Back
+					6 image
+					7 text Back
+				8 image Logo
+				9 pop up button (collapsed) Secondary Actions: Expand
+					10 image
+			23 container
+				24 heading Please provide additional details, Value: 4
+					25 text Please provide additional details
+				26 text entry area (settable) PRICING RESEARCH ONLY. This is a fictional healthy study case, not the account holder’s medical history: female, age 35, California, 5 ft 4 in, 172 lb, goal 145 lb, somewhat active; no known conditions, medications or allergies; never used any study treatments; not pregnant or breastfeeding. No current symptoms. We request only an exact pre-payment quote. No clinician review, prescription, treatment or order is requested. Overall wellness is a research-case preference, without symptoms or a diagnosis.
+				27 button Next
+		22 text Glutathione - Membership | Effecty
+
+The focused UI element is 26 text entry area (settable) PRICING RESEARCH ONLY. This is a fictional healthy study case, not the account holder’s medical history: female, age 35, California, 5 ft 4 in, 172 lb, goal 145 lb, somewhat active; no known conditions, medications or allergies; never used any study treatments; not pregnant or breastfeeding. No current symptoms. We request only an exact pre-payment quote. No clinician review, prescription, treatment or order is requested. Overall wellness is a research-case preference, without symptoms or a diagnosis.

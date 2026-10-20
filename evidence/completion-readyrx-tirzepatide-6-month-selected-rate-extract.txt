@@ -1,0 +1,5 @@
+Selected selector-rate proof extracted from the contemporaneous saved browser accessibility snapshot.
+Source receipt: completion-readyrx-tirzepatide-selector-inclusions-and-terms.txt
+This selected radio was observed before returning from the prior selected-checkout summary.
+106 radio button (settable, integer) Description: 6-Month Subscription $255/mo $235 1st Month (*when paid in full), Value: 1, ID: selectedFrequency-6
+No other plan price or personal contact details are reproduced.

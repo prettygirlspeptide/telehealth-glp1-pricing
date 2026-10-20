@@ -1,0 +1,32 @@
+FICTIONAL STANDARDIZED RESEARCH CASE, NOT ACCOUNT HOLDER MEDICAL HISTORY.
+Source: https://app.goodlifemeds.com/start-online-visit/glp-promo
+Only provider-asked fields shown applied:172lb,5ft4. Age, sex at birth and state were not asked or independently verified in this clinical segment. No clinical submission or payment requested.
+
+Browser tab: 285221951, Title: "GLP Intake - Promo | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glp-promo".
+0 AXWebArea GLP Intake - Promo | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-promo
+	1 container
+		2 container questionnaire-container
+			3 container
+				4 button Back
+					5 image
+					6 text Back
+				7 image Logo
+				8 pop up button (collapsed) Secondary Actions: Expand
+					9 image
+			10 container
+				11 heading BMI Calculation, Value: 4
+					12 text BMI Calculation
+				13 image
+				14 text Please note that a Body Mass Index (BMI) below 25 does not meet the eligibility criteria for online GLP-1 therapy. Individuals with a BMI under 25 should schedule an in-person consultation with a licensed healthcare provider to review appropriate treatment options and receive a personalized medical assessment based on their individual health needs.
+				15 container
+					16 stepper (settable, integer) 172
+					17 text lbs
+				18 container
+					19 stepper (settable, integer) 5
+					20 text Feet
+				21 container
+					22 stepper (settable, integer) 4
+					23 text Inches
+				24 pop up button (collapsed) Calculate, Secondary Actions: Expand
+
+The focused UI element is 22 stepper (settable, integer) 4

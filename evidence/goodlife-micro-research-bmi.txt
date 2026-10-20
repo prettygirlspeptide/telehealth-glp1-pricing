@@ -1,0 +1,37 @@
+Browser tab: 285221979, Title: "GLP-1 Microdosing | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glp-microdosing?promo=DW20".
+0 AXWebArea GLP-1 Microdosing | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-microdosing?promo=DW20
+	1 container
+		2 container questionnaire-container
+			5 container
+				11 button Back
+					12 image
+					13 text Back
+				6 image Logo
+				7 pop up button (collapsed) Secondary Actions: Expand
+					8 image
+				9 pop up button (collapsed) Secondary Actions: Expand
+					10 image
+			14 container
+				15 heading Please provide your height and weight below, Value: 4
+					16 text Please provide your height and weight below
+				17 container
+					18 stepper (settable, integer) 172
+					19 text lbs
+				20 container
+					21 stepper (settable, integer) 5
+					22 text Feet
+				23 container
+					24 stepper (settable, integer) 4
+					25 text Inches
+				26 pop up button (expanded) Calculate, Secondary Actions: Collapse
+		27 container radix-_r_1m_
+			28 heading Your BMI is, Value: 3
+				29 text Your BMI is
+			30 text 29.5
+			31 text Recalculate
+			32 button Continue
+			33 button Close
+				34 image
+				35 text Close
+
+The focused UI element is 26 pop up button (expanded) Calculate, Secondary Actions: Collapse

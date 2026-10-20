@@ -1,0 +1,20 @@
+Browser tab: 285221979, Title: "GLP-1 Microdosing | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glp-microdosing?promo=DW20".
+0 AXWebArea GLP-1 Microdosing | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-microdosing?promo=DW20
+	1 container
+		2 container questionnaire-container
+			5 container
+				11 button Back
+					12 image
+					13 text Back
+				6 image Logo
+				7 pop up button (collapsed) Secondary Actions: Expand
+					8 image
+				9 pop up button (collapsed) Secondary Actions: Expand
+					10 image
+			14 container
+				15 heading What other information or questions do you have for the doctor?, Value: 4
+					16 text What other information or questions do you have for the doctor?
+				17 text entry area (settable) PRICING RESEARCH ONLY. This is a fictional healthy study case, not the account holder’s medical history: female, age 35, California, 5 ft 4 in, 172 lb, goal 145 lb, somewhat active; no known conditions, medications or allergies; never used any study treatments; not pregnant or breastfeeding. No current symptoms. We request only an exact pre-payment quote. No clinician review, prescription, treatment or order is requested. For this microdose research variant, the only goal is longevity/healthy aging. The less-than-six-month answer refers to recent interest in healthy aging, not a symptom or diagnosed condition.
+				18 button Next
+
+The focused UI element is 17 text entry area (settable) PRICING RESEARCH ONLY. This is a fictional healthy study case, not the account holder’s medical history: female, age 35, California, 5 ft 4 in, 172 lb, goal 145 lb, somewhat active; no known conditions, medications or allergies; never used any study treatments; not pregnant or breastfeeding. No current symptoms. We request only an exact pre-payment quote. No clinician review, prescription, treatment or order is requested. For this microdose research variant, the only goal is longevity/healthy aging. The less-than-six-month answer refers to recent interest in healthy aging, not a symptom or diagnosed condition.

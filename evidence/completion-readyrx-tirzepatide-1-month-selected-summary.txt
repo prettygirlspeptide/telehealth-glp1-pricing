@@ -1,0 +1,78 @@
+Browser tab: 285221689, Title: "Weight Loss Evaluation - ReadyRx", URL: "https://app.readyrx.com/f/wl/ti?v=5&s=WL_INTAKE-5&lid=[omitted]".
+0 AXWebArea Weight Loss Evaluation - ReadyRx, URL: app.readyrx.com/f/wl/ti?v=5&s=WL_INTAKE-5&lid=[omitted]
+	1 container
+		2 container root
+			3 container
+				4 button Back
+					5 image
+					6 text Back
+				7 button ReadyRx
+					8 image ReadyRx
+				23 content list
+					24 link (collapsed) Description: AA, ID: dropdownUser, Secondary Actions: Expand
+						89 text AA
+				9 progress indicator 96
+			26 container weight-loss-review-order
+				27 heading Review Your Treatment, Value: 2
+					29 text Review Your Treatment
+				30 container
+					31 text Tirzepatide
+					32 container
+						33 text Monthly  Subscription $315.00
+					34 text GETHEALTHY26
+					35 image
+					36 text - $20.00
+					37 text Total 
+					38 button
+						39 image
+					40 text $315.00 $295.00
+				41 text Promotional Code
+				42 container
+					43 button GETHEALTHY26
+					44 button
+						45 image
+				46 container CheckoutForm
+					47 text Payment Method
+					48 container
+						49 radio button (settable, integer) Description: Credit Card All transactions are secure and encrypted. 4242 4242 4242 4242 MM / YY CVV, Value: 1, ID: paymentMethodSection-CARD
+						50 image
+						51 text Credit Card
+						52 text All transactions are secure and encrypted.
+						53 image
+						54 text field (settable)
+						90 text field (settable)
+						91 text field (settable)
+						57 radio button (settable, integer) Description: Pay with Klarna Enjoy Buyer protection with Klarna., Value: 0, ID: paymentMethodSection-KLARNA
+						86 image
+						87 text Pay with Klarna
+						88 text Enjoy Buyer protection with Klarna.
+					58 text Billing Address
+					59 container
+						60 radio button (settable, integer) Description: Use my shipping address [private value omitted] [private value omitted] [private value omitted] Los Angeles, CA [private value omitted] USA, Value: 1, ID: billingAddressSelection-true
+						61 image
+						62 text Use my shipping address
+						63 text [private value omitted] [private value omitted]
+						64 text [private value omitted]
+						65 text Los Angeles, CA [private value omitted] USA
+						66 radio button (settable, integer) Description: Use a different address, Value: 0, ID: billingAddressSelection-false
+						67 image
+						68 text Use a different address
+					69 button Checkout Now
+					70 container
+						71 text By clicking  Checkout Now , I accept the Ready RX
+						72 link Terms
+							73 text Terms
+						74 text  and confirm that I have read the 
+						75 link Privacy Policy
+							76 text Privacy Policy
+						77 text .
+					78 link Description: LegitScript approved, Help: Verify LegitScript Approval, Value: legitscript.com/websites/?checker_keywords=readyrx.com
+					79 container
+						80 image
+						81 text Have Questions? Call us now at 
+						82 link Description: (310) 878-1003, Value: tel:3108781003
+						83 text .
+					84 button Coupon Terms and Conditions
+			22 container Notification Container
+
+The focused UI element is 0 AXWebArea Weight Loss Evaluation - ReadyRx, URL: app.readyrx.com/f/wl/ti?v=5&s=WL_INTAKE-5&lid=[omitted]

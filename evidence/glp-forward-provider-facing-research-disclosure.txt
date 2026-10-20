@@ -1,0 +1,19 @@
+Browser tab: 285221951, Title: "GLP Intake - Promo | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glp-promo".
+0 AXWebArea GLP Intake - Promo | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-promo
+	1 container
+		2 container questionnaire-container
+			3 container
+				4 button Back
+					5 image
+					6 text Back
+				7 image Logo
+				8 pop up button (collapsed) Secondary Actions: Expand
+					9 image
+			10 container
+				11 text QUESTIONS FOR THE DOCTOR
+				12 heading What other information or questions do you have for the doctor?, Value: 4
+					13 text What other information or questions do you have for the doctor?
+				14 text entry area (settable) Pricing research only: this questionnaire models a fictional standardized healthy case and is not the account holder medical history. No treatment or purchase requested. Do not submit for clinical review, issue prescription, or place order.
+				15 button Next
+
+The focused UI element is 14 text entry area (settable) Pricing research only: this questionnaire models a fictional standardized healthy case and is not the account holder medical history. No treatment or purchase requested. Do not submit for clinical review, issue prescription, or place order.

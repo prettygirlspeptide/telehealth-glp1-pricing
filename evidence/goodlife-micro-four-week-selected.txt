@@ -1,0 +1,78 @@
+Browser tab: 285221979, Title: "GLP-1 Microdosing | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glp-microdosing?promo=DW20".
+0 AXWebArea GLP-1 Microdosing | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-microdosing?promo=DW20
+	1 container
+		2 container questionnaire-container
+			5 container
+				11 button Back
+					12 image
+					13 text Back
+				6 image Logo
+				7 pop up button (collapsed) Secondary Actions: Expand
+					8 image
+				9 pop up button (collapsed) Secondary Actions: Expand
+					10 image
+			14 container
+				15 text You're almost done [research account name redacted] order details
+				16 image
+				17 text FSA/HSA eligible for reimbursement Microdose Tirzepatide Plan Includes:
+				18 image
+				19 text Compounded Tirzepatide from FDA-Licensed Drug Manufacturer, BPI-Labs
+				20 image
+				21 text Necessary injection kit(s)
+				22 image
+				23 text Free expedited shipping
+				24 text Select your shipping plan Choose your preferred billing plan below. Lock in bigger savings with longer plans.
+				25 content list
+					26 container
+						27 text Microdose Tirzepatide - 4 Week Plan $ 149.00 /mo
+						28 text Plan breakdown:
+						29 content list
+							30 container
+								31 AXListMarker • 
+								32 text $149 charged every 4 weeks
+							33 container
+								34 AXListMarker • 
+								35 text Direct from US Drug Manufacturer and 503(b) Pharmacy, BPI-Labs
+							36 container
+								37 AXListMarker • 
+								38 text Same active ingredient as Zepbound® and Mounjaro®
+							39 container
+								40 AXListMarker • 
+								41 text 4 week supply shipped all at once
+						42 text Cancel or change your plan at anytime through your online account portal.
+						43 image
+						44 text FSA/FHA eligible for reimbursement
+					45 container
+						46 text Mircrodose Tirzepatide 12 Week Plan $ 116.33 /mo
+						47 text Plan breakdown:
+						48 content list
+							49 container
+								50 AXListMarker • 
+								51 text $349 charged every 12 weeks
+							52 container
+								53 AXListMarker • 
+								54 text Direct from US Drug Manufacturer and 503(b) Pharmacy, BPI-Labs
+							55 container
+								56 AXListMarker • 
+								57 text Same active ingredient as Zepbound® and Mounjaro®
+							58 container
+								59 AXListMarker • 
+								60 text 12 week supply shipped all at once
+						61 text Cancel or change your plan at anytime through your online account portal.
+						62 image
+						63 text FSA/FHA eligible for reimbursement
+				64 text Total if prescribed $149.00 $ 119.20
+				65 image
+				66 text FSA/FHA eligible for reimbursement
+				67 heading Discounts, Value: 4
+					68 text Discounts
+				69 button (collapsed) Description: Expand discounts, Secondary Actions: Expand
+				70 text field (disabled) DW20
+				71 button (disabled) Apply
+				72 text Daily Wellness 20% Promo
+				73 button Remove coupon: Daily Wellness 20% Promo
+				74 text Select payment method You’ll be charged once prescribed. You won’t be charged if a provider determines that treatment isn’t right for you. Compounded drug products are not approved or evaluated by the FDA for safety, effectiveness, or quality. Prescription required. Zepbound® (tirzepatide) and Mounjaro® (tirzepatide) are not compounded. Zepbound® and Mounjaro® are registered trademarks of Eli Lilly. Good Life Meds is not affiliated with or endorsed by Eli Lilly. FSA/HSA eligibility and coverage vary by plan provider. Important: By clicking “Submit to provider” you agree that you are purchasing an automatically renewing subscription and will be billed according to the pricing and billing schedule associated with the plan you select. The amount billed and the billing frequency will depend on whether you choose a 4-week, 12-week, or 24-week plan, as well as the shipping frequency selected. You will not be able to cancel your first shipment. Your subscription will renew according to the terms of your selected plan unless you cancel at least 2 days before the next renewal date. You can view your renewal date and cancel your subscription(s) through your online account or by contacting customer support at care@goodlifemeds.com . Cancellation will take effect at the end of the current subscription period, and we do not offer refunds for partially used subscription periods. As part of your subscription, our partner pharmacy will refill and ship the prescribed product(s) in accordance with your chosen plan and shipping schedule. We will notify you of any actions you need to take to ensure that the prescription associated with your subscription remains active. You are responsible for completing these actions, and unless you have canceled, your subscription will automatically renew even if you have not taken these actions.
+				75 image
+				76 text 256-BIT TLS SECURITY
+
+The focused UI element is 0 AXWebArea GLP-1 Microdosing | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-microdosing?promo=DW20

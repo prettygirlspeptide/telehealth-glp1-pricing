@@ -1,0 +1,25 @@
+Browser tab: 285221979, Title: "GLP-1 Microdosing | Good Life Meds", URL: "https://app.goodlifemeds.com/start-online-visit/glp-microdosing?promo=DW20".
+0 AXWebArea GLP-1 Microdosing | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-microdosing?promo=DW20
+	1 container
+		2 container questionnaire-container
+			5 container
+				11 button Back
+					12 image
+					13 text Back
+				6 image Logo
+				7 pop up button (collapsed) Secondary Actions: Expand
+					8 image
+				9 pop up button (collapsed) Secondary Actions: Expand
+					10 image
+			14 container
+				15 text ANYTHING WE SHOULD KNOW ABOUT
+				16 heading Value: 4, Do you have any medical condition(s), a history of prior surgeries, or anything else you want to tell your doctor.
+					17 text Do you have any medical condition(s), a history of prior surgeries, or anything else you want to tell your doctor.
+				18 headlessui-radiogroup-_r_1p_
+					19 radio button No, Value: 1, ID: headlessui-radiogroup-option-_r_1q_
+						20 text No
+					21 radio button Yes, Value: 0, ID: headlessui-radiogroup-option-_r_1r_
+						22 text Yes
+				23 button Save and continue
+
+The focused UI element is 0 AXWebArea GLP-1 Microdosing | Good Life Meds, URL: app.goodlifemeds.com/start-online-visit/glp-microdosing?promo=DW20

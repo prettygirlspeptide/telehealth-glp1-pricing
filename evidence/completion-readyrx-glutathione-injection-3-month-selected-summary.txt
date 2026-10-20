@@ -1,0 +1,78 @@
+Browser tab: 285221706, Title: "Longevity Evaluation - ReadyRx", URL: "https://app.readyrx.com/f/l/gl?s=L_INTAKE".
+0 AXWebArea Longevity Evaluation - ReadyRx, URL: app.readyrx.com/f/l/gl?s=L_INTAKE
+	1 container
+		2 container root
+			3 container
+				4 button Back
+					5 image
+					6 text Back
+				7 button ReadyRx
+					8 image ReadyRx
+				30 content list
+					31 link (collapsed) Description: AA, ID: dropdownUser, Secondary Actions: Expand
+						94 text AA
+				9 progress indicator 95
+			33 container longevity-review-order
+				34 heading Review Your Treatment, Value: 2
+					35 text Review Your Treatment
+				36 container
+					37 text Glutathione Injection (2000mg Vial)
+					38 container
+						39 text Quarterly  Subscription $507.00 $417.00
+					40 text Month 1 $169.00 $124.00 Month 2 $169.00 $139.00 Month 3 $169.00 $139.00
+					41 text GETHEALTHY26
+					42 image
+					43 text - $15.00
+					44 text Total 
+					45 button
+						46 image
+					47 text $507.00 $402.00
+				48 text Promotional Code
+				49 container
+					50 button GETHEALTHY26
+					51 button
+						52 image
+				53 container CheckoutForm
+					54 text Payment Method
+					55 container
+						56 radio button (settable, integer) Description: Credit Card All transactions are secure and encrypted. 4242 4242 4242 4242 MM / YY CVV, Value: 1, ID: paymentMethodSection-CARD
+						57 image
+						58 text Credit Card
+						59 text All transactions are secure and encrypted.
+						60 image
+						61 text field (settable)
+						62 text field (settable)
+						63 text field (settable)
+						64 radio button (settable, integer) Description: Pay with Klarna Enjoy Buyer protection with Klarna., Value: 0, ID: paymentMethodSection-KLARNA
+						65 image
+						66 text Pay with Klarna
+						67 text Enjoy Buyer protection with Klarna.
+					68 text Billing Address
+					69 container
+						70 radio button (settable, integer) Description: Use my shipping address [private value omitted] [private value omitted] [private value omitted] Los Angeles, CA [private value omitted] USA, Value: 1, ID: billingAddressSelection-true
+						71 image
+						72 text Use my shipping address
+						73 text [private value omitted] [private value omitted]
+						74 text [private value omitted]
+						75 text Los Angeles, CA [private value omitted] USA
+						76 radio button (settable, integer) Description: Use a different address, Value: 0, ID: billingAddressSelection-false
+						77 image
+						78 text Use a different address
+					79 button Checkout Now
+					80 container
+						81 text By clicking  Checkout Now , I accept the Ready RX
+						82 link Terms
+							83 text Terms
+						84 text  and confirm that I have read the 
+						85 link Privacy Policy
+							86 text Privacy Policy
+						87 text .
+					88 link Description: LegitScript approved, Help: Verify LegitScript Approval, Value: legitscript.com/websites/?checker_keywords=readyrx.com
+					89 container
+						90 image
+						91 text Have Questions? Call us now at 
+						92 link Description: (310) 878-1003, Value: tel:3108781003
+					93 button Coupon Terms and Conditions
+			25 container Notification Container
+
+The focused UI element is 0 AXWebArea Longevity Evaluation - ReadyRx, URL: app.readyrx.com/f/l/gl?s=L_INTAKE
