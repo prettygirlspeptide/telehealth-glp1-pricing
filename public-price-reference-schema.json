@@ -1,0 +1,29 @@
+{
+  "version": "1.7.1",
+  "rows": 59,
+  "providers": 8,
+  "granularity": "One dated public reference linked to an audited quote; multiple records may describe the same public offer.",
+  "scope": "59 quote-linked numeric public references from the same eight providers, including secondary oral-route comparison records when a public number exists. No Cora rows were imported. This is not expanded provider coverage.",
+  "missingness": "Empty numeric fields mean unknown; no selected post-questionnaire total is substituted into a public-price field.",
+  "source_audit": "public-baseline-audit.json",
+  "columns": [
+    "public_reference_id",
+    "provider",
+    "product_comparison_context",
+    "public_rate_usd",
+    "public_exact_total_usd",
+    "public_listed_item_price_usd",
+    "public_term_months",
+    "public_supply_days",
+    "public_price_basis",
+    "same_product_term_strength_equivalence_verified",
+    "public_observed_on",
+    "supporting_official_urls",
+    "supporting_audit_source_ids",
+    "matched_quote_observation_id",
+    "comparison_class",
+    "comparison_timing_scope",
+    "caveats",
+    "evidence_basis"
+  ]
+}

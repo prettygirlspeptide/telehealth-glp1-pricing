@@ -1,0 +1,267 @@
+{
+  "version": "1.8.0",
+  "as_of": "2026-10-20",
+  "publisher": "Pretty Girls Peptide",
+  "population": "128 labelled rows: 96 observed competitor quote options and 32 owner-configured Pretty Girls Peptide offers; these evidence classes are not the same kind of observation",
+  "findings": [
+    {
+      "finding_id": "F01",
+      "as_of": "2026-10-20",
+      "text": "The audit captured 96 individually selected post-questionnaire plan quotes from eight providers across eight requested treatment categories.",
+      "observation_ids": [
+        "Q-fitish-followup-001",
+        "Q-fitish-followup-002",
+        "Q-fitish-followup-003",
+        "Q-fitish-followup-004",
+        "Q-fitish-followup-005",
+        "Q-fitish-followup-006",
+        "Q-fitish-microdose-followup-001",
+        "Q-fitish-microdose-followup-002",
+        "Q-fitish-microdose-followup-003",
+        "Q-fitish-wellness-ghk-1m",
+        "Q-fitish-wellness-ghk-3m",
+        "Q-fitish-wellness-ghk-6m",
+        "Q-fitish-wellness-nad-1m",
+        "Q-fitish-wellness-nad-3m",
+        "Q-fitish-wellness-nad-6m",
+        "ageless-compounded-semaglutide-1m-post-questionnaire-20261020",
+        "ageless-compounded-semaglutide-2m-post-questionnaire-20261020",
+        "ageless-compounded-semaglutide-4m-post-questionnaire-20261020",
+        "ageless-compounded-tirzepatide-monthly-post-questionnaire-20261019",
+        "ageless-ghk-cream-05-monthly-post-questionnaire-20261019",
+        "ageless-gsh-injection-1m-post-questionnaire-20261019",
+        "ageless-gsh-injection-3m-post-questionnaire-20261019",
+        "ageless-nad-nasal-monthly-post-questionnaire-20261019",
+        "ageless-pt141-monthly-post-questionnaire-20261019",
+        "ageless-tirz-micro-trial-post-questionnaire-20261019",
+        "amble-glutathione-new-research-1m-20261019",
+        "amble-glutathione-new-research-3m-20261019",
+        "amble-glutathione-new-research-6m-20261019",
+        "amble-semaglutide-new-research-1m-20261019",
+        "amble-semaglutide-new-research-3m-20261019",
+        "amble-semaglutide-new-research-6m-20261019",
+        "amble-tirzepatide-new-research-1m-20261019",
+        "amble-tirzepatide-new-research-3m-20261019",
+        "amble-tirzepatide-new-research-6m-20261019",
+        "arbor-glutathione-resumed-12m-post-questionnaire-20261019",
+        "arbor-glutathione-resumed-1m-post-questionnaire-20261019",
+        "arbor-glutathione-resumed-3m-post-questionnaire-20261019",
+        "arbor-glutathione-resumed-6m-post-questionnaire-20261019",
+        "arbor-semaglutide-1-month-post-questionnaire-20261019",
+        "arbor-semaglutide-12-month-post-questionnaire-20261019",
+        "arbor-semaglutide-3-month-post-questionnaire-20261019",
+        "arbor-semaglutide-6-month-post-questionnaire-20261019",
+        "arbor-tirzepatide-12-month-post-questionnaire-20261019",
+        "arbor-tirzepatide-3-month-post-questionnaire-20261019",
+        "arbor-tirzepatide-6-month-post-questionnaire-20261019",
+        "arbor-tirzepatide-injection-1-month-post-questionnaire-20261019",
+        "effecty-glutathione-12m-fresh-research-20261020",
+        "effecty-glutathione-1m-fresh-research-20261020",
+        "effecty-glutathione-3m-fresh-research-20261020",
+        "effecty-glutathione-6m-fresh-research-20261020",
+        "effecty-round2-semaglutide-12m-post-questionnaire-20261019",
+        "effecty-round2-semaglutide-1m-post-questionnaire-20261019",
+        "effecty-round2-semaglutide-3m-post-questionnaire-20261019",
+        "effecty-round2-semaglutide-6m-post-questionnaire-20261019",
+        "effecty-round2-tirzepatide-12m-post-questionnaire-20261019",
+        "effecty-round2-tirzepatide-1m-post-questionnaire-20261019",
+        "effecty-round2-tirzepatide-3m-post-questionnaire-20261019",
+        "effecty-round2-tirzepatide-6m-post-questionnaire-20261019",
+        "goodlife-glutathione-monthly-new-research-20261019",
+        "goodlife-glutathione-one-time-new-research-20261019",
+        "goodlife-glutathione-quarterly-new-research-20261019",
+        "goodlife-nad-nasal-monthly-new-research-20261019",
+        "goodlife-tirzepatide-microdose-12w-new-research-20261019",
+        "goodlife-tirzepatide-microdose-4w-new-research-20261019",
+        "goodlife-tirzepatide-new-research-4w-20261019",
+        "goodlife-tirzepatide-new-research-8w-20261019",
+        "lovely-glutathione-injection-12m-research-20261020",
+        "lovely-glutathione-injection-1m-research-20261020",
+        "lovely-glutathione-injection-3m-research-20261020",
+        "lovely-glutathione-injection-6m-research-20261020",
+        "lovely-nad-nasal-15ml-12m-research-20261020",
+        "lovely-nad-nasal-15ml-1m-research-20261020",
+        "lovely-nad-nasal-15ml-3m-research-20261020",
+        "lovely-nad-nasal-15ml-6m-research-20261020",
+        "lovely-semaglutide-injection-12m-research-20261020",
+        "lovely-semaglutide-injection-1m-research-20261020",
+        "lovely-semaglutide-injection-3m-research-20261020",
+        "lovely-semaglutide-injection-6m-research-20261020",
+        "lovely-tirzepatide-injection-12m-research-20261020",
+        "lovely-tirzepatide-injection-1m-research-20261020",
+        "lovely-tirzepatide-injection-3m-research-20261020",
+        "lovely-tirzepatide-injection-6m-research-20261020",
+        "lovely-tirzepatide-sublingual-drops-1m-research-20261020",
+        "lovely-tirzepatide-sublingual-drops-3m-research-20261020",
+        "readyrx-glutathione-injection-1-month-post-questionnaire-20261019",
+        "readyrx-glutathione-injection-3-month-post-questionnaire-20261019",
+        "readyrx-glutathione-nasal-1-month-post-questionnaire-20261019",
+        "readyrx-glutathione-nasal-3-month-post-questionnaire-20261019",
+        "readyrx-nad-nasal-1-month-post-questionnaire-20261019",
+        "readyrx-nad-nasal-3-month-post-questionnaire-20261019",
+        "readyrx-semaglutide-1-month-post-questionnaire-20261019",
+        "readyrx-semaglutide-3-month-post-questionnaire-20261019",
+        "readyrx-semaglutide-6-month-post-questionnaire-20261019",
+        "readyrx-tirzepatide-1-month-post-questionnaire-20261019",
+        "readyrx-tirzepatide-3-month-post-questionnaire-20261019",
+        "readyrx-tirzepatide-6-month-post-questionnaire-20261019"
+      ],
+      "source_tables": [
+        "data/quote-detail.csv",
+        "data/public-baseline.csv"
+      ]
+    },
+    {
+      "finding_id": "F02",
+      "as_of": "2026-10-20",
+      "text": "Pretty Girls Peptide’s publisher-configured Semaglutide Plan (injection) records a $175 total for the one-month billing interval; checkout renewal was not independently observed.",
+      "observation_ids": [
+        "B-pgp-config-plan3357-variant20308-20261019"
+      ],
+      "source_tables": [
+        "data/publisher-configured-benchmark.csv"
+      ],
+      "collection_basis": "owner_verified_configured_benchmark",
+      "provider": "Pretty Girls Peptide",
+      "product": "Semaglutide Plan",
+      "term_months": 1,
+      "total_usd": 175.0,
+      "total_basis": "configured_period_charge_usd",
+      "renewal_amount_usd": null,
+      "renewal_status": "not_independently_observed",
+      "source_url": "evidence/pgp-owner-configured-benchmark.json#plan-3357-variant-20308",
+      "source_recorded_on": "2026-10-19"
+    },
+    {
+      "finding_id": "F03",
+      "as_of": "2026-10-20",
+      "text": "Pretty Girls Peptide’s publisher-configured Tirzepatide Plan (injection) records a $597 total for the quarterly (three-month) billing interval; checkout renewal was not independently observed.",
+      "observation_ids": [
+        "B-pgp-config-plan3372-variant20335-20261019"
+      ],
+      "source_tables": [
+        "data/publisher-configured-benchmark.csv"
+      ],
+      "collection_basis": "owner_verified_configured_benchmark",
+      "provider": "Pretty Girls Peptide",
+      "product": "Tirzepatide Plan",
+      "term_months": 3,
+      "total_usd": 597.0,
+      "total_basis": "configured_period_charge_usd",
+      "renewal_amount_usd": null,
+      "renewal_status": "not_independently_observed",
+      "source_url": "evidence/pgp-owner-configured-benchmark.json#plan-3372-variant-20335",
+      "source_recorded_on": "2026-10-19"
+    },
+    {
+      "finding_id": "F04",
+      "as_of": "2026-10-20",
+      "text": "Pretty Girls Peptide’s publisher-configured NAD+ Nasal Spray 300 mg/mL plan records a $525 total for the quarterly (three-month) billing interval; checkout renewal was not independently observed.",
+      "observation_ids": [
+        "B-pgp-config-plan3804-variant22314-20261019"
+      ],
+      "source_tables": [
+        "data/publisher-configured-benchmark.csv"
+      ],
+      "collection_basis": "owner_verified_configured_benchmark",
+      "provider": "Pretty Girls Peptide",
+      "product": "NAD+ Nasal Spray 300mg/mL",
+      "term_months": 3,
+      "total_usd": 525.0,
+      "total_basis": "configured_period_charge_usd",
+      "renewal_amount_usd": null,
+      "renewal_status": "not_independently_observed",
+      "source_url": "evidence/pgp-owner-configured-benchmark.json#plan-3804-variant-22314",
+      "source_recorded_on": "2026-10-19"
+    },
+    {
+      "finding_id": "F05",
+      "as_of": "2026-10-20",
+      "text": "Good Life Meds’ selected one-month-labelled NAD+ nasal spray quote showed a $111.20 total after DW20, compared with $139 before the code; the promotion’s renewal amount was not established.",
+      "observation_ids": [
+        "goodlife-nad-nasal-monthly-new-research-20261019"
+      ],
+      "source_tables": [
+        "data/quote-detail.csv"
+      ],
+      "collection_basis": "post_questionnaire_selected_quote",
+      "provider": "Good Life Meds",
+      "product": "NAD+ Nasal Spray (Monthly)",
+      "term_months": 1,
+      "total_usd": 111.2,
+      "total_basis": "selected_total_usd",
+      "renewal_amount_usd": null,
+      "renewal_status": "not_established",
+      "discount_code": "DW20",
+      "source_url": "https://app.goodlifemeds.com/start-online-visit/nad-nasal-spray",
+      "source_recorded_on": "2026-10-19"
+    },
+    {
+      "finding_id": "F06",
+      "as_of": "2026-10-20",
+      "text": "AgelessRx’s selected monthly compounded tirzepatide quote showed $279 initially with the displayed CTG70 promotion and $349 on monthly renewal.",
+      "observation_ids": [
+        "ageless-compounded-tirzepatide-monthly-post-questionnaire-20261019"
+      ],
+      "source_tables": [
+        "data/quote-detail.csv"
+      ],
+      "collection_basis": "post_questionnaire_selected_quote",
+      "provider": "AgelessRx",
+      "product": "Compounded Tirzepatide + Glycine",
+      "term_months": 1,
+      "total_usd": 279.0,
+      "total_basis": "selected_total_usd",
+      "renewal_amount_usd": 349.0,
+      "renewal_status": "displayed",
+      "discount_code": "CTG70",
+      "source_url": "https://agelessrx.com/treatments/",
+      "source_recorded_on": "2026-10-19"
+    },
+    {
+      "finding_id": "F07",
+      "as_of": "2026-10-20",
+      "text": "Lovely Meds’ selected three-month-labelled tirzepatide injection plan showed a $537 initial total after NEW60, compared with $597 before the code; an exact future renewal total was not itemized.",
+      "observation_ids": [
+        "lovely-tirzepatide-injection-3m-research-20261020"
+      ],
+      "source_tables": [
+        "data/quote-detail.csv"
+      ],
+      "collection_basis": "post_questionnaire_selected_quote",
+      "provider": "Lovely Meds",
+      "product": "Tirzepatide injection plan",
+      "term_months": 3,
+      "total_usd": 537.0,
+      "total_basis": "selected_total_usd",
+      "renewal_amount_usd": null,
+      "renewal_status": "not_established",
+      "discount_code": "NEW60",
+      "source_url": "https://start.lovelymeds.com/start-online-visit/personalised-weight-loss-injections-2025",
+      "source_recorded_on": "2026-10-20"
+    },
+    {
+      "finding_id": "F08",
+      "as_of": "2026-10-20",
+      "text": "AgelessRx’s selected four-month-labelled Personalized Compounded Semaglutide + Glycine injection plan showed an $856 initial total after TSEMA100 and $956 on four-month renewal.",
+      "observation_ids": [
+        "ageless-compounded-semaglutide-4m-post-questionnaire-20261020"
+      ],
+      "source_tables": [
+        "data/quote-detail.csv"
+      ],
+      "collection_basis": "post_questionnaire_selected_quote",
+      "provider": "AgelessRx",
+      "product": "Personalized Compounded Semaglutide + Glycine",
+      "term_months": 4,
+      "total_usd": 856.0,
+      "total_basis": "selected_total_usd",
+      "renewal_amount_usd": 956.0,
+      "renewal_status": "displayed",
+      "discount_code": "TSEMA100",
+      "source_url": "https://agelessrx.com/treatments/",
+      "source_recorded_on": "2026-10-20"
+    }
+  ],
+  "interpretation": "Dated, bounded source comparisons. Unestablished public comparability is not evidence that a price was hidden or unavailable publicly. No clinician approval, completed prescription or actual card charge is established."
+}

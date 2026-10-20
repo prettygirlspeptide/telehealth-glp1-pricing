@@ -1,0 +1,127 @@
+{
+  "columns": [
+    "provider",
+    "plan_name",
+    "medication_type",
+    "medication_name",
+    "membership_fee_monthly_usd",
+    "medication_cost_monthly_usd",
+    "total_effective_monthly_usd",
+    "plan_length_months",
+    "states_served",
+    "pharmacy_named_publicly",
+    "legitscript_certified",
+    "fda_approved_medication",
+    "insurance_accepted",
+    "source_url",
+    "date_collected"
+  ],
+  "definitions": {
+    "provider": "Provider whose plan was observed. PGP is the compiler; it is not inserted as a patient quote without matching evidence.",
+    "plan_name": "Concise selected-term label. Full source description, exact selected total and period qualifications are retained in quote-detail.",
+    "medication_type": "Compounded or Brand when established; null when formulation class is unverified. This is not route.",
+    "medication_name": "Provider medication/product name; no equivalence claim across formulations.",
+    "membership_fee_monthly_usd": "Separately required monthly membership when verified. Unknown is null, never automatically zero.",
+    "medication_cost_monthly_usd": "Quoted medication-plan bundle total divided by source-labelled plan months, rounded to cents. Can include bundled services. Calendar-month duration is not assumed; see quote-detail.",
+    "total_effective_monthly_usd": "Known quoted plan-month medication bundle plus separately required membership, when both are established. Same source-labelled month basis as medication_cost. An explicit whole-program monthly quote can establish this total even when its membership allocation is unknown. Otherwise unknown membership gives null. Final tax/card charge remains unverified.",
+    "plan_length_months": "Source-labelled selected plan months only. Native week/day plans remain null here; exact supply weeks/days and billing cadence remain in detail.",
+    "states_served": "Categorical string: numeric state count from a matched product public claim, or Not verified (product-specific). Provider-wide counts are shown separately in Provider checks and must not imply every treatment ships everywhere. Typed counts/null remain in quote-detail.",
+    "pharmacy_named_publicly": "Categorical string: Yes with actual publicly named provider-network partners, No only if established, or Not established in reviewed sources. A public network name does not identify the pharmacy assigned to a selected prescription.",
+    "legitscript_certified": "Yes/No only for a current independent verification result; otherwise Not independently verified. Provider self-claims are separate. An inaccessible directory is not a negative result.",
+    "fda_approved_medication": "Yes/No for the specific finished formulation, otherwise Not verified. Verified compounded drugs are No; named brand approval requires product-specific evidence. Typed boolean/null and sources remain in quote-detail and product-metadata.",
+    "insurance_accepted": "Yes/No/Not verified for whether insurance applies to the listed cash quote. This does not state company-wide acceptance, outside reimbursement, local-pharmacy billing or HSA/FSA eligibility; those policy distinctions are preserved separately.",
+    "source_url": "Official session-free price-flow URL; login or intake may be required. Screenshots support otherwise nonpublic prices.",
+    "date_collected": "Actual price-observation date; background metadata has a separate checked-on date. Prior collection times were not invented."
+  },
+  "categorical_metadata_columns": [
+    "states_served",
+    "pharmacy_named_publicly",
+    "legitscript_certified",
+    "fda_approved_medication",
+    "insurance_accepted"
+  ],
+  "metadata_representation": "Cora-compatible categorical strings with explicit unknown markers; original typed boolean/count/null facts, field-level status/reason/source IDs and separate checked-on dates are preserved in quote-detail and product-metadata.",
+  "background_metadata_checked_on": "2026-10-20",
+  "release_version": "1.8.0",
+  "combined_view": {
+    "file": "combined_pricing.csv",
+    "rows": 128,
+    "columns": [
+      "provider",
+      "plan_name",
+      "medication_type",
+      "medication_name",
+      "membership_fee_monthly_usd",
+      "medication_cost_monthly_usd",
+      "total_effective_monthly_usd",
+      "plan_length_months",
+      "states_served",
+      "pharmacy_named_publicly",
+      "legitscript_certified",
+      "fda_approved_medication",
+      "insurance_accepted",
+      "source_url",
+      "date_collected",
+      "collection_basis"
+    ],
+    "collection_basis_values": [
+      "post_questionnaire_selected_quote",
+      "owner_verified_configured_benchmark"
+    ],
+    "pgp_mapping": {
+      "medication_cost_monthly_usd": "configured_period_charge_usd divided by billing_interval_months",
+      "total_effective_monthly_usd": "same configured plan-bundle monthly rate, not a verified final charge",
+      "membership_fee_monthly_usd": "null; no separately identified membership allocation in benchmark",
+      "plan_length_months": "configured billing interval months, not proof of dispensed supply",
+      "source_url": "exact benchmark evidence reference; no invented public product URL"
+    },
+    "evidence_class_warning": "The 96 observed quotes and 32 owner-configured plans are different evidence classes, explicitly labelled per row."
+  },
+  "certification_provenance": "Publisher-confirmed: the publisher read the LegitScript checker directly on 2026-10-20 and confirmed certification. Automated retrieval was bot-gated; this is not represented as an automated directory result.",
+  "default_view": {
+    "config": "default",
+    "file": "combined_pricing.csv",
+    "rows": 128,
+    "columns": [
+      "provider",
+      "plan_name",
+      "medication_type",
+      "medication_name",
+      "membership_fee_monthly_usd",
+      "medication_cost_monthly_usd",
+      "total_effective_monthly_usd",
+      "plan_length_months",
+      "states_served",
+      "pharmacy_named_publicly",
+      "legitscript_certified",
+      "fda_approved_medication",
+      "insurance_accepted",
+      "source_url",
+      "date_collected",
+      "collection_basis"
+    ],
+    "definition": "combined_view"
+  },
+  "observed_quotes_only": {
+    "config": "observed_quotes_only",
+    "file": "pricing.csv",
+    "rows": 96,
+    "columns": [
+      "provider",
+      "plan_name",
+      "medication_type",
+      "medication_name",
+      "membership_fee_monthly_usd",
+      "medication_cost_monthly_usd",
+      "total_effective_monthly_usd",
+      "plan_length_months",
+      "states_served",
+      "pharmacy_named_publicly",
+      "legitscript_certified",
+      "fda_approved_medication",
+      "insurance_accepted",
+      "source_url",
+      "date_collected"
+    ]
+  }
+}

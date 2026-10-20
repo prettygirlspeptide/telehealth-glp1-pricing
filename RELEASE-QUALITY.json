@@ -1,0 +1,79 @@
+{
+  "result": "PASS",
+  "release_version": "1.8.0",
+  "previous_release": "1.7.3",
+  "checked_on": "2026-10-20",
+  "primary_rows": 96,
+  "benchmark_rows": 32,
+  "combined_rows": 128,
+  "default_rows": 128,
+  "default_columns": 16,
+  "primary_cell_changes": 0,
+  "primary_economic_changes": 0,
+  "all_observed_prices_terms_dates_source_urls_ids_unchanged": true,
+  "all_csv_jsonl_parquet_and_evidence_bytes_unchanged": true,
+  "collection_basis_values_and_all_128_rows_unchanged": true,
+  "no_duplicate_rows": true,
+  "default_loads_without_config_argument": true,
+  "yaml_default_loads_only": "combined_pricing.csv",
+  "yaml_configs": [
+    "default",
+    "observed_quotes_only",
+    "primary_parquet",
+    "quote_detail",
+    "publisher_benchmark",
+    "public_price_references",
+    "combined_all_providers"
+  ],
+  "official_datasets_loader_local_validation": {
+    "default": {
+      "rows": 128,
+      "columns": 16,
+      "result": "PASS"
+    },
+    "observed_quotes_only": {
+      "rows": 96,
+      "columns": 15,
+      "result": "PASS"
+    },
+    "primary_parquet": {
+      "rows": 96,
+      "columns": 15,
+      "result": "PASS"
+    },
+    "quote_detail": {
+      "rows": 96,
+      "columns": 91,
+      "result": "PASS"
+    },
+    "publisher_benchmark": {
+      "rows": 32,
+      "columns": 13,
+      "result": "PASS"
+    },
+    "public_price_references": {
+      "rows": 59,
+      "columns": 18,
+      "result": "PASS"
+    },
+    "combined_all_providers": {
+      "rows": 128,
+      "columns": 16,
+      "result": "PASS"
+    }
+  },
+  "finding_count": 8,
+  "price_finding_count": 7,
+  "pgp_price_finding_count": 3,
+  "F01_unchanged": true,
+  "price_facts_reconciled_to_source_rows": true,
+  "pgp_highlight_rows": [
+    "B-pgp-config-plan3357-variant20308-20261019",
+    "B-pgp-config-plan3372-variant20334-20261019",
+    "B-pgp-config-plan3372-variant20335-20261019",
+    "B-pgp-config-plan3804-variant22314-20261019"
+  ],
+  "license": "cc-by-4.0",
+  "doi_status": "on_hold_by_publisher",
+  "scope": "Versioned default-config and documentation release. Hosted rendering is checked separately; local official-loader success does not assert hosted viewer success."
+}

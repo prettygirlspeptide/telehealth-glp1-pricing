@@ -1,0 +1,22 @@
+{
+  "reviewed_on": "2026-10-20",
+  "primary_rows": 96,
+  "new_primary_quotes": 18,
+  "selected_amount_mismatches": 0,
+  "screenshot_review_rows": 96,
+  "public_baseline_rows_added": 42,
+  "public_baseline_primary_coverage": 96,
+  "metadata_cells_reviewed": 480,
+  "metadata_value_changes": 0,
+  "remaining_unknowns": {
+    "product_state_count": 90,
+    "publicly_named_pharmacy": 78,
+    "specific_formulation_fda_status": 4
+  },
+  "native_week_plan_month_blanks": 4,
+  "insurance_quote_fields_resolved": 96,
+  "intake_access": "Eighteen Lovely selected quotes captured in five categories, including two actual sublingual drops options after the specifically approved oral precaution. Effecty personal-account login pending; no microdose-specific selected Lovely SKU verified. No final clinician submission, order or payment.",
+  "publication_status": "local_unpublished",
+  "original_quote_economics_preserved": true,
+  "background_product_field_changes": 1
+}

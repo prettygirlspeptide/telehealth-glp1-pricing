@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: Please cite Pretty Girls Peptide as the compiler and identify the dated dataset
+  version. Third-party provider interface images retain their respective rights.
+title: Telehealth GLP-1 and Wellness Pricing Comparison — October 2026
+authors:
+- name: Pretty Girls Peptide
+version: 1.8.0
+date-released: '2026-10-20'
+license: CC-BY-4.0
+url: https://huggingface.co/datasets/prettygirlspeptide/telehealth-glp1-pricing
+repository-code: https://huggingface.co/datasets/prettygirlspeptide/telehealth-glp1-pricing

@@ -1,0 +1,33 @@
+{
+  "result": "PASS",
+  "dataset_version": "1.7.0-research-in-progress",
+  "background_providers_checked": 9,
+  "background_product_records": 77,
+  "background_source_records": 101,
+  "support_file_hash_and_signature_checks": 109,
+  "quote_file_hash_and_signature_checks": 317,
+  "comparison_observation_links_checked": 96,
+  "primary_rows": 96,
+  "primary_provider_counts": {
+    "AgelessRx": 10,
+    "Amble": 9,
+    "Arbor": 12,
+    "Effecty": 12,
+    "Fitish": 15,
+    "Good Life Meds": 8,
+    "Lovely Meds": 18,
+    "ReadyRx": 12
+  },
+  "other_stage_rows": 33,
+  "owner_configured_benchmark_rows": 32,
+  "coverage_cells": 72,
+  "requested_categories_with_primary_quotes": 8,
+  "requested_categories_tracked": 8,
+  "remaining_brand_category_cells": 38,
+  "quote_evidence_files": 317,
+  "quote_screenshot_files": 196,
+  "support_evidence_files": 109,
+  "package_scope": "9 brands audited across 8 categories; qualifying selected post-health-questionnaire plan observations from 8 brands; current coverage limits and historical captures are distinct",
+  "publication_status": "local_unpublished",
+  "historical_report_scope": "Underlying 1.7.0 research validation, retained as historical evidence. Publication packaging 1.7.1 checks are in RELEASE-QUALITY.json."
+}

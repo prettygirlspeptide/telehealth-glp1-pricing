@@ -1,0 +1,25 @@
+{
+  "result": "PASS",
+  "checks": 7312,
+  "primary_rows": 96,
+  "primary_providers": {
+    "AgelessRx": 10,
+    "Amble": 9,
+    "Arbor": 12,
+    "Effecty": 12,
+    "Fitish": 15,
+    "Good Life Meds": 8,
+    "Lovely Meds": 18,
+    "ReadyRx": 12
+  },
+  "other_observed_stage_rows": 33,
+  "coverage_cells": 72,
+  "evidence_files": 317,
+  "schema_columns": 15,
+  "xlsx_crc": true,
+  "xlsx_data_and_formula_caches_verified": true,
+  "pii_text_scan": true,
+  "image_privacy_review": "Collector visual reviews; screenshots are not automatically OCR-certified",
+  "full_nine_brand_study_complete": false,
+  "publication_status": "local_unpublished"
+}

@@ -1,0 +1,40 @@
+{
+  "source_url": "https://huggingface.co/datasets/cora-health/telehealth-glp1-pricing",
+  "checked": "2026-10-19",
+  "visible_rows": 58,
+  "method": "Visible accessibility field labels in viewer order",
+  "headers": [
+    "provider",
+    "plan_name",
+    "medication_type",
+    "medication_name",
+    "membership_fee_monthly_usd",
+    "medication_cost_monthly_usd",
+    "total_effective_monthly_usd",
+    "plan_length_months",
+    "states_served",
+    "pharmacy_named_publicly",
+    "legitscript_certified",
+    "fda_approved_medication",
+    "insurance_accepted",
+    "source_url",
+    "date_collected"
+  ],
+  "exact_match": true,
+  "our_primary_rows": 96,
+  "primary_values_source": "Original PGP observations only",
+  "dataset_card_sections": [
+    "Dataset summary",
+    "Why this dataset exists",
+    "Schema",
+    "Important pharmacological and regulatory context",
+    "Methodology",
+    "Coverage limitations",
+    "LegitScript verification status",
+    "Comparison highlights (October 2026 snapshot)",
+    "Changelog",
+    "License",
+    "Maintenance",
+    "Publisher"
+  ]
+}
