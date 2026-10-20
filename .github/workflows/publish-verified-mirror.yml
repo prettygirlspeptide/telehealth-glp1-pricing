@@ -1,0 +1,81 @@
+name: Publish verified v1.8.0 mirror
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: publish-verified-v180
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify, import and publish the unchanged release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path, PurePosixPath
+          from collections import Counter
+          import csv
+          import hashlib
+          import io
+          import json
+          import subprocess
+          import zipfile
+
+          archive = Path('PGP-telehealth-glp1-pricing-v1.8.0.zip')
+          assert hashlib.sha256(archive.read_bytes()).hexdigest() == '6b9ad14b22dae26047d38e5d3f18a3637caa5befed11191b83ad740af200f00f'
+          with zipfile.ZipFile(archive) as z:
+              names = z.namelist()
+              assert len(names) == 483 and len(set(names)) == 483
+              assert all(n.startswith('telehealth-glp1-pricing/') for n in names)
+              files = {n.removeprefix('telehealth-glp1-pricing/'): z.read(n) for n in names}
+          assert hashlib.sha256(files['SHA256SUMS.txt']).hexdigest() == '49acc8448016744f2bccb4d5ca08717a558fdf2c2e119bfafea7ff5989ef0ad2'
+          expected = {}
+          for line in files['SHA256SUMS.txt'].decode('utf-8').splitlines():
+              digest, name = line.split('  ', 1)
+              expected[name] = digest
+          assert set(files) == set(expected) | {'SHA256SUMS.txt'}
+          for name, contents in files.items():
+              path = PurePosixPath(name)
+              assert not path.is_absolute() and '..' not in path.parts
+              if name in expected:
+                  assert hashlib.sha256(contents).hexdigest() == expected[name], name
+          def rows(name):
+              return list(csv.DictReader(io.StringIO(files[name].decode('utf-8-sig'))))
+          combined = rows('combined_pricing.csv')
+          observed = rows('pricing.csv')
+          benchmark = rows('data/publisher-configured-benchmark.csv')
+          assert (len(combined), len(observed), len(benchmark)) == (128, 96, 32)
+          assert Counter(r['collection_basis'] for r in combined) == {'post_questionnaire_selected_quote': 96, 'owner_verified_configured_benchmark': 32}
+          assert json.loads(files['RELEASE.json'])['version'] == '1.8.0'
+          for name, contents in files.items():
+              destination = Path(name)
+              destination.parent.mkdir(parents=True, exist_ok=True)
+              destination.write_bytes(contents)
+          Path('.gitattributes').write_bytes(b'* -text\n')
+          print(json.dumps({'release': '1.8.0', 'identical_release_files': len(files), 'combined': 128, 'observed': 96, 'benchmark': 32, 'collection_basis_preserved': True}))
+          def run(*args, **kwargs):
+              return subprocess.run(args, check=True, **kwargs)
+          run('git', 'config', 'user.name', 'github-actions[bot]')
+          run('git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com')
+          run('git', 'add', '--all')
+          changed = subprocess.run(['git', 'diff', '--cached', '--quiet']).returncode
+          assert changed in (0, 1)
+          if changed:
+              run('git', 'commit', '-m', 'Publish all 483 unchanged v1.8.0 release files')
+              run('git', 'push', 'origin', 'HEAD:main')
+          existing = subprocess.check_output(['git', 'ls-remote', '--tags', 'origin', 'refs/tags/v1.8.0'], text=True)
+          if not existing.strip():
+              run('git', 'tag', '-a', 'v1.8.0', '-m', 'Verified byte-identical Pretty Girls Peptide v1.8.0 dataset')
+              run('git', 'push', 'origin', 'refs/tags/v1.8.0')
+          release = subprocess.run(['gh', 'release', 'view', 'v1.8.0'], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+          if release.returncode:
+              run('gh', 'release', 'create', 'v1.8.0', str(archive), '--verify-tag', '--title', 'Telehealth GLP-1 and Wellness Pricing — v1.8.0', '--notes', 'Byte-identical mirror of the Pretty Girls Peptide v1.8.0 source release: 483 release files; 128 combined records, 96 observed competitor quotes and 32 publisher-configured offers. Collection-basis labels, prices, terms, dates, observation IDs, methods, citation and CC BY 4.0 license are unchanged. Third-party evidence retains its rights. Source: https://huggingface.co/datasets/prettygirlspeptide/telehealth-glp1-pricing/tree/v1.8.0')
+          PY
