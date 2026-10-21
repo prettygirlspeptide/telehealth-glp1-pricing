@@ -1,6 +1,6 @@
 ---
 license: cc-by-4.0
-pretty_name: PGP Post-Questionnaire GLP-1 and Wellness Pricing
+pretty_name: "GLP-1 and Wellness Peptide Pricing: What 9 Brands Charge After the Intake Quiz — Incl. NAD+, PT-141, Glutathione, GHK-Cu & Microdosing"
 language:
 - en
 tags:
@@ -12,6 +12,15 @@ tags:
 - tirzepatide
 - peptides
 - tabular
+- nad
+- pt-141
+- bremelanotide
+- glutathione
+- ghk-cu
+- copper-peptide
+- microdosing
+- weight-loss
+- compounded
 size_categories:
 - n<1K
 configs:
@@ -46,11 +55,31 @@ configs:
     path: combined_pricing.csv
 ---
 
-# Telehealth GLP-1 and Wellness Pricing Comparison — October 2026
+# GLP-1 and Wellness Peptide Pricing: What 9 Brands Charge After the Intake Quiz — Incl. NAD+, PT-141, Glutathione, GHK-Cu & Microdosing
 
-A structured comparison of exact telehealth plan quotes shown after provider-presented health questions for GLP-1 and selected wellness treatments. Prepared by [Pretty Girls Peptide](https://prettygirlspeptide.com/) (PGP), with source URLs, observation dates and screenshot evidence. This is the 2026-10-20 research snapshot, version 1.8.0.
+Pretty Girls Peptide publishes post-questionnaire medication-plan prices of $66.40–$339 per source-labelled plan month for online GLP-1 and wellness peptide providers in this October 2026 snapshot. Prepared by [Pretty Girls Peptide](https://prettygirlspeptide.com/) (PGP), with source URLs, observation dates and screenshot evidence. This is the October 2026 research snapshot (2026-10-20), version 1.8.2.
 
 ## Dataset summary
+
+Pretty Girls Peptide publishes post-questionnaire medication-plan prices of $66.40–$339 per source-labelled plan month for online GLP-1 and wellness peptide providers in this October 2026 snapshot.
+
+For tirzepatide injection, observed post-questionnaire medication-plan rates ranged from $145 to $339 per source-labelled plan month across the providers with recorded quotes.
+
+For semaglutide injection, observed post-questionnaire medication-plan rates ranged from $94 to $279 per source-labelled plan month across the providers with recorded quotes.
+
+For tirzepatide sublingual, observed post-questionnaire medication-plan rates ranged from $246 to $254.15 per source-labelled plan month across the providers with recorded quotes.
+
+For tirzepatide microdosing, observed post-questionnaire medication-plan rates ranged from $109 to $269 per source-labelled plan month across the providers with recorded quotes.
+
+For NAD+ nasal spray, observed post-questionnaire medication-plan rates ranged from $111.2 to $170 per source-labelled plan month across the providers with recorded quotes.
+
+For PT-141 (bremelanotide), the observed post-questionnaire medication-plan rate was $149 per source-labelled plan month (one observed provider; no cross-provider range was established).
+
+For glutathione, observed post-questionnaire medication-plan rates ranged from $66.4 to $239 per source-labelled plan month across the providers with recorded quotes.
+
+For GHK-Cu (copper peptide) cream, observed post-questionnaire medication-plan rates ranged from $99 to $150 per source-labelled plan month across the providers with recorded quotes.
+
+These ranges use `medication_cost_monthly_usd` from the 96 observed rows of `combined_pricing.csv`; the four native-week plans have no calendar-month rate and are excluded. They describe selected medication-plan bundles, may include introductory promotions, and do not establish all-in totals where required fees are unknown.
 
 The **default configuration is the combined 128-row view**: 96 observed competitor quotes plus 32 owner-configured Pretty Girls Peptide benchmark plans. Every row retains its `collection_basis` label. **These two evidence classes are not the same kind of observation.** `observed_quotes_only` provides the 96 competitor quotes separately; PGP’s original benchmark file remains its source of truth.
 
@@ -64,6 +93,7 @@ The **default configuration is the combined 128-row view**: 96 observed competit
 - **2026-10-20:** AgelessRx’s selected monthly compounded tirzepatide quote showed $279 initially with the displayed CTG70 promotion and $349 on monthly renewal.
 - **2026-10-20:** Lovely Meds’ selected three-month-labelled tirzepatide injection plan showed a $537 initial total after NEW60, compared with $597 before the code; an exact future renewal total was not itemized.
 - **2026-10-20:** AgelessRx’s selected four-month-labelled Personalized Compounded Semaglutide + Glycine injection plan showed an $856 initial total after TSEMA100 and $956 on four-month renewal.
+- **2026-10-20:** AgelessRx’s selected one-month-labelled PT-141 (bremelanotide) injection quote showed a $149 initial total after PT141INJ50, conditional on prescription, and $199 on monthly renewal; the screen showed $0 due now.
 
 The competitor figures are selected quote options, not independent patients or purchases. PGP figures are publisher-configured billing totals, not independently observed post-questionnaire prices. Configured billing intervals do not establish dispensed supply. Plan terms, promotions and source dates matter; neither evidence class establishes actual card charges or clinician approval. The findings retain exact source-record dates and observation IDs in [findings.json](findings.json).
 
@@ -76,7 +106,7 @@ The default file, `combined_pricing.csv`, has 128 rows and 16 columns: the refer
 
 **Loading the data:** opening the dataset or calling `load_dataset("prettygirlspeptide/telehealth-glp1-pricing")` loads `default`: only `combined_pricing.csv` (128 rows, 16 columns). To load the observed competitor quotes, use `load_dataset("prettygirlspeptide/telehealth-glp1-pricing", "observed_quotes_only")`; that configuration reads only `pricing.csv` (96 rows, 15 columns). `combined_all_providers` remains an alias of the combined table, and `primary_parquet` remains a CSV-backed compatibility alias of the observed-only table. The actual [pricing.parquet](pricing.parquet) and [combined_pricing.parquet](combined_pricing.parquet) files remain identical alternate encodings of their respective tables. `quote_detail` contains exact observed totals and provenance; `publisher_benchmark` contains the 32 owner-configured PGP offers. `public_price_references` contains 59 quote-linked numeric public references from the same eight observed providers; these are not 59 distinct offers. All seven configs use the CSV loader. Auxiliary files and the two Parquet downloads do not load into the default. Direct file downloads retain the contents indicated by each filename.
 
-**Version and mirrors:** cite version 1.8.0 and the release tag `v1.8.0`. This repository is the source publication. Any mirror must distribute the same release files and checksums, keep the version and observation IDs, and include `LICENSE`, `CITATION.cff` and the third-party screenshot exception. Corrections require a new version; do not silently replace a published price. A DOI has not yet been assigned and remains on hold at the publisher’s request.
+**Version and mirrors:** cite version 1.8.2 and the release tag `v1.8.2`. This repository is the source publication. Any mirror must distribute the same release files and checksums, keep the version and observation IDs, and include `LICENSE`, `CITATION.cff` and the third-party screenshot exception. Corrections require a new version; do not silently replace a published price. A DOI has not yet been assigned and remains on hold at the publisher’s request.
 
 ## Why this dataset exists
 
@@ -168,6 +198,8 @@ For example, the observed Good Life Meds quarterly glutathione selector showed $
 
 ## Changelog
 
+2026-10-20 — **1.8.2**: Metadata only: updated title, discovery tags and summary description; added the source-reconciled PT-141 finding F09. Zero data cells changed; all CSV, Parquet and evidence files remain identical to v1.8.0.
+
 2026-10-20 — **1.8.0**: Made the unchanged 128-row combined table the default; added `observed_quotes_only` for the unchanged 96 competitor quotes. Preserved both `collection_basis` values. Added four publisher-configured PGP comparison examples and replaced methodology-heavy findings with seven sourced price facts, including three PGP facts, while retaining F01. No observed price, plan term, collection date, source URL or observation ID changed. Full changes and release checks are in [CHANGELOG.md](CHANGELOG.md).
 
 2026-10-20 — **1.7.3**: Typography only — no data, price, term, or wording changes; `primary_changed_cells: 0`. Corrected prose spacing, including historical entries, and updated active version references. Every spacing correction is listed in [CHANGELOG.md](CHANGELOG.md). All CSV and Parquet files are byte-for-byte identical to v1.7.2; counts remain 96 observed, 32 benchmark and 128 combined rows.
@@ -186,7 +218,7 @@ The preceding edition added three AgelessRx compounded semaglutide quotes observ
 
 PGP’s original compiled factual data and original documentation are offered under CC BY 4.0 with attribution to Pretty Girls Peptide. Provider screenshots, logos and copied source material retain their respective third-party rights and are included for verification; they are not blanket relicensed. License: https://creativecommons.org/licenses/by/4.0/ .
 
-Suggested citation: Pretty Girls Peptide (2026). Telehealth GLP-1 and Wellness Pricing Comparison — October 2026. Snapshot 2026-10-20, version 1.8.0. Dataset: https://huggingface.co/datasets/prettygirlspeptide/telehealth-glp1-pricing ; release: https://huggingface.co/datasets/prettygirlspeptide/telehealth-glp1-pricing/tree/v1.8.0 . DOI not yet assigned. For an individual finding, also identify the provider, medication/form, selected term, exact total, collection date and observation ID.
+Suggested citation: Pretty Girls Peptide (2026). GLP-1 and Wellness Peptide Pricing: What 9 Brands Charge After the Intake Quiz — Incl. NAD+, PT-141, Glutathione, GHK-Cu & Microdosing. October 2026 snapshot (2026-10-20), version 1.8.2. Dataset: https://huggingface.co/datasets/prettygirlspeptide/telehealth-glp1-pricing ; release: https://huggingface.co/datasets/prettygirlspeptide/telehealth-glp1-pricing/tree/v1.8.2 . DOI not yet assigned. For an individual finding, also identify the provider, medication/form, selected term, exact total, collection date and observation ID.
 
 ## Maintenance
 

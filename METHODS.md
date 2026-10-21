@@ -82,7 +82,7 @@ Original compiled factual data and original documentation: CC BY 4.0 with PGP at
 
 ## Citation
 
-Pretty Girls Peptide. Telehealth GLP-1 and Wellness Pricing Comparison — October 2026. Snapshot through October 20, 2026, version 1.8.0. Dataset: https://huggingface.co/datasets/prettygirlspeptide/telehealth-glp1-pricing ; version-pinned release: https://huggingface.co/datasets/prettygirlspeptide/telehealth-glp1-pricing/tree/v1.8.0 . DOI generation remains on hold.
+Pretty Girls Peptide. Telehealth GLP-1 and Wellness Pricing Comparison — October 2026. Snapshot through October 20, 2026, version 1.8.2. Dataset: https://huggingface.co/datasets/prettygirlspeptide/telehealth-glp1-pricing ; version-pinned release: https://huggingface.co/datasets/prettygirlspeptide/telehealth-glp1-pricing/tree/v1.8.2 . DOI generation remains on hold.
 
 ## Corrections and maintenance
 

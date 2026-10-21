@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.2",
   "as_of": "2026-10-20",
   "publisher": "Pretty Girls Peptide",
   "population": "128 labelled rows: 96 observed competitor quote options and 32 owner-configured Pretty Girls Peptide offers; these evidence classes are not the same kind of observation",
@@ -261,6 +261,28 @@
       "discount_code": "TSEMA100",
       "source_url": "https://agelessrx.com/treatments/",
       "source_recorded_on": "2026-10-20"
+    },
+    {
+      "finding_id": "F09",
+      "as_of": "2026-10-20",
+      "text": "AgelessRx’s selected one-month-labelled PT-141 (bremelanotide) injection quote showed a $149 initial total after PT141INJ50, conditional on prescription, and $199 on monthly renewal; the screen showed $0 due now.",
+      "observation_ids": [
+        "ageless-pt141-monthly-post-questionnaire-20261019"
+      ],
+      "source_tables": [
+        "data/quote-detail.csv"
+      ],
+      "collection_basis": "post_questionnaire_selected_quote",
+      "provider": "AgelessRx",
+      "product": "PT-141 Injections",
+      "term_months": 1,
+      "total_usd": 149.0,
+      "total_basis": "selected_total_usd",
+      "renewal_amount_usd": 199.0,
+      "renewal_status": "displayed",
+      "discount_code": "PT141INJ50",
+      "source_url": "https://agelessrx.com/pt-141-injection/",
+      "source_recorded_on": "2026-10-19"
     }
   ],
   "interpretation": "Dated, bounded source comparisons. Unestablished public comparability is not evidence that a price was hidden or unavailable publicly. No clinician approval, completed prescription or actual card charge is established."

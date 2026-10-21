@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
-  "release_tag": "v1.8.0",
+  "version": "1.8.2",
+  "release_tag": "v1.8.2",
   "date": "2026-10-20",
   "publisher": "Pretty Girls Peptide",
   "canonical_repository": "https://huggingface.co/datasets/prettygirlspeptide/telehealth-glp1-pricing",
@@ -27,7 +27,7 @@
   "public_reference_granularity": "quote-linked references, not independent offers",
   "phase_2_breadth": "The default combined view contains the same 96 observed competitor quotes plus 32 owner-configured PGP offers with collection_basis preserved. No new observed competitor/provider coverage is claimed.",
   "mirror_policy": "Publish identical versioned repository files. Retain license, exception, citation and SHA256SUMS. Corrections or changed files require a new release version. Maintain platform-specific URLs outside the immutable release payload.",
-  "previous_release": "1.7.3",
+  "previous_release": "1.8.0",
   "primary_changed_cells": 0,
   "primary_economic_changes": 0,
   "combined_rows": 128,

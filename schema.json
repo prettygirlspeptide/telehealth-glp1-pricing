@@ -42,7 +42,7 @@
   ],
   "metadata_representation": "Cora-compatible categorical strings with explicit unknown markers; original typed boolean/count/null facts, field-level status/reason/source IDs and separate checked-on dates are preserved in quote-detail and product-metadata.",
   "background_metadata_checked_on": "2026-10-20",
-  "release_version": "1.8.0",
+  "release_version": "1.8.2",
   "combined_view": {
     "file": "combined_pricing.csv",
     "rows": 128,

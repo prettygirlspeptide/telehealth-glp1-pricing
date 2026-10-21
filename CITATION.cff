@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: Please cite Pretty Girls Peptide as the compiler and identify the dated dataset
   version. Third-party provider interface images retain their respective rights.
-title: Telehealth GLP-1 and Wellness Pricing Comparison — October 2026
+title: "GLP-1 and Wellness Peptide Pricing: What 9 Brands Charge After the Intake Quiz — Incl. NAD+, PT-141, Glutathione, GHK-Cu & Microdosing"
 authors:
 - name: Pretty Girls Peptide
-version: 1.8.0
+version: 1.8.2
 date-released: '2026-10-20'
 license: CC-BY-4.0
 url: https://huggingface.co/datasets/prettygirlspeptide/telehealth-glp1-pricing

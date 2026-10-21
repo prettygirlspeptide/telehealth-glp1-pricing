@@ -1,21 +1,72 @@
 {
   "result": "PASS",
-  "release_version": "1.8.0",
-  "previous_release": "1.7.3",
+  "release_version": "1.8.2",
+  "previous_release": "1.8.0",
   "checked_on": "2026-10-20",
   "primary_rows": 96,
   "benchmark_rows": 32,
   "combined_rows": 128,
   "default_rows": 128,
   "default_columns": 16,
+  "primary_changed_cells": 0,
   "primary_cell_changes": 0,
   "primary_economic_changes": 0,
-  "all_observed_prices_terms_dates_source_urls_ids_unchanged": true,
   "all_csv_jsonl_parquet_and_evidence_bytes_unchanged": true,
   "collection_basis_values_and_all_128_rows_unchanged": true,
-  "no_duplicate_rows": true,
-  "default_loads_without_config_argument": true,
-  "yaml_default_loads_only": "combined_pricing.csv",
+  "finding_count": 9,
+  "F01_F08_unchanged": true,
+  "F09_source_observation_id": "ageless-pt141-monthly-post-questionnaire-20261019",
+  "F09_reconciled_total_term_renewal": true,
+  "range_source": "combined_pricing.csv medication_cost_monthly_usd; observed-only collection_basis; category join data/quote-detail.csv primary_csv_row",
+  "range_unit": "USD per source-labelled plan month, medication-plan bundle; not assumed all-in",
+  "native_week_observations_excluded": [
+    "goodlife-tirzepatide-new-research-4w-20261019",
+    "goodlife-tirzepatide-new-research-8w-20261019",
+    "goodlife-tirzepatide-microdose-4w-new-research-20261019",
+    "goodlife-tirzepatide-microdose-12w-new-research-20261019"
+  ],
+  "ranges": {
+    "ghk_cu_cream": {
+      "minimum_usd": 99.0,
+      "maximum_usd": 150.0,
+      "observed_rows": 4
+    },
+    "glutathione": {
+      "minimum_usd": 66.4,
+      "maximum_usd": 239.0,
+      "observed_rows": 24
+    },
+    "nad_plus_nasal": {
+      "minimum_usd": 111.2,
+      "maximum_usd": 170.0,
+      "observed_rows": 11
+    },
+    "pt_141": {
+      "minimum_usd": 149.0,
+      "maximum_usd": 149.0,
+      "observed_rows": 1
+    },
+    "semaglutide_injection": {
+      "minimum_usd": 94.0,
+      "maximum_usd": 279.0,
+      "observed_rows": 24
+    },
+    "tirzepatide_injection": {
+      "minimum_usd": 145.0,
+      "maximum_usd": 339.0,
+      "observed_rows": 22
+    },
+    "tirzepatide_microdose": {
+      "minimum_usd": 109.0,
+      "maximum_usd": 269.0,
+      "observed_rows": 4
+    },
+    "tirzepatide_sublingual": {
+      "minimum_usd": 246.0,
+      "maximum_usd": 254.15,
+      "observed_rows": 2
+    }
+  },
   "yaml_configs": [
     "default",
     "observed_quotes_only",
@@ -25,55 +76,7 @@
     "public_price_references",
     "combined_all_providers"
   ],
-  "official_datasets_loader_local_validation": {
-    "default": {
-      "rows": 128,
-      "columns": 16,
-      "result": "PASS"
-    },
-    "observed_quotes_only": {
-      "rows": 96,
-      "columns": 15,
-      "result": "PASS"
-    },
-    "primary_parquet": {
-      "rows": 96,
-      "columns": 15,
-      "result": "PASS"
-    },
-    "quote_detail": {
-      "rows": 96,
-      "columns": 91,
-      "result": "PASS"
-    },
-    "publisher_benchmark": {
-      "rows": 32,
-      "columns": 13,
-      "result": "PASS"
-    },
-    "public_price_references": {
-      "rows": 59,
-      "columns": 18,
-      "result": "PASS"
-    },
-    "combined_all_providers": {
-      "rows": 128,
-      "columns": 16,
-      "result": "PASS"
-    }
-  },
-  "finding_count": 8,
-  "price_finding_count": 7,
-  "pgp_price_finding_count": 3,
-  "F01_unchanged": true,
-  "price_facts_reconciled_to_source_rows": true,
-  "pgp_highlight_rows": [
-    "B-pgp-config-plan3357-variant20308-20261019",
-    "B-pgp-config-plan3372-variant20334-20261019",
-    "B-pgp-config-plan3372-variant20335-20261019",
-    "B-pgp-config-plan3804-variant22314-20261019"
-  ],
   "license": "cc-by-4.0",
   "doi_status": "on_hold_by_publisher",
-  "scope": "Versioned default-config and documentation release. Hosted rendering is checked separately; local official-loader success does not assert hosted viewer success."
+  "scope": "Metadata-only release. Public mirror verification is recorded outside the release payload."
 }

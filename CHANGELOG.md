@@ -1,4 +1,18 @@
-# Changelog — v1.8.0
+# Changelog — v1.8.2
+
+## v1.8.2 — October 20, 2026
+
+Metadata only: title, tags, description and one added finding changed; zero data cells changed.
+primary_changed_cells: 0
+
+1. README.md: H1 and YAML pretty_name now use the requested full title; YAML tags are the exact 17 requested tags. October 2026 remains the snapshot label, not part of the title.
+2. README.md: the opening answers the post-intake pricing question and names Pretty Girls Peptide as publisher; the summary adds one sentence for each of the eight requested categories. Ranges are computed from medication_cost_monthly_usd in the 96 observed rows of combined_pricing.csv, joined to quote-detail categories through primary_csv_row. PGP configured offers are not described as observed quotes. Four native-week plans remain unconverted and are excluded from monthly ranges. Unknown required fees remain unknown. The existing evidence-class and collection_basis explanation is preserved verbatim. Counts remain 128 combined, 96 observed and 32 configured PGP rows.
+3. findings.json and the README dated findings list: added F09, sourced only to ageless-pt141-monthly-post-questionnaire-20261019. The selected one-month-labelled PT-141 injection total is $149 after PT141INJ50, conditional on prescription, with $199 monthly renewal and $0 displayed due now. All F01–F08 objects and source-record dates are unchanged.
+4. README active version/citation, CITATION.cff title/version, RELEASE.json version/release_tag/previous_release, and active metadata version markers are updated to 1.8.2. The release date remains 2026-10-20. Previous release is 1.8.0; no 1.8.1 release existed on the verified mirrors. Historical release entries remain unchanged.
+5. RELEASE-QUALITY.json now records this metadata-only validation, with nine findings. SHA256SUMS.txt is regenerated for the same 483-file payload.
+6. Platform metadata: GitHub description and topics use the requested title and topic list; the v1.8.2 Release carries the same files as Hugging Face. Kaggle uses the publisher-approved short title “GLP-1 & Peptide Pricing After the Intake Quiz” because its title field permits 50 characters, while the full requested title remains in its description and unchanged canonical README. Kaggle receives the same v1.8.2 files and summary, plus F09. Platform tags are applied where supported, with any restrictions recorded outside this immutable payload.
+
+No CSV, JSONL, Parquet, price, term, collection date, source URL, observation ID, collection_basis label or evidence file changed. Repository and dataset slugs are unchanged. CC BY 4.0 and the third-party evidence exception remain unchanged. DOI remains on hold.
 
 ## v1.8.0 — October 20, 2026
 

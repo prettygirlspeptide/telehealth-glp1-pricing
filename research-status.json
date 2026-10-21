@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.2",
   "collected_on": "2026-10-20",
   "collection_start": "2026-10-19",
   "background_metadata_checked_on": "2026-10-20",
@@ -61,7 +61,7 @@
   "source_research_version": "1.7.0-research-in-progress",
   "public_dataset_url": "https://huggingface.co/datasets/prettygirlspeptide/telehealth-glp1-pricing",
   "doi": null,
-  "previous_release": "1.7.3",
+  "previous_release": "1.8.0",
   "combined_rows": 128,
   "combined_providers": 9,
   "combined_collection_basis_counts": {
